@@ -1,0 +1,801 @@
+﻿data_lancamento,tipo,categoria,subcategoria,descricao,cliente_fornecedor,centro_custo,valor,data_vencimento,data_pagamento,status,conta,ano,mes,mes_nome,trimestre,valor_receita,valor_despesa,resultado,em_aberto,pago_recebido,atrasado,dias_para_pagamento,dias_atraso
+2025-01-01,Despesa,Comercial,Marketing,Publicidade digital,Fornecedor Atlas,Operacional,1494.34,2025-01-11,2025-01-11,Pago,Conta Corrente,2025,1,January,T1,0.0,1494.34,-1494.34,False,True,False,0.0,0
+2025-01-01,Despesa,Impostos,Tributos,Tributos sobre faturamento,Fornecedor Prime,TI,2583.09,2025-02-15,,Em Aberto,Conta Corrente,2025,1,January,T1,0.0,2583.09,-2583.09,True,False,False,,0
+2025-01-01,Despesa,Operacional,Energia,Conta de energia,Fornecedor Central,Comercial,90.91,2025-01-21,,Em Aberto,Conta Investimento,2025,1,January,T1,0.0,90.91,-90.91,True,False,False,,0
+2025-01-01,Receita,Serviços,Assessoria,Assessoria administrativa,Cliente Alpha,Comercial,11972.24,2025-01-31,2025-01-29,Recebido,Conta Digital,2025,1,January,T1,11972.24,0.0,11972.24,False,True,False,-2.0,0
+2025-01-02,Despesa,Administrativa,Material de Escritório,Material de escritório,Fornecedor Beta,Operacional,506.08,2025-02-01,2025-01-31,Pago,Conta Digital,2025,1,January,T1,0.0,506.08,-506.08,False,True,False,-1.0,0
+2025-01-02,Despesa,Financeira,Tarifas Bancárias,Tarifa bancária,Fornecedor Digital,Administrativo,637.45,2025-02-01,,Em Aberto,Conta Digital,2025,1,January,T1,0.0,637.45,-637.45,True,False,False,,0
+2025-01-02,Receita,Outras Receitas,Recuperação de Créditos,Recuperação de valores,Cliente Gama,Comercial,7810.39,2025-02-01,2025-01-29,Recebido,Conta Corrente,2025,1,January,T1,7810.39,0.0,7810.39,False,True,False,-3.0,0
+2025-01-04,Despesa,Operacional,Energia,Conta de energia,Fornecedor Atlas,Administrativo,1509.65,2025-01-19,2025-01-16,Pago,Conta Investimento,2025,1,January,T1,0.0,1509.65,-1509.65,False,True,False,-3.0,0
+2025-01-04,Receita,Serviços,Consultoria,Consultoria estratégica,Cliente Beta,Projetos,5841.48,2025-01-24,,Em Aberto,Conta Corrente,2025,1,January,T1,5841.48,0.0,5841.48,True,False,False,,0
+2025-01-05,Despesa,Administrativa,Serviços Terceirizados,Suporte técnico,Fornecedor Atlas,Comercial,3018.79,2025-01-15,2025-01-13,Pago,Conta Digital,2025,1,January,T1,0.0,3018.79,-3018.79,False,True,False,-2.0,0
+2025-01-05,Despesa,Administrativa,Material de Escritório,Material de escritório,Fornecedor Digital,TI,2525.6,2025-02-04,,Atrasado,Conta Corrente,2025,1,January,T1,0.0,2525.6,-2525.6,True,False,True,,0
+2025-01-05,Despesa,Comercial,Marketing,Material institucional,Fornecedor Beta,Administrativo,205.94,2025-01-25,2025-01-23,Pago,Conta Digital,2025,1,January,T1,0.0,205.94,-205.94,False,True,False,-2.0,0
+2025-01-05,Receita,Serviços,Assessoria,Assessoria mensal,Cliente Delta,Consultoria,17131.37,2025-01-25,2025-01-24,Recebido,Conta Investimento,2025,1,January,T1,17131.37,0.0,17131.37,False,True,False,-1.0,0
+2025-01-06,Despesa,Operacional,Internet,Internet empresarial,Fornecedor Atlas,RH,1748.22,2025-01-11,2025-01-06,Pago,Conta Digital,2025,1,January,T1,0.0,1748.22,-1748.22,False,True,False,-5.0,0
+2025-01-06,Despesa,Operacional,Aluguel,Aluguel do escritório,Fornecedor Central,Financeiro,7386.37,2025-01-16,2025-01-11,Pago,Conta Corrente,2025,1,January,T1,0.0,7386.37,-7386.37,False,True,False,-5.0,0
+2025-01-07,Despesa,Operacional,Aluguel,Aluguel do escritório,Fornecedor Prime,RH,7406.65,2025-03-08,2025-03-08,Pago,Conta Corrente,2025,1,January,T1,0.0,7406.65,-7406.65,False,True,False,0.0,0
+2025-01-08,Receita,Serviços,Consultoria,Consultoria estratégica,Cliente Delta,Consultoria,7143.9,2025-01-18,2025-01-13,Recebido,Conta Corrente,2025,1,January,T1,7143.9,0.0,7143.9,False,True,False,-5.0,0
+2025-01-09,Despesa,Administrativa,Serviços Terceirizados,Serviços contábeis,Fornecedor Prime,Comercial,1215.08,2025-02-08,2025-02-07,Pago,Conta Digital,2025,1,January,T1,0.0,1215.08,-1215.08,False,True,False,-1.0,0
+2025-01-09,Despesa,Impostos,Tributos,Impostos e contribuições,Fornecedor Beta,TI,7502.02,2025-01-19,2025-01-14,Pago,Conta Investimento,2025,1,January,T1,0.0,7502.02,-7502.02,False,True,False,-5.0,0
+2025-01-09,Receita,Serviços,Projetos,Projeto de análise,Cliente Beta,Projetos,3453.49,2025-02-08,2025-02-06,Recebido,Conta Digital,2025,1,January,T1,3453.49,0.0,3453.49,False,True,False,-2.0,0
+2025-01-10,Receita,Outras Receitas,Recuperação de Créditos,Recuperação de valores,Cliente Beta,Comercial,1835.85,2025-01-20,2025-01-19,Recebido,Conta Investimento,2025,1,January,T1,1835.85,0.0,1835.85,False,True,False,-1.0,0
+2025-01-10,Receita,Serviços,Consultoria,Consultoria empresarial,Cliente Delta,Comercial,1967.94,2025-01-15,2025-01-15,Recebido,Conta Corrente,2025,1,January,T1,1967.94,0.0,1967.94,False,True,False,0.0,0
+2025-01-12,Receita,Outras Receitas,Recuperação de Créditos,Recuperação de valores,Cliente Delta,Projetos,2984.52,2025-01-27,2025-01-25,Recebido,Conta Corrente,2025,1,January,T1,2984.52,0.0,2984.52,False,True,False,-2.0,0
+2025-01-12,Receita,Serviços,Projetos,Projeto de análise,Cliente Gama,Projetos,33537.36,2025-01-27,,Cancelado,Conta Corrente,2025,1,January,T1,33537.36,0.0,33537.36,False,False,False,,0
+2025-01-13,Despesa,Comercial,Marketing,Material institucional,Fornecedor Prime,Comercial,693.39,2025-02-12,2025-02-12,Pago,Conta Investimento,2025,1,January,T1,0.0,693.39,-693.39,False,True,False,0.0,0
+2025-01-13,Despesa,Operacional,Internet,Internet empresarial,Fornecedor Prime,Financeiro,3102.23,2025-02-27,2025-02-27,Pago,Conta Digital,2025,1,January,T1,0.0,3102.23,-3102.23,False,True,False,0.0,0
+2025-01-13,Receita,Serviços,Projetos,Projeto de análise,Cliente Ômega,Projetos,4774.07,2025-02-12,,Em Aberto,Conta Corrente,2025,1,January,T1,4774.07,0.0,4774.07,True,False,False,,0
+2025-01-14,Despesa,Comercial,Marketing,Material institucional,Fornecedor Beta,Operacional,448.67,2025-02-03,2025-01-29,Pago,Conta Investimento,2025,1,January,T1,0.0,448.67,-448.67,False,True,False,-5.0,0
+2025-01-14,Despesa,Impostos,Tributos,Impostos e contribuições,Fornecedor Atlas,RH,7248.92,2025-02-13,2025-02-10,Pago,Conta Corrente,2025,1,January,T1,0.0,7248.92,-7248.92,False,True,False,-3.0,0
+2025-01-15,Despesa,Operacional,Software,Licença de software,Fornecedor Beta,Administrativo,481.87,2025-01-30,2025-01-27,Pago,Conta Investimento,2025,1,January,T1,0.0,481.87,-481.87,False,True,False,-3.0,0
+2025-01-15,Despesa,Operacional,Software,Licença de software,Fornecedor Atlas,Administrativo,1548.75,2025-01-30,,Em Aberto,Conta Corrente,2025,1,January,T1,0.0,1548.75,-1548.75,True,False,False,,0
+2025-01-16,Despesa,Operacional,Energia,Conta de energia,Fornecedor Central,Operacional,1044.05,2025-01-26,2025-01-21,Pago,Conta Digital,2025,1,January,T1,0.0,1044.05,-1044.05,False,True,False,-5.0,0
+2025-01-17,Despesa,Pessoal,Benefícios,Plano de benefícios,Fornecedor Atlas,TI,203.96,2025-03-03,2025-03-02,Pago,Conta Corrente,2025,1,January,T1,0.0,203.96,-203.96,False,True,False,-1.0,0
+2025-01-18,Despesa,Operacional,Software,Licença de software,Fornecedor Prime,Administrativo,670.81,2025-01-28,,Em Aberto,Conta Digital,2025,1,January,T1,0.0,670.81,-670.81,True,False,False,,0
+2025-01-19,Receita,Serviços,Consultoria,Consultoria estratégica,Cliente Alpha,Projetos,5963.06,2025-02-08,2025-02-07,Recebido,Conta Investimento,2025,1,January,T1,5963.06,0.0,5963.06,False,True,False,-1.0,0
+2025-01-19,Receita,Serviços,Projetos,Projeto de análise,Cliente Alpha,Projetos,11305.2,2025-01-24,2025-01-23,Recebido,Conta Digital,2025,1,January,T1,11305.2,0.0,11305.2,False,True,False,-1.0,0
+2025-01-20,Despesa,Impostos,Tributos,Impostos e contribuições,Fornecedor Beta,Comercial,9944.36,2025-02-09,2025-02-08,Pago,Conta Digital,2025,1,January,T1,0.0,9944.36,-9944.36,False,True,False,-1.0,0
+2025-01-20,Receita,Serviços,Assessoria,Assessoria mensal,Cliente Gama,Projetos,7370.47,2025-01-25,2025-01-22,Recebido,Conta Corrente,2025,1,January,T1,7370.47,0.0,7370.47,False,True,False,-3.0,0
+2025-01-21,Despesa,Operacional,Energia,Conta de energia,Fornecedor Beta,TI,931.0,2025-03-07,2025-03-05,Pago,Conta Digital,2025,1,January,T1,0.0,931.0,-931.0,False,True,False,-2.0,0
+2025-01-21,Receita,Outras Receitas,Recuperação de Créditos,Recuperação de valores,Cliente Alpha,Projetos,10327.17,2025-02-20,2025-02-20,Recebido,Conta Investimento,2025,1,January,T1,10327.17,0.0,10327.17,False,True,False,0.0,0
+2025-01-22,Despesa,Administrativa,Serviços Terceirizados,Suporte técnico,Fornecedor Beta,TI,1040.07,2025-03-08,2025-03-03,Pago,Conta Investimento,2025,1,January,T1,0.0,1040.07,-1040.07,False,True,False,-5.0,0
+2025-01-22,Despesa,Administrativa,Material de Escritório,Material de escritório,Fornecedor Atlas,RH,2679.73,2025-01-27,2025-01-25,Pago,Conta Corrente,2025,1,January,T1,0.0,2679.73,-2679.73,False,True,False,-2.0,0
+2025-01-23,Despesa,Pessoal,Salários,Folha de pagamento,Fornecedor Atlas,Comercial,16706.85,2025-02-07,2025-02-07,Pago,Conta Digital,2025,1,January,T1,0.0,16706.85,-16706.85,False,True,False,0.0,0
+2025-01-23,Despesa,Pessoal,Benefícios,Plano de benefícios,Fornecedor Digital,Comercial,1903.09,2025-02-07,2025-02-07,Pago,Conta Corrente,2025,1,January,T1,0.0,1903.09,-1903.09,False,True,False,0.0,0
+2025-01-25,Receita,Outras Receitas,Recuperação de Créditos,Recuperação de valores,Cliente Beta,Comercial,8187.34,2025-02-09,2025-02-09,Recebido,Conta Digital,2025,1,January,T1,8187.34,0.0,8187.34,False,True,False,0.0,0
+2025-01-26,Receita,Serviços,Projetos,Projeto de implantação,Cliente Gama,Consultoria,4103.52,2025-01-31,2025-01-28,Recebido,Conta Digital,2025,1,January,T1,4103.52,0.0,4103.52,False,True,False,-3.0,0
+2025-01-27,Despesa,Administrativa,Serviços Terceirizados,Serviços contábeis,Fornecedor Central,RH,841.82,2025-02-16,,Cancelado,Conta Digital,2025,1,January,T1,0.0,841.82,-841.82,False,False,False,,0
+2025-01-28,Despesa,Pessoal,Benefícios,Vale transporte,Fornecedor Central,TI,637.16,2025-02-07,,Atrasado,Conta Corrente,2025,1,January,T1,0.0,637.16,-637.16,True,False,True,,0
+2025-01-28,Receita,Serviços,Projetos,Projeto de implantação,Cliente Ômega,Projetos,3711.94,2025-02-27,2025-02-27,Recebido,Conta Digital,2025,1,January,T1,3711.94,0.0,3711.94,False,True,False,0.0,0
+2025-01-28,Receita,Serviços,Projetos,Projeto de melhoria de processos,Cliente Gama,Projetos,29618.85,2025-02-27,,Em Aberto,Conta Digital,2025,1,January,T1,29618.85,0.0,29618.85,True,False,False,,0
+2025-01-29,Despesa,Operacional,Internet,Internet empresarial,Fornecedor Digital,Operacional,2806.75,2025-02-18,2025-02-17,Pago,Conta Digital,2025,1,January,T1,0.0,2806.75,-2806.75,False,True,False,-1.0,0
+2025-01-29,Despesa,Pessoal,Benefícios,Plano de benefícios,Fornecedor Prime,TI,903.47,2025-02-08,2025-02-06,Pago,Conta Investimento,2025,1,January,T1,0.0,903.47,-903.47,False,True,False,-2.0,0
+2025-02-02,Despesa,Comercial,Marketing,Material institucional,Fornecedor Atlas,Comercial,229.0,2025-02-22,,Cancelado,Conta Investimento,2025,2,February,T1,0.0,229.0,-229.0,False,False,False,,0
+2025-02-02,Despesa,Operacional,Software,Licença de software,Fornecedor Central,RH,153.19,2025-03-04,,Em Aberto,Conta Digital,2025,2,February,T1,0.0,153.19,-153.19,True,False,False,,0
+2025-02-02,Receita,Outras Receitas,Recuperação de Créditos,Recuperação de valores,Cliente Beta,Projetos,7132.26,2025-02-12,2025-02-07,Recebido,Conta Digital,2025,2,February,T1,7132.26,0.0,7132.26,False,True,False,-5.0,0
+2025-02-03,Despesa,Operacional,Software,Sistemas corporativos,Fornecedor Atlas,Operacional,350.07,2025-02-18,2025-02-15,Pago,Conta Digital,2025,2,February,T1,0.0,350.07,-350.07,False,True,False,-3.0,0
+2025-02-04,Despesa,Operacional,Energia,Conta de energia,Fornecedor Atlas,TI,955.74,2025-02-19,,Em Aberto,Conta Corrente,2025,2,February,T1,0.0,955.74,-955.74,True,False,False,,0
+2025-02-04,Receita,Outras Receitas,Recuperação de Créditos,Recuperação de valores,Cliente Gama,Consultoria,3933.9,2025-02-09,2025-02-04,Recebido,Conta Investimento,2025,2,February,T1,3933.9,0.0,3933.9,False,True,False,-5.0,0
+2025-02-04,Receita,Outras Receitas,Recuperação de Créditos,Recuperação de valores,Cliente Ômega,Projetos,8656.52,2025-03-06,,Em Aberto,Conta Investimento,2025,2,February,T1,8656.52,0.0,8656.52,True,False,False,,0
+2025-02-04,Receita,Serviços,Consultoria,Consultoria empresarial,Cliente Alpha,Consultoria,6025.35,2025-02-19,,Atrasado,Conta Corrente,2025,2,February,T1,6025.35,0.0,6025.35,True,False,True,,0
+2025-02-04,Receita,Serviços,Assessoria,Assessoria mensal,Cliente Delta,Comercial,7879.96,2025-02-14,2025-02-14,Recebido,Conta Investimento,2025,2,February,T1,7879.96,0.0,7879.96,False,True,False,0.0,0
+2025-02-05,Despesa,Administrativa,Material de Escritório,Material de escritório,Fornecedor Central,Financeiro,1645.99,2025-03-07,2025-03-04,Pago,Conta Digital,2025,2,February,T1,0.0,1645.99,-1645.99,False,True,False,-3.0,0
+2025-02-05,Despesa,Operacional,Internet,Internet empresarial,Fornecedor Beta,Operacional,3778.56,2025-02-25,2025-02-22,Pago,Conta Corrente,2025,2,February,T1,0.0,3778.56,-3778.56,False,True,False,-3.0,0
+2025-02-05,Receita,Serviços,Projetos,Projeto de melhoria de processos,Cliente Gama,Comercial,4771.18,2025-02-15,2025-02-14,Recebido,Conta Corrente,2025,2,February,T1,4771.18,0.0,4771.18,False,True,False,-1.0,0
+2025-02-06,Despesa,Financeira,Tarifas Bancárias,Tarifa bancária,Fornecedor Digital,Comercial,2136.07,2025-03-08,,Atrasado,Conta Digital,2025,2,February,T1,0.0,2136.07,-2136.07,True,False,True,,0
+2025-02-06,Despesa,Operacional,Energia,Conta de energia,Fornecedor Prime,Administrativo,1388.66,2025-02-26,,Em Aberto,Conta Digital,2025,2,February,T1,0.0,1388.66,-1388.66,True,False,False,,0
+2025-02-06,Receita,Serviços,Projetos,Projeto de melhoria de processos,Cliente Ômega,Consultoria,3646.6,2025-02-21,2025-02-20,Recebido,Conta Corrente,2025,2,February,T1,3646.6,0.0,3646.6,False,True,False,-1.0,0
+2025-02-07,Receita,Serviços,Projetos,Projeto de implantação,Cliente Delta,Projetos,18481.47,2025-04-08,,Em Aberto,Conta Digital,2025,2,February,T1,18481.47,0.0,18481.47,True,False,False,,0
+2025-02-08,Despesa,Operacional,Energia,Conta de energia,Fornecedor Prime,Comercial,809.32,2025-02-23,,Em Aberto,Conta Investimento,2025,2,February,T1,0.0,809.32,-809.32,True,False,False,,0
+2025-02-08,Despesa,Pessoal,Benefícios,Vale transporte,Fornecedor Digital,Administrativo,768.99,2025-03-25,2025-03-25,Pago,Conta Investimento,2025,2,February,T1,0.0,768.99,-768.99,False,True,False,0.0,0
+2025-02-08,Receita,Serviços,Projetos,Projeto de melhoria de processos,Cliente Alpha,Consultoria,6832.42,2025-02-13,2025-02-12,Recebido,Conta Digital,2025,2,February,T1,6832.42,0.0,6832.42,False,True,False,-1.0,0
+2025-02-08,Receita,Serviços,Consultoria,Consultoria estratégica,Cliente Alpha,Consultoria,10240.0,2025-03-25,2025-03-20,Recebido,Conta Digital,2025,2,February,T1,10240.0,0.0,10240.0,False,True,False,-5.0,0
+2025-02-08,Receita,Serviços,Projetos,Projeto de melhoria de processos,Cliente Alpha,Projetos,10411.1,2025-02-28,2025-02-26,Recebido,Conta Corrente,2025,2,February,T1,10411.1,0.0,10411.1,False,True,False,-2.0,0
+2025-02-08,Receita,Serviços,Assessoria,Assessoria financeira,Cliente Delta,Comercial,8219.16,2025-03-10,2025-03-10,Recebido,Conta Corrente,2025,2,February,T1,8219.16,0.0,8219.16,False,True,False,0.0,0
+2025-02-10,Despesa,Impostos,Tributos,Tributos sobre faturamento,Fornecedor Central,TI,4897.5,2025-03-02,,Cancelado,Conta Corrente,2025,2,February,T1,0.0,4897.5,-4897.5,False,False,False,,0
+2025-02-10,Despesa,Operacional,Energia,Conta de energia,Fornecedor Prime,Administrativo,665.14,2025-02-25,2025-02-25,Pago,Conta Corrente,2025,2,February,T1,0.0,665.14,-665.14,False,True,False,0.0,0
+2025-02-10,Despesa,Operacional,Energia,Conta de energia,Fornecedor Atlas,TI,2445.53,2025-02-20,2025-02-20,Pago,Conta Investimento,2025,2,February,T1,0.0,2445.53,-2445.53,False,True,False,0.0,0
+2025-02-11,Despesa,Administrativa,Serviços Terceirizados,Serviços contábeis,Fornecedor Digital,Financeiro,1911.6,2025-03-13,2025-03-13,Pago,Conta Corrente,2025,2,February,T1,0.0,1911.6,-1911.6,False,True,False,0.0,0
+2025-02-11,Despesa,Administrativa,Serviços Terceirizados,Serviços jurídicos,Fornecedor Beta,RH,1076.51,2025-03-13,,Em Aberto,Conta Corrente,2025,2,February,T1,0.0,1076.51,-1076.51,True,False,False,,0
+2025-02-12,Despesa,Operacional,Software,Licença de software,Fornecedor Digital,Comercial,700.41,2025-03-04,2025-03-03,Pago,Conta Corrente,2025,2,February,T1,0.0,700.41,-700.41,False,True,False,-1.0,0
+2025-02-13,Despesa,Administrativa,Serviços Terceirizados,Serviços jurídicos,Fornecedor Digital,Financeiro,1096.85,2025-03-15,2025-03-12,Pago,Conta Corrente,2025,2,February,T1,0.0,1096.85,-1096.85,False,True,False,-3.0,0
+2025-02-13,Despesa,Administrativa,Material de Escritório,Material de escritório,Fornecedor Digital,TI,2802.34,2025-03-15,2025-03-15,Pago,Conta Digital,2025,2,February,T1,0.0,2802.34,-2802.34,False,True,False,0.0,0
+2025-02-13,Despesa,Comercial,Marketing,Publicidade digital,Fornecedor Central,TI,618.6,2025-02-18,2025-02-13,Pago,Conta Corrente,2025,2,February,T1,0.0,618.6,-618.6,False,True,False,-5.0,0
+2025-02-13,Despesa,Operacional,Internet,Internet empresarial,Fornecedor Atlas,Operacional,554.7,2025-02-23,2025-02-18,Pago,Conta Digital,2025,2,February,T1,0.0,554.7,-554.7,False,True,False,-5.0,0
+2025-02-14,Receita,Outras Receitas,Recuperação de Créditos,Recuperação de valores,Cliente Delta,Projetos,7673.17,2025-03-01,2025-03-01,Recebido,Conta Digital,2025,2,February,T1,7673.17,0.0,7673.17,False,True,False,0.0,0
+2025-02-15,Despesa,Administrativa,Serviços Terceirizados,Suporte técnico,Fornecedor Digital,Comercial,1014.32,2025-02-20,2025-02-19,Pago,Conta Investimento,2025,2,February,T1,0.0,1014.32,-1014.32,False,True,False,-1.0,0
+2025-02-15,Despesa,Comercial,Marketing,Material institucional,Fornecedor Atlas,Financeiro,668.76,2025-03-17,2025-03-16,Pago,Conta Digital,2025,2,February,T1,0.0,668.76,-668.76,False,True,False,-1.0,0
+2025-02-16,Despesa,Comercial,Marketing,Publicidade digital,Fornecedor Atlas,TI,1007.01,2025-03-03,2025-03-01,Pago,Conta Digital,2025,2,February,T1,0.0,1007.01,-1007.01,False,True,False,-2.0,0
+2025-02-16,Despesa,Operacional,Energia,Conta de energia,Fornecedor Central,Financeiro,1645.07,2025-03-03,2025-03-01,Pago,Conta Investimento,2025,2,February,T1,0.0,1645.07,-1645.07,False,True,False,-2.0,0
+2025-02-16,Despesa,Operacional,Energia,Conta de energia,Fornecedor Prime,TI,570.56,2025-04-02,2025-03-30,Pago,Conta Digital,2025,2,February,T1,0.0,570.56,-570.56,False,True,False,-3.0,0
+2025-02-17,Despesa,Pessoal,Salários,Folha de pagamento,Fornecedor Digital,Comercial,20171.2,2025-03-04,,Em Aberto,Conta Investimento,2025,2,February,T1,0.0,20171.2,-20171.2,True,False,False,,0
+2025-02-17,Receita,Serviços,Projetos,Projeto de análise,Cliente Ômega,Projetos,7025.27,2025-04-03,2025-04-01,Recebido,Conta Corrente,2025,2,February,T1,7025.27,0.0,7025.27,False,True,False,-2.0,0
+2025-02-18,Despesa,Financeira,Tarifas Bancárias,Tarifa bancária,Fornecedor Central,Comercial,187.85,2025-03-20,2025-03-19,Pago,Conta Digital,2025,2,February,T1,0.0,187.85,-187.85,False,True,False,-1.0,0
+2025-02-18,Despesa,Pessoal,Salários,Folha de pagamento,Fornecedor Prime,Administrativo,11212.03,2025-03-05,2025-03-03,Pago,Conta Digital,2025,2,February,T1,0.0,11212.03,-11212.03,False,True,False,-2.0,0
+2025-02-19,Despesa,Administrativa,Serviços Terceirizados,Suporte técnico,Fornecedor Atlas,Financeiro,1934.38,2025-02-24,,Atrasado,Conta Corrente,2025,2,February,T1,0.0,1934.38,-1934.38,True,False,True,,0
+2025-02-20,Despesa,Operacional,Internet,Internet empresarial,Fornecedor Atlas,TI,939.37,2025-03-12,2025-03-12,Pago,Conta Corrente,2025,2,February,T1,0.0,939.37,-939.37,False,True,False,0.0,0
+2025-02-20,Despesa,Operacional,Internet,Internet empresarial,Fornecedor Beta,TI,2207.37,2025-03-22,,Em Aberto,Conta Digital,2025,2,February,T1,0.0,2207.37,-2207.37,True,False,False,,0
+2025-02-20,Despesa,Operacional,Energia,Conta de energia,Fornecedor Prime,Comercial,3515.63,2025-03-22,,Em Aberto,Conta Investimento,2025,2,February,T1,0.0,3515.63,-3515.63,True,False,False,,0
+2025-02-20,Receita,Outras Receitas,Recuperação de Créditos,Recuperação de valores,Cliente Gama,Projetos,1249.2,2025-03-07,2025-03-04,Recebido,Conta Digital,2025,2,February,T1,1249.2,0.0,1249.2,False,True,False,-3.0,0
+2025-02-21,Despesa,Comercial,Marketing,Material institucional,Fornecedor Digital,Financeiro,724.25,2025-04-22,2025-04-22,Pago,Conta Digital,2025,2,February,T1,0.0,724.25,-724.25,False,True,False,0.0,0
+2025-02-21,Despesa,Operacional,Internet,Internet empresarial,Fornecedor Digital,Operacional,1620.36,2025-03-23,2025-03-22,Pago,Conta Investimento,2025,2,February,T1,0.0,1620.36,-1620.36,False,True,False,-1.0,0
+2025-02-21,Despesa,Pessoal,Salários,Folha de pagamento,Fornecedor Prime,Operacional,24382.42,2025-03-23,2025-03-23,Pago,Conta Investimento,2025,2,February,T1,0.0,24382.42,-24382.42,False,True,False,0.0,0
+2025-02-22,Despesa,Financeira,Juros,Juros e encargos,Fornecedor Atlas,TI,526.43,2025-03-04,2025-02-27,Pago,Conta Digital,2025,2,February,T1,0.0,526.43,-526.43,False,True,False,-5.0,0
+2025-02-22,Despesa,Operacional,Internet,Internet empresarial,Fornecedor Beta,Operacional,687.85,2025-03-24,2025-03-19,Pago,Conta Corrente,2025,2,February,T1,0.0,687.85,-687.85,False,True,False,-5.0,0
+2025-02-22,Receita,Outras Receitas,Recuperação de Créditos,Recuperação de valores,Cliente Beta,Consultoria,8776.79,2025-03-14,,Em Aberto,Conta Corrente,2025,2,February,T1,8776.79,0.0,8776.79,True,False,False,,0
+2025-02-22,Receita,Outras Receitas,Recuperação de Créditos,Recuperação de valores,Cliente Gama,Consultoria,3991.1,2025-04-08,,Cancelado,Conta Corrente,2025,2,February,T1,3991.1,0.0,3991.1,False,False,False,,0
+2025-02-22,Receita,Outras Receitas,Recuperação de Créditos,Recuperação de valores,Cliente Ômega,Comercial,6238.03,2025-03-04,,Em Aberto,Conta Investimento,2025,2,February,T1,6238.03,0.0,6238.03,True,False,False,,0
+2025-02-22,Receita,Serviços,Projetos,Projeto de implantação,Cliente Ômega,Projetos,9966.14,2025-03-24,2025-03-19,Recebido,Conta Investimento,2025,2,February,T1,9966.14,0.0,9966.14,False,True,False,-5.0,0
+2025-02-23,Despesa,Administrativa,Serviços Terceirizados,Serviços jurídicos,Fornecedor Atlas,Administrativo,548.34,2025-03-25,2025-03-22,Pago,Conta Digital,2025,2,February,T1,0.0,548.34,-548.34,False,True,False,-3.0,0
+2025-02-23,Despesa,Administrativa,Serviços Terceirizados,Serviços contábeis,Fornecedor Beta,Administrativo,507.68,2025-04-09,,Em Aberto,Conta Investimento,2025,2,February,T1,0.0,507.68,-507.68,True,False,False,,0
+2025-02-23,Despesa,Financeira,Juros,Juros e encargos,Fornecedor Prime,Operacional,1205.29,2025-03-10,,Em Aberto,Conta Investimento,2025,2,February,T1,0.0,1205.29,-1205.29,True,False,False,,0
+2025-02-23,Despesa,Operacional,Software,Licença de software,Fornecedor Prime,Financeiro,1027.81,2025-03-15,2025-03-13,Pago,Conta Digital,2025,2,February,T1,0.0,1027.81,-1027.81,False,True,False,-2.0,0
+2025-02-23,Despesa,Pessoal,Salários,Folha de pagamento,Fornecedor Beta,TI,16533.84,2025-02-28,2025-02-27,Pago,Conta Corrente,2025,2,February,T1,0.0,16533.84,-16533.84,False,True,False,-1.0,0
+2025-02-23,Receita,Outras Receitas,Recuperação de Créditos,Recuperação de valores,Cliente Gama,Projetos,2374.95,2025-03-25,,Em Aberto,Conta Digital,2025,2,February,T1,2374.95,0.0,2374.95,True,False,False,,0
+2025-02-23,Receita,Serviços,Consultoria,Consultoria financeira,Cliente Gama,Comercial,4195.63,2025-03-10,,Em Aberto,Conta Investimento,2025,2,February,T1,4195.63,0.0,4195.63,True,False,False,,0
+2025-02-24,Receita,Outras Receitas,Recuperação de Créditos,Recuperação de valores,Cliente Ômega,Comercial,5324.91,2025-04-25,2025-04-22,Recebido,Conta Corrente,2025,2,February,T1,5324.91,0.0,5324.91,False,True,False,-3.0,0
+2025-02-26,Despesa,Operacional,Internet,Internet empresarial,Fornecedor Digital,Operacional,2612.34,2025-03-18,2025-03-18,Pago,Conta Investimento,2025,2,February,T1,0.0,2612.34,-2612.34,False,True,False,0.0,0
+2025-02-27,Despesa,Administrativa,Serviços Terceirizados,Serviços contábeis,Fornecedor Atlas,Comercial,666.25,2025-03-14,2025-03-14,Pago,Conta Corrente,2025,2,February,T1,0.0,666.25,-666.25,False,True,False,0.0,0
+2025-02-27,Despesa,Impostos,Tributos,Tributos sobre faturamento,Fornecedor Central,TI,6572.05,2025-03-19,2025-03-19,Pago,Conta Corrente,2025,2,February,T1,0.0,6572.05,-6572.05,False,True,False,0.0,0
+2025-02-27,Despesa,Operacional,Internet,Internet empresarial,Fornecedor Beta,Administrativo,3255.39,2025-04-13,2025-04-11,Pago,Conta Digital,2025,2,February,T1,0.0,3255.39,-3255.39,False,True,False,-2.0,0
+2025-02-27,Despesa,Operacional,Software,Ferramenta de produtividade,Fornecedor Beta,Comercial,663.11,2025-03-04,,Em Aberto,Conta Digital,2025,2,February,T1,0.0,663.11,-663.11,True,False,False,,0
+2025-02-27,Despesa,Pessoal,Salários,Folha de pagamento,Fornecedor Central,RH,22474.98,2025-04-13,2025-04-12,Pago,Conta Investimento,2025,2,February,T1,0.0,22474.98,-22474.98,False,True,False,-1.0,0
+2025-02-27,Receita,Serviços,Assessoria,Assessoria financeira,Cliente Alpha,Consultoria,3207.44,2025-03-19,,Cancelado,Conta Digital,2025,2,February,T1,3207.44,0.0,3207.44,False,False,False,,0
+2025-02-28,Receita,Serviços,Consultoria,Consultoria financeira,Cliente Ômega,Projetos,26210.21,2025-03-10,2025-03-05,Recebido,Conta Digital,2025,2,February,T1,26210.21,0.0,26210.21,False,True,False,-5.0,0
+2025-03-01,Receita,Outras Receitas,Recuperação de Créditos,Recuperação de valores,Cliente Delta,Projetos,9272.04,2025-03-21,2025-03-16,Recebido,Conta Corrente,2025,3,March,T1,9272.04,0.0,9272.04,False,True,False,-5.0,0
+2025-03-01,Receita,Serviços,Consultoria,Consultoria financeira,Cliente Alpha,Consultoria,5819.15,2025-03-16,2025-03-14,Recebido,Conta Corrente,2025,3,March,T1,5819.15,0.0,5819.15,False,True,False,-2.0,0
+2025-03-03,Despesa,Administrativa,Material de Escritório,Material de escritório,Fornecedor Atlas,RH,1357.07,2025-03-18,2025-03-15,Pago,Conta Digital,2025,3,March,T1,0.0,1357.07,-1357.07,False,True,False,-3.0,0
+2025-03-03,Despesa,Financeira,Tarifas Bancárias,Tarifa bancária,Fornecedor Prime,RH,244.45,2025-03-23,,Em Aberto,Conta Digital,2025,3,March,T1,0.0,244.45,-244.45,True,False,False,,0
+2025-03-03,Receita,Outras Receitas,Recuperação de Créditos,Recuperação de valores,Cliente Gama,Projetos,12828.06,2025-03-23,2025-03-21,Recebido,Conta Corrente,2025,3,March,T1,12828.06,0.0,12828.06,False,True,False,-2.0,0
+2025-03-04,Despesa,Comercial,Marketing,Material institucional,Fornecedor Beta,Financeiro,1176.64,2025-03-09,,Em Aberto,Conta Investimento,2025,3,March,T1,0.0,1176.64,-1176.64,True,False,False,,0
+2025-03-04,Despesa,Financeira,Juros,Juros e encargos,Fornecedor Prime,RH,513.3,2025-03-24,2025-03-21,Pago,Conta Corrente,2025,3,March,T1,0.0,513.3,-513.3,False,True,False,-3.0,0
+2025-03-04,Despesa,Operacional,Energia,Conta de energia,Fornecedor Digital,TI,455.12,2025-03-19,,Atrasado,Conta Digital,2025,3,March,T1,0.0,455.12,-455.12,True,False,True,,0
+2025-03-04,Receita,Outras Receitas,Recuperação de Créditos,Recuperação de valores,Cliente Beta,Comercial,4358.81,2025-04-03,2025-04-03,Recebido,Conta Corrente,2025,3,March,T1,4358.81,0.0,4358.81,False,True,False,0.0,0
+2025-03-06,Despesa,Impostos,Tributos,Impostos e contribuições,Fornecedor Prime,Financeiro,3153.32,2025-03-26,2025-03-23,Pago,Conta Corrente,2025,3,March,T1,0.0,3153.32,-3153.32,False,True,False,-3.0,0
+2025-03-06,Despesa,Operacional,Software,Ferramenta de produtividade,Fornecedor Prime,Comercial,648.02,2025-04-20,,Em Aberto,Conta Investimento,2025,3,March,T1,0.0,648.02,-648.02,True,False,False,,0
+2025-03-06,Receita,Outras Receitas,Recuperação de Créditos,Recuperação de valores,Cliente Ômega,Comercial,3116.26,2025-03-26,2025-03-26,Recebido,Conta Corrente,2025,3,March,T1,3116.26,0.0,3116.26,False,True,False,0.0,0
+2025-03-07,Despesa,Administrativa,Material de Escritório,Material de escritório,Fornecedor Prime,Financeiro,3304.18,2025-03-22,2025-03-22,Pago,Conta Investimento,2025,3,March,T1,0.0,3304.18,-3304.18,False,True,False,0.0,0
+2025-03-07,Despesa,Operacional,Software,Sistemas corporativos,Fornecedor Prime,RH,1689.22,2025-03-17,,Em Aberto,Conta Corrente,2025,3,March,T1,0.0,1689.22,-1689.22,True,False,False,,0
+2025-03-09,Receita,Serviços,Projetos,Projeto de implantação,Cliente Beta,Comercial,20336.28,2025-03-19,2025-03-17,Recebido,Conta Digital,2025,3,March,T1,20336.28,0.0,20336.28,False,True,False,-2.0,0
+2025-03-10,Despesa,Operacional,Energia,Conta de energia,Fornecedor Atlas,Comercial,961.3,2025-04-09,,Atrasado,Conta Investimento,2025,3,March,T1,0.0,961.3,-961.3,True,False,True,,0
+2025-03-10,Despesa,Pessoal,Benefícios,Vale transporte,Fornecedor Digital,Administrativo,1878.49,2025-04-09,,Atrasado,Conta Corrente,2025,3,March,T1,0.0,1878.49,-1878.49,True,False,True,,0
+2025-03-10,Receita,Serviços,Consultoria,Consultoria estratégica,Cliente Ômega,Projetos,15797.59,2025-03-20,2025-03-17,Recebido,Conta Digital,2025,3,March,T1,15797.59,0.0,15797.59,False,True,False,-3.0,0
+2025-03-11,Despesa,Comercial,Marketing,Material institucional,Fornecedor Digital,RH,703.24,2025-04-10,2025-04-05,Pago,Conta Corrente,2025,3,March,T1,0.0,703.24,-703.24,False,True,False,-5.0,0
+2025-03-13,Despesa,Impostos,Tributos,Impostos e contribuições,Fornecedor Digital,Operacional,8445.19,2025-03-28,,Em Aberto,Conta Corrente,2025,3,March,T1,0.0,8445.19,-8445.19,True,False,False,,0
+2025-03-13,Despesa,Operacional,Energia,Conta de energia,Fornecedor Digital,Administrativo,743.76,2025-04-12,2025-04-09,Pago,Conta Corrente,2025,3,March,T1,0.0,743.76,-743.76,False,True,False,-3.0,0
+2025-03-15,Receita,Serviços,Consultoria,Consultoria estratégica,Cliente Delta,Projetos,7097.71,2025-03-30,2025-03-29,Recebido,Conta Investimento,2025,3,March,T1,7097.71,0.0,7097.71,False,True,False,-1.0,0
+2025-03-16,Despesa,Comercial,Marketing,Publicidade digital,Fornecedor Beta,Comercial,2026.62,2025-03-31,,Em Aberto,Conta Digital,2025,3,March,T1,0.0,2026.62,-2026.62,True,False,False,,0
+2025-03-16,Despesa,Impostos,Tributos,Tributos sobre faturamento,Fornecedor Digital,Financeiro,7425.47,2025-04-30,2025-04-29,Pago,Conta Digital,2025,3,March,T1,0.0,7425.47,-7425.47,False,True,False,-1.0,0
+2025-03-16,Receita,Serviços,Assessoria,Assessoria financeira,Cliente Beta,Projetos,9554.1,2025-03-21,2025-03-19,Recebido,Conta Investimento,2025,3,March,T1,9554.1,0.0,9554.1,False,True,False,-2.0,0
+2025-03-17,Despesa,Financeira,Tarifas Bancárias,Tarifa bancária,Fornecedor Digital,Administrativo,521.39,2025-04-06,2025-04-01,Pago,Conta Investimento,2025,3,March,T1,0.0,521.39,-521.39,False,True,False,-5.0,0
+2025-03-17,Despesa,Operacional,Software,Licença de software,Fornecedor Prime,RH,599.36,2025-04-06,,Em Aberto,Conta Digital,2025,3,March,T1,0.0,599.36,-599.36,True,False,False,,0
+2025-03-17,Receita,Serviços,Projetos,Projeto de análise,Cliente Gama,Projetos,3196.07,2025-03-27,2025-03-25,Recebido,Conta Digital,2025,3,March,T1,3196.07,0.0,3196.07,False,True,False,-2.0,0
+2025-03-19,Despesa,Financeira,Juros,Juros e encargos,Fornecedor Atlas,Administrativo,1389.15,2025-04-18,,Atrasado,Conta Investimento,2025,3,March,T1,0.0,1389.15,-1389.15,True,False,True,,0
+2025-03-21,Despesa,Pessoal,Salários,Folha de pagamento,Fornecedor Prime,Financeiro,19395.53,2025-05-05,2025-04-30,Pago,Conta Corrente,2025,3,March,T1,0.0,19395.53,-19395.53,False,True,False,-5.0,0
+2025-03-22,Despesa,Administrativa,Serviços Terceirizados,Serviços contábeis,Fornecedor Prime,Financeiro,198.17,2025-04-21,2025-04-16,Pago,Conta Corrente,2025,3,March,T1,0.0,198.17,-198.17,False,True,False,-5.0,0
+2025-03-22,Despesa,Operacional,Software,Licença de software,Fornecedor Prime,RH,1111.57,2025-05-21,,Em Aberto,Conta Investimento,2025,3,March,T1,0.0,1111.57,-1111.57,True,False,False,,0
+2025-03-22,Receita,Serviços,Projetos,Projeto de melhoria de processos,Cliente Delta,Consultoria,3855.94,2025-04-06,,Em Aberto,Conta Investimento,2025,3,March,T1,3855.94,0.0,3855.94,True,False,False,,0
+2025-03-23,Receita,Outras Receitas,Recuperação de Créditos,Recuperação de valores,Cliente Alpha,Comercial,6562.91,2025-04-07,,Em Aberto,Conta Digital,2025,3,March,T1,6562.91,0.0,6562.91,True,False,False,,0
+2025-03-24,Despesa,Comercial,Marketing,Material institucional,Fornecedor Central,Administrativo,658.5,2025-04-23,2025-04-22,Pago,Conta Digital,2025,3,March,T1,0.0,658.5,-658.5,False,True,False,-1.0,0
+2025-03-25,Despesa,Pessoal,Benefícios,Plano de benefícios,Fornecedor Digital,RH,973.62,2025-04-14,2025-04-11,Pago,Conta Corrente,2025,3,March,T1,0.0,973.62,-973.62,False,True,False,-3.0,0
+2025-03-26,Receita,Outras Receitas,Recuperação de Créditos,Recuperação de valores,Cliente Gama,Projetos,8627.75,2025-04-10,2025-04-07,Recebido,Conta Corrente,2025,3,March,T1,8627.75,0.0,8627.75,False,True,False,-3.0,0
+2025-03-27,Despesa,Financeira,Juros,Juros e encargos,Fornecedor Digital,Comercial,432.21,2025-04-06,2025-04-04,Pago,Conta Digital,2025,3,March,T1,0.0,432.21,-432.21,False,True,False,-2.0,0
+2025-03-27,Despesa,Pessoal,Benefícios,Vale alimentação,Fornecedor Central,RH,1104.0,2025-04-26,2025-04-21,Pago,Conta Corrente,2025,3,March,T1,0.0,1104.0,-1104.0,False,True,False,-5.0,0
+2025-03-29,Despesa,Pessoal,Benefícios,Plano de benefícios,Fornecedor Atlas,Operacional,1262.84,2025-04-28,2025-04-28,Pago,Conta Digital,2025,3,March,T1,0.0,1262.84,-1262.84,False,True,False,0.0,0
+2025-03-30,Despesa,Administrativa,Serviços Terceirizados,Serviços contábeis,Fornecedor Central,Operacional,482.92,2025-04-14,2025-04-14,Pago,Conta Corrente,2025,3,March,T1,0.0,482.92,-482.92,False,True,False,0.0,0
+2025-03-30,Receita,Serviços,Projetos,Projeto de análise,Cliente Beta,Projetos,5657.97,2025-04-19,,Em Aberto,Conta Investimento,2025,3,March,T1,5657.97,0.0,5657.97,True,False,False,,0
+2025-03-31,Despesa,Financeira,Tarifas Bancárias,Tarifa bancária,Fornecedor Central,Financeiro,1289.91,2025-04-30,2025-04-27,Pago,Conta Digital,2025,3,March,T1,0.0,1289.91,-1289.91,False,True,False,-3.0,0
+2025-03-31,Despesa,Financeira,Tarifas Bancárias,Tarifa bancária,Fornecedor Beta,TI,1339.52,2025-04-30,2025-04-30,Pago,Conta Digital,2025,3,March,T1,0.0,1339.52,-1339.52,False,True,False,0.0,0
+2025-03-31,Receita,Serviços,Assessoria,Assessoria mensal,Cliente Beta,Consultoria,2167.67,2025-04-30,2025-04-28,Recebido,Conta Digital,2025,3,March,T1,2167.67,0.0,2167.67,False,True,False,-2.0,0
+2025-04-01,Receita,Serviços,Projetos,Projeto de implantação,Cliente Gama,Consultoria,7483.09,2025-05-01,2025-04-26,Recebido,Conta Investimento,2025,4,April,T2,7483.09,0.0,7483.09,False,True,False,-5.0,0
+2025-04-02,Despesa,Impostos,Tributos,Tributos sobre faturamento,Fornecedor Prime,Comercial,2865.21,2025-05-02,,Em Aberto,Conta Digital,2025,4,April,T2,0.0,2865.21,-2865.21,True,False,False,,0
+2025-04-02,Despesa,Operacional,Energia,Conta de energia,Fornecedor Beta,RH,360.24,2025-04-12,2025-04-10,Pago,Conta Corrente,2025,4,April,T2,0.0,360.24,-360.24,False,True,False,-2.0,0
+2025-04-02,Despesa,Pessoal,Benefícios,Plano de benefícios,Fornecedor Beta,RH,93.2,2025-04-12,,Cancelado,Conta Investimento,2025,4,April,T2,0.0,93.2,-93.2,False,False,False,,0
+2025-04-03,Despesa,Operacional,Software,Sistemas corporativos,Fornecedor Atlas,RH,1030.42,2025-05-03,,Atrasado,Conta Corrente,2025,4,April,T2,0.0,1030.42,-1030.42,True,False,True,,0
+2025-04-04,Despesa,Operacional,Aluguel,Aluguel do escritório,Fornecedor Beta,Comercial,7619.89,2025-04-14,,Atrasado,Conta Investimento,2025,4,April,T2,0.0,7619.89,-7619.89,True,False,True,,0
+2025-04-05,Despesa,Administrativa,Serviços Terceirizados,Serviços jurídicos,Fornecedor Beta,RH,748.85,2025-04-10,2025-04-05,Pago,Conta Investimento,2025,4,April,T2,0.0,748.85,-748.85,False,True,False,-5.0,0
+2025-04-05,Despesa,Operacional,Aluguel,Aluguel do escritório,Fornecedor Beta,Comercial,8098.39,2025-05-20,,Em Aberto,Conta Investimento,2025,4,April,T2,0.0,8098.39,-8098.39,True,False,False,,0
+2025-04-05,Receita,Serviços,Assessoria,Assessoria mensal,Cliente Beta,Consultoria,11047.53,2025-04-10,2025-04-05,Recebido,Conta Digital,2025,4,April,T2,11047.53,0.0,11047.53,False,True,False,-5.0,0
+2025-04-06,Despesa,Administrativa,Serviços Terceirizados,Serviços contábeis,Fornecedor Atlas,TI,971.06,2025-05-06,2025-05-04,Pago,Conta Corrente,2025,4,April,T2,0.0,971.06,-971.06,False,True,False,-2.0,0
+2025-04-06,Despesa,Impostos,Tributos,Tributos sobre faturamento,Fornecedor Central,TI,2627.11,2025-04-21,2025-04-16,Pago,Conta Digital,2025,4,April,T2,0.0,2627.11,-2627.11,False,True,False,-5.0,0
+2025-04-06,Despesa,Operacional,Software,Ferramenta de produtividade,Fornecedor Atlas,RH,736.77,2025-05-06,,Atrasado,Conta Investimento,2025,4,April,T2,0.0,736.77,-736.77,True,False,True,,0
+2025-04-06,Receita,Serviços,Assessoria,Assessoria financeira,Cliente Gama,Projetos,8059.53,2025-04-21,,Em Aberto,Conta Corrente,2025,4,April,T2,8059.53,0.0,8059.53,True,False,False,,0
+2025-04-06,Receita,Serviços,Consultoria,Consultoria empresarial,Cliente Gama,Projetos,5894.94,2025-04-21,2025-04-19,Recebido,Conta Investimento,2025,4,April,T2,5894.94,0.0,5894.94,False,True,False,-2.0,0
+2025-04-07,Despesa,Comercial,Marketing,Material institucional,Fornecedor Central,Operacional,336.56,2025-04-22,2025-04-22,Pago,Conta Digital,2025,4,April,T2,0.0,336.56,-336.56,False,True,False,0.0,0
+2025-04-07,Receita,Serviços,Projetos,Projeto de análise,Cliente Ômega,Comercial,6731.85,2025-04-27,,Cancelado,Conta Investimento,2025,4,April,T2,6731.85,0.0,6731.85,False,False,False,,0
+2025-04-08,Despesa,Administrativa,Material de Escritório,Material de escritório,Fornecedor Atlas,Financeiro,362.36,2025-05-08,2025-05-03,Pago,Conta Investimento,2025,4,April,T2,0.0,362.36,-362.36,False,True,False,-5.0,0
+2025-04-08,Despesa,Pessoal,Salários,Folha de pagamento,Fornecedor Digital,Comercial,21096.13,2025-05-08,2025-05-06,Pago,Conta Investimento,2025,4,April,T2,0.0,21096.13,-21096.13,False,True,False,-2.0,0
+2025-04-08,Receita,Outras Receitas,Recuperação de Créditos,Recuperação de valores,Cliente Gama,Consultoria,4954.25,2025-04-13,2025-04-13,Recebido,Conta Corrente,2025,4,April,T2,4954.25,0.0,4954.25,False,True,False,0.0,0
+2025-04-09,Despesa,Administrativa,Serviços Terceirizados,Suporte técnico,Fornecedor Beta,TI,2633.56,2025-04-29,2025-04-24,Pago,Conta Investimento,2025,4,April,T2,0.0,2633.56,-2633.56,False,True,False,-5.0,0
+2025-04-09,Despesa,Administrativa,Material de Escritório,Material de escritório,Fornecedor Atlas,RH,1587.06,2025-05-09,,Em Aberto,Conta Corrente,2025,4,April,T2,0.0,1587.06,-1587.06,True,False,False,,0
+2025-04-09,Despesa,Operacional,Energia,Conta de energia,Fornecedor Prime,Comercial,238.28,2025-05-24,2025-05-23,Pago,Conta Corrente,2025,4,April,T2,0.0,238.28,-238.28,False,True,False,-1.0,0
+2025-04-09,Despesa,Operacional,Internet,Internet empresarial,Fornecedor Prime,Comercial,616.66,2025-04-19,,Em Aberto,Conta Corrente,2025,4,April,T2,0.0,616.66,-616.66,True,False,False,,0
+2025-04-09,Despesa,Operacional,Aluguel,Aluguel do escritório,Fornecedor Beta,Operacional,3787.7,2025-04-29,2025-04-29,Pago,Conta Digital,2025,4,April,T2,0.0,3787.7,-3787.7,False,True,False,0.0,0
+2025-04-09,Despesa,Pessoal,Salários,Folha de pagamento,Fornecedor Beta,Operacional,10405.71,2025-04-29,2025-04-29,Pago,Conta Digital,2025,4,April,T2,0.0,10405.71,-10405.71,False,True,False,0.0,0
+2025-04-09,Despesa,Pessoal,Benefícios,Plano de benefícios,Fornecedor Beta,RH,512.07,2025-04-19,2025-04-18,Pago,Conta Digital,2025,4,April,T2,0.0,512.07,-512.07,False,True,False,-1.0,0
+2025-04-09,Despesa,Pessoal,Benefícios,Vale transporte,Fornecedor Digital,Comercial,1613.82,2025-04-24,,Cancelado,Conta Digital,2025,4,April,T2,0.0,1613.82,-1613.82,False,False,False,,0
+2025-04-09,Receita,Serviços,Projetos,Projeto de análise,Cliente Gama,Consultoria,11345.4,2025-05-24,2025-05-23,Recebido,Conta Investimento,2025,4,April,T2,11345.4,0.0,11345.4,False,True,False,-1.0,0
+2025-04-10,Despesa,Operacional,Software,Licença de software,Fornecedor Atlas,RH,2564.42,2025-04-20,2025-04-20,Pago,Conta Corrente,2025,4,April,T2,0.0,2564.42,-2564.42,False,True,False,0.0,0
+2025-04-10,Despesa,Pessoal,Benefícios,Plano de benefícios,Fornecedor Beta,TI,947.0,2025-04-25,2025-04-20,Pago,Conta Corrente,2025,4,April,T2,0.0,947.0,-947.0,False,True,False,-5.0,0
+2025-04-10,Receita,Outras Receitas,Recuperação de Créditos,Recuperação de valores,Cliente Alpha,Comercial,7390.68,2025-05-10,2025-05-05,Recebido,Conta Corrente,2025,4,April,T2,7390.68,0.0,7390.68,False,True,False,-5.0,0
+2025-04-10,Receita,Serviços,Consultoria,Consultoria empresarial,Cliente Beta,Projetos,11441.65,2025-04-30,,Em Aberto,Conta Investimento,2025,4,April,T2,11441.65,0.0,11441.65,True,False,False,,0
+2025-04-11,Despesa,Administrativa,Serviços Terceirizados,Suporte técnico,Fornecedor Atlas,RH,1125.59,2025-04-26,2025-04-26,Pago,Conta Digital,2025,4,April,T2,0.0,1125.59,-1125.59,False,True,False,0.0,0
+2025-04-11,Despesa,Comercial,Marketing,Material institucional,Fornecedor Prime,TI,599.67,2025-05-26,2025-05-21,Pago,Conta Digital,2025,4,April,T2,0.0,599.67,-599.67,False,True,False,-5.0,0
+2025-04-11,Despesa,Financeira,Juros,Juros e encargos,Fornecedor Atlas,Operacional,1858.09,2025-04-26,,Atrasado,Conta Digital,2025,4,April,T2,0.0,1858.09,-1858.09,True,False,True,,0
+2025-04-11,Despesa,Pessoal,Benefícios,Vale transporte,Fornecedor Central,Financeiro,1078.12,2025-04-26,2025-04-25,Pago,Conta Corrente,2025,4,April,T2,0.0,1078.12,-1078.12,False,True,False,-1.0,0
+2025-04-13,Despesa,Impostos,Tributos,Impostos e contribuições,Fornecedor Atlas,Financeiro,5888.05,2025-05-28,,Em Aberto,Conta Digital,2025,4,April,T2,0.0,5888.05,-5888.05,True,False,False,,0
+2025-04-13,Despesa,Operacional,Internet,Internet empresarial,Fornecedor Prime,Financeiro,556.19,2025-04-28,2025-04-25,Pago,Conta Digital,2025,4,April,T2,0.0,556.19,-556.19,False,True,False,-3.0,0
+2025-04-13,Despesa,Pessoal,Salários,Folha de pagamento,Fornecedor Central,RH,22535.65,2025-05-03,2025-04-30,Pago,Conta Digital,2025,4,April,T2,0.0,22535.65,-22535.65,False,True,False,-3.0,0
+2025-04-13,Despesa,Pessoal,Benefícios,Vale transporte,Fornecedor Prime,Comercial,834.86,2025-05-28,2025-05-28,Pago,Conta Digital,2025,4,April,T2,0.0,834.86,-834.86,False,True,False,0.0,0
+2025-04-14,Despesa,Financeira,Juros,Juros e encargos,Fornecedor Beta,Financeiro,175.21,2025-04-29,2025-04-28,Pago,Conta Investimento,2025,4,April,T2,0.0,175.21,-175.21,False,True,False,-1.0,0
+2025-04-14,Receita,Serviços,Projetos,Projeto de implantação,Cliente Beta,Consultoria,2999.72,2025-04-29,2025-04-26,Recebido,Conta Corrente,2025,4,April,T2,2999.72,0.0,2999.72,False,True,False,-3.0,0
+2025-04-15,Despesa,Operacional,Software,Licença de software,Fornecedor Beta,RH,379.5,2025-04-30,2025-04-30,Pago,Conta Corrente,2025,4,April,T2,0.0,379.5,-379.5,False,True,False,0.0,0
+2025-04-15,Receita,Serviços,Projetos,Projeto de análise,Cliente Delta,Projetos,8590.01,2025-05-15,2025-05-12,Recebido,Conta Investimento,2025,4,April,T2,8590.01,0.0,8590.01,False,True,False,-3.0,0
+2025-04-16,Despesa,Pessoal,Benefícios,Vale transporte,Fornecedor Central,Financeiro,678.74,2025-05-01,2025-05-01,Pago,Conta Investimento,2025,4,April,T2,0.0,678.74,-678.74,False,True,False,0.0,0
+2025-04-16,Receita,Outras Receitas,Recuperação de Créditos,Recuperação de valores,Cliente Alpha,Projetos,4448.73,2025-06-15,,Em Aberto,Conta Investimento,2025,4,April,T2,4448.73,0.0,4448.73,True,False,False,,0
+2025-04-17,Despesa,Impostos,Tributos,Impostos e contribuições,Fornecedor Atlas,Administrativo,5870.75,2025-05-17,,Em Aberto,Conta Digital,2025,4,April,T2,0.0,5870.75,-5870.75,True,False,False,,0
+2025-04-18,Despesa,Administrativa,Material de Escritório,Material de escritório,Fornecedor Beta,Financeiro,1595.73,2025-05-18,2025-05-16,Pago,Conta Investimento,2025,4,April,T2,0.0,1595.73,-1595.73,False,True,False,-2.0,0
+2025-04-18,Despesa,Operacional,Software,Sistemas corporativos,Fornecedor Central,Financeiro,1029.67,2025-05-08,2025-05-03,Pago,Conta Digital,2025,4,April,T2,0.0,1029.67,-1029.67,False,True,False,-5.0,0
+2025-04-19,Despesa,Financeira,Tarifas Bancárias,Tarifa bancária,Fornecedor Central,TI,2771.04,2025-05-19,2025-05-17,Pago,Conta Investimento,2025,4,April,T2,0.0,2771.04,-2771.04,False,True,False,-2.0,0
+2025-04-22,Despesa,Administrativa,Serviços Terceirizados,Serviços jurídicos,Fornecedor Prime,Financeiro,383.91,2025-05-12,,Atrasado,Conta Investimento,2025,4,April,T2,0.0,383.91,-383.91,True,False,True,,0
+2025-04-22,Despesa,Administrativa,Material de Escritório,Material de escritório,Fornecedor Beta,Administrativo,1312.4,2025-05-07,2025-05-05,Pago,Conta Digital,2025,4,April,T2,0.0,1312.4,-1312.4,False,True,False,-2.0,0
+2025-04-22,Despesa,Operacional,Internet,Internet empresarial,Fornecedor Atlas,Operacional,1585.44,2025-05-12,,Em Aberto,Conta Corrente,2025,4,April,T2,0.0,1585.44,-1585.44,True,False,False,,0
+2025-04-23,Despesa,Financeira,Tarifas Bancárias,Tarifa bancária,Fornecedor Atlas,RH,1456.76,2025-05-08,2025-05-06,Pago,Conta Investimento,2025,4,April,T2,0.0,1456.76,-1456.76,False,True,False,-2.0,0
+2025-04-23,Despesa,Financeira,Juros,Juros e encargos,Fornecedor Digital,Financeiro,1541.26,2025-05-23,,Atrasado,Conta Digital,2025,4,April,T2,0.0,1541.26,-1541.26,True,False,True,,0
+2025-04-23,Despesa,Operacional,Internet,Internet empresarial,Fornecedor Beta,TI,519.27,2025-05-13,2025-05-11,Pago,Conta Digital,2025,4,April,T2,0.0,519.27,-519.27,False,True,False,-2.0,0
+2025-04-23,Despesa,Pessoal,Salários,Folha de pagamento,Fornecedor Atlas,RH,19375.8,2025-04-28,2025-04-28,Pago,Conta Corrente,2025,4,April,T2,0.0,19375.8,-19375.8,False,True,False,0.0,0
+2025-04-23,Receita,Serviços,Assessoria,Assessoria financeira,Cliente Alpha,Projetos,9099.37,2025-05-03,2025-04-30,Recebido,Conta Corrente,2025,4,April,T2,9099.37,0.0,9099.37,False,True,False,-3.0,0
+2025-04-24,Despesa,Administrativa,Serviços Terceirizados,Serviços contábeis,Fornecedor Prime,TI,345.71,2025-05-14,2025-05-14,Pago,Conta Digital,2025,4,April,T2,0.0,345.71,-345.71,False,True,False,0.0,0
+2025-04-24,Despesa,Impostos,Tributos,Impostos e contribuições,Fornecedor Digital,Comercial,4150.67,2025-06-08,2025-06-06,Pago,Conta Investimento,2025,4,April,T2,0.0,4150.67,-4150.67,False,True,False,-2.0,0
+2025-04-25,Despesa,Administrativa,Serviços Terceirizados,Serviços contábeis,Fornecedor Beta,Financeiro,431.66,2025-05-25,,Em Aberto,Conta Corrente,2025,4,April,T2,0.0,431.66,-431.66,True,False,False,,0
+2025-04-26,Despesa,Financeira,Tarifas Bancárias,Tarifa bancária,Fornecedor Prime,Financeiro,576.88,2025-05-11,2025-05-08,Pago,Conta Investimento,2025,4,April,T2,0.0,576.88,-576.88,False,True,False,-3.0,0
+2025-04-26,Despesa,Operacional,Energia,Conta de energia,Fornecedor Prime,Operacional,1554.07,2025-05-16,2025-05-16,Pago,Conta Digital,2025,4,April,T2,0.0,1554.07,-1554.07,False,True,False,0.0,0
+2025-04-26,Receita,Serviços,Assessoria,Assessoria mensal,Cliente Gama,Projetos,3691.85,2025-05-16,2025-05-16,Recebido,Conta Investimento,2025,4,April,T2,3691.85,0.0,3691.85,False,True,False,0.0,0
+2025-04-27,Despesa,Financeira,Tarifas Bancárias,Tarifa bancária,Fornecedor Atlas,Administrativo,1591.1,2025-05-27,2025-05-26,Pago,Conta Investimento,2025,4,April,T2,0.0,1591.1,-1591.1,False,True,False,-1.0,0
+2025-04-27,Despesa,Financeira,Juros,Juros e encargos,Fornecedor Digital,Administrativo,805.24,2025-05-27,2025-05-24,Pago,Conta Corrente,2025,4,April,T2,0.0,805.24,-805.24,False,True,False,-3.0,0
+2025-04-28,Receita,Serviços,Consultoria,Consultoria financeira,Cliente Delta,Projetos,1956.17,2025-05-18,,Atrasado,Conta Corrente,2025,4,April,T2,1956.17,0.0,1956.17,True,False,True,,0
+2025-04-28,Receita,Serviços,Consultoria,Consultoria empresarial,Cliente Delta,Projetos,13210.99,2025-06-12,2025-06-09,Recebido,Conta Corrente,2025,4,April,T2,13210.99,0.0,13210.99,False,True,False,-3.0,0
+2025-04-29,Despesa,Administrativa,Serviços Terceirizados,Suporte técnico,Fornecedor Atlas,RH,1038.93,2025-06-13,,Atrasado,Conta Investimento,2025,4,April,T2,0.0,1038.93,-1038.93,True,False,True,,0
+2025-04-30,Despesa,Administrativa,Material de Escritório,Material de escritório,Fornecedor Beta,Comercial,1335.17,2025-05-05,2025-05-04,Pago,Conta Corrente,2025,4,April,T2,0.0,1335.17,-1335.17,False,True,False,-1.0,0
+2025-04-30,Receita,Outras Receitas,Recuperação de Créditos,Recuperação de valores,Cliente Beta,Comercial,5433.57,2025-05-20,,Cancelado,Conta Corrente,2025,4,April,T2,5433.57,0.0,5433.57,False,False,False,,0
+2025-05-01,Despesa,Administrativa,Serviços Terceirizados,Suporte técnico,Fornecedor Beta,RH,1282.06,2025-05-11,,Atrasado,Conta Digital,2025,5,May,T2,0.0,1282.06,-1282.06,True,False,True,,0
+2025-05-02,Despesa,Financeira,Juros,Juros e encargos,Fornecedor Atlas,RH,451.89,2025-05-17,2025-05-17,Pago,Conta Digital,2025,5,May,T2,0.0,451.89,-451.89,False,True,False,0.0,0
+2025-05-02,Despesa,Operacional,Internet,Internet empresarial,Fornecedor Central,RH,1744.99,2025-06-01,,Cancelado,Conta Investimento,2025,5,May,T2,0.0,1744.99,-1744.99,False,False,False,,0
+2025-05-02,Despesa,Operacional,Energia,Conta de energia,Fornecedor Prime,Operacional,992.21,2025-06-16,2025-06-14,Pago,Conta Digital,2025,5,May,T2,0.0,992.21,-992.21,False,True,False,-2.0,0
+2025-05-02,Despesa,Pessoal,Benefícios,Vale alimentação,Fornecedor Central,TI,925.27,2025-06-01,2025-05-29,Pago,Conta Investimento,2025,5,May,T2,0.0,925.27,-925.27,False,True,False,-3.0,0
+2025-05-02,Despesa,Pessoal,Benefícios,Vale transporte,Fornecedor Central,Operacional,1784.68,2025-06-16,2025-06-15,Pago,Conta Investimento,2025,5,May,T2,0.0,1784.68,-1784.68,False,True,False,-1.0,0
+2025-05-03,Despesa,Pessoal,Benefícios,Plano de benefícios,Fornecedor Prime,Administrativo,402.72,2025-05-18,2025-05-16,Pago,Conta Investimento,2025,5,May,T2,0.0,402.72,-402.72,False,True,False,-2.0,0
+2025-05-04,Despesa,Administrativa,Material de Escritório,Material de escritório,Fornecedor Atlas,TI,561.12,2025-05-24,2025-05-19,Pago,Conta Digital,2025,5,May,T2,0.0,561.12,-561.12,False,True,False,-5.0,0
+2025-05-04,Receita,Serviços,Assessoria,Assessoria administrativa,Cliente Gama,Projetos,4761.48,2025-05-19,,Em Aberto,Conta Corrente,2025,5,May,T2,4761.48,0.0,4761.48,True,False,False,,0
+2025-05-05,Despesa,Impostos,Tributos,Impostos e contribuições,Fornecedor Beta,Comercial,3275.76,2025-06-04,2025-06-02,Pago,Conta Corrente,2025,5,May,T2,0.0,3275.76,-3275.76,False,True,False,-2.0,0
+2025-05-06,Despesa,Operacional,Energia,Conta de energia,Fornecedor Prime,Financeiro,669.56,2025-05-26,,Em Aberto,Conta Corrente,2025,5,May,T2,0.0,669.56,-669.56,True,False,False,,0
+2025-05-06,Despesa,Operacional,Internet,Internet empresarial,Fornecedor Beta,Comercial,2485.17,2025-05-26,2025-05-21,Pago,Conta Digital,2025,5,May,T2,0.0,2485.17,-2485.17,False,True,False,-5.0,0
+2025-05-06,Despesa,Pessoal,Benefícios,Vale transporte,Fornecedor Beta,RH,384.03,2025-05-11,,Em Aberto,Conta Corrente,2025,5,May,T2,0.0,384.03,-384.03,True,False,False,,0
+2025-05-06,Despesa,Pessoal,Benefícios,Vale transporte,Fornecedor Beta,Comercial,1610.86,2025-05-26,2025-05-25,Pago,Conta Investimento,2025,5,May,T2,0.0,1610.86,-1610.86,False,True,False,-1.0,0
+2025-05-07,Despesa,Administrativa,Serviços Terceirizados,Serviços contábeis,Fornecedor Beta,Administrativo,747.21,2025-06-21,2025-06-19,Pago,Conta Investimento,2025,5,May,T2,0.0,747.21,-747.21,False,True,False,-2.0,0
+2025-05-07,Despesa,Pessoal,Benefícios,Plano de benefícios,Fornecedor Atlas,Financeiro,1864.09,2025-07-06,2025-07-01,Pago,Conta Corrente,2025,5,May,T2,0.0,1864.09,-1864.09,False,True,False,-5.0,0
+2025-05-08,Despesa,Administrativa,Material de Escritório,Material de escritório,Fornecedor Central,Financeiro,620.62,2025-05-28,2025-05-25,Pago,Conta Digital,2025,5,May,T2,0.0,620.62,-620.62,False,True,False,-3.0,0
+2025-05-08,Despesa,Administrativa,Material de Escritório,Material de escritório,Fornecedor Beta,Comercial,601.97,2025-05-18,2025-05-18,Pago,Conta Investimento,2025,5,May,T2,0.0,601.97,-601.97,False,True,False,0.0,0
+2025-05-08,Despesa,Operacional,Aluguel,Aluguel do escritório,Fornecedor Central,TI,4746.74,2025-05-13,2025-05-12,Pago,Conta Digital,2025,5,May,T2,0.0,4746.74,-4746.74,False,True,False,-1.0,0
+2025-05-08,Despesa,Pessoal,Salários,Folha de pagamento,Fornecedor Atlas,RH,24913.73,2025-05-18,,Em Aberto,Conta Digital,2025,5,May,T2,0.0,24913.73,-24913.73,True,False,False,,0
+2025-05-09,Despesa,Financeira,Tarifas Bancárias,Tarifa bancária,Fornecedor Beta,Financeiro,1388.25,2025-05-14,2025-05-11,Pago,Conta Investimento,2025,5,May,T2,0.0,1388.25,-1388.25,False,True,False,-3.0,0
+2025-05-09,Receita,Serviços,Assessoria,Assessoria mensal,Cliente Delta,Comercial,3905.38,2025-05-14,,Atrasado,Conta Investimento,2025,5,May,T2,3905.38,0.0,3905.38,True,False,True,,0
+2025-05-09,Receita,Serviços,Consultoria,Consultoria estratégica,Cliente Gama,Consultoria,5818.87,2025-05-24,,Em Aberto,Conta Investimento,2025,5,May,T2,5818.87,0.0,5818.87,True,False,False,,0
+2025-05-10,Despesa,Administrativa,Material de Escritório,Material de escritório,Fornecedor Prime,Operacional,2262.59,2025-05-30,,Em Aberto,Conta Investimento,2025,5,May,T2,0.0,2262.59,-2262.59,True,False,False,,0
+2025-05-10,Despesa,Financeira,Tarifas Bancárias,Tarifa bancária,Fornecedor Beta,Comercial,1265.74,2025-05-20,,Atrasado,Conta Digital,2025,5,May,T2,0.0,1265.74,-1265.74,True,False,True,,0
+2025-05-11,Despesa,Comercial,Marketing,Publicidade digital,Fornecedor Atlas,Administrativo,497.07,2025-06-25,,Em Aberto,Conta Digital,2025,5,May,T2,0.0,497.07,-497.07,True,False,False,,0
+2025-05-11,Despesa,Financeira,Tarifas Bancárias,Tarifa bancária,Fornecedor Digital,Administrativo,1485.58,2025-06-10,,Em Aberto,Conta Corrente,2025,5,May,T2,0.0,1485.58,-1485.58,True,False,False,,0
+2025-05-11,Receita,Serviços,Consultoria,Consultoria empresarial,Cliente Delta,Projetos,4034.33,2025-06-10,2025-06-05,Recebido,Conta Corrente,2025,5,May,T2,4034.33,0.0,4034.33,False,True,False,-5.0,0
+2025-05-11,Receita,Serviços,Assessoria,Assessoria mensal,Cliente Beta,Consultoria,16521.63,2025-05-26,,Em Aberto,Conta Corrente,2025,5,May,T2,16521.63,0.0,16521.63,True,False,False,,0
+2025-05-12,Despesa,Operacional,Aluguel,Aluguel do escritório,Fornecedor Prime,Operacional,2517.43,2025-07-11,,Atrasado,Conta Digital,2025,5,May,T2,0.0,2517.43,-2517.43,True,False,True,,0
+2025-05-13,Despesa,Comercial,Marketing,Publicidade digital,Fornecedor Central,TI,2375.52,2025-05-23,,Atrasado,Conta Investimento,2025,5,May,T2,0.0,2375.52,-2375.52,True,False,True,,0
+2025-05-13,Receita,Serviços,Consultoria,Consultoria financeira,Cliente Ômega,Projetos,14367.75,2025-06-02,2025-05-31,Recebido,Conta Investimento,2025,5,May,T2,14367.75,0.0,14367.75,False,True,False,-2.0,0
+2025-05-14,Despesa,Comercial,Marketing,Publicidade digital,Fornecedor Digital,Operacional,984.79,2025-06-03,2025-06-02,Pago,Conta Investimento,2025,5,May,T2,0.0,984.79,-984.79,False,True,False,-1.0,0
+2025-05-14,Despesa,Financeira,Juros,Juros e encargos,Fornecedor Beta,RH,1296.18,2025-06-13,,Atrasado,Conta Investimento,2025,5,May,T2,0.0,1296.18,-1296.18,True,False,True,,0
+2025-05-15,Despesa,Financeira,Tarifas Bancárias,Tarifa bancária,Fornecedor Prime,Financeiro,1160.81,2025-05-25,,Em Aberto,Conta Digital,2025,5,May,T2,0.0,1160.81,-1160.81,True,False,False,,0
+2025-05-15,Despesa,Operacional,Software,Ferramenta de produtividade,Fornecedor Beta,Comercial,293.44,2025-06-14,2025-06-12,Pago,Conta Investimento,2025,5,May,T2,0.0,293.44,-293.44,False,True,False,-2.0,0
+2025-05-15,Despesa,Operacional,Software,Ferramenta de produtividade,Fornecedor Beta,TI,368.21,2025-06-14,,Em Aberto,Conta Corrente,2025,5,May,T2,0.0,368.21,-368.21,True,False,False,,0
+2025-05-16,Despesa,Administrativa,Material de Escritório,Material de escritório,Fornecedor Prime,Comercial,853.45,2025-06-05,,Cancelado,Conta Corrente,2025,5,May,T2,0.0,853.45,-853.45,False,False,False,,0
+2025-05-16,Despesa,Financeira,Juros,Juros e encargos,Fornecedor Prime,Operacional,594.11,2025-06-05,2025-06-02,Pago,Conta Investimento,2025,5,May,T2,0.0,594.11,-594.11,False,True,False,-3.0,0
+2025-05-16,Receita,Serviços,Projetos,Projeto de melhoria de processos,Cliente Gama,Comercial,24758.63,2025-06-05,2025-05-31,Recebido,Conta Digital,2025,5,May,T2,24758.63,0.0,24758.63,False,True,False,-5.0,0
+2025-05-17,Despesa,Financeira,Juros,Juros e encargos,Fornecedor Prime,Comercial,972.64,2025-07-16,,Em Aberto,Conta Corrente,2025,5,May,T2,0.0,972.64,-972.64,True,False,False,,0
+2025-05-19,Receita,Outras Receitas,Recuperação de Créditos,Recuperação de valores,Cliente Beta,Projetos,8762.45,2025-06-18,2025-06-16,Recebido,Conta Corrente,2025,5,May,T2,8762.45,0.0,8762.45,False,True,False,-2.0,0
+2025-05-20,Receita,Outras Receitas,Recuperação de Créditos,Recuperação de valores,Cliente Gama,Projetos,1600.01,2025-05-25,2025-05-20,Recebido,Conta Investimento,2025,5,May,T2,1600.01,0.0,1600.01,False,True,False,-5.0,0
+2025-05-21,Receita,Serviços,Consultoria,Consultoria empresarial,Cliente Alpha,Comercial,5960.99,2025-06-05,2025-06-02,Recebido,Conta Corrente,2025,5,May,T2,5960.99,0.0,5960.99,False,True,False,-3.0,0
+2025-05-21,Receita,Serviços,Consultoria,Consultoria estratégica,Cliente Alpha,Consultoria,13046.98,2025-05-31,2025-05-28,Recebido,Conta Corrente,2025,5,May,T2,13046.98,0.0,13046.98,False,True,False,-3.0,0
+2025-05-22,Despesa,Financeira,Juros,Juros e encargos,Fornecedor Atlas,Financeiro,1951.84,2025-06-21,,Em Aberto,Conta Digital,2025,5,May,T2,0.0,1951.84,-1951.84,True,False,False,,0
+2025-05-23,Despesa,Impostos,Tributos,Tributos sobre faturamento,Fornecedor Beta,RH,2550.33,2025-05-28,2025-05-28,Pago,Conta Corrente,2025,5,May,T2,0.0,2550.33,-2550.33,False,True,False,0.0,0
+2025-05-23,Receita,Serviços,Assessoria,Assessoria mensal,Cliente Beta,Projetos,3701.64,2025-06-22,,Em Aberto,Conta Investimento,2025,5,May,T2,3701.64,0.0,3701.64,True,False,False,,0
+2025-05-23,Receita,Serviços,Consultoria,Consultoria empresarial,Cliente Alpha,Comercial,7644.67,2025-07-07,2025-07-07,Recebido,Conta Digital,2025,5,May,T2,7644.67,0.0,7644.67,False,True,False,0.0,0
+2025-05-24,Despesa,Comercial,Marketing,Publicidade digital,Fornecedor Prime,RH,280.67,2025-06-13,,Atrasado,Conta Investimento,2025,5,May,T2,0.0,280.67,-280.67,True,False,True,,0
+2025-05-24,Despesa,Financeira,Tarifas Bancárias,Tarifa bancária,Fornecedor Prime,Comercial,2157.16,2025-06-13,2025-06-11,Pago,Conta Digital,2025,5,May,T2,0.0,2157.16,-2157.16,False,True,False,-2.0,0
+2025-05-24,Despesa,Financeira,Tarifas Bancárias,Tarifa bancária,Fornecedor Prime,TI,1221.19,2025-06-23,,Atrasado,Conta Corrente,2025,5,May,T2,0.0,1221.19,-1221.19,True,False,True,,0
+2025-05-24,Despesa,Operacional,Energia,Conta de energia,Fornecedor Digital,Administrativo,3465.94,2025-06-23,2025-06-21,Pago,Conta Digital,2025,5,May,T2,0.0,3465.94,-3465.94,False,True,False,-2.0,0
+2025-05-24,Receita,Serviços,Assessoria,Assessoria administrativa,Cliente Delta,Projetos,8189.34,2025-06-08,,Em Aberto,Conta Corrente,2025,5,May,T2,8189.34,0.0,8189.34,True,False,False,,0
+2025-05-24,Receita,Serviços,Consultoria,Consultoria estratégica,Cliente Gama,Consultoria,5054.04,2025-05-29,,Em Aberto,Conta Digital,2025,5,May,T2,5054.04,0.0,5054.04,True,False,False,,0
+2025-05-24,Receita,Serviços,Assessoria,Assessoria mensal,Cliente Delta,Consultoria,2891.37,2025-06-08,2025-06-05,Recebido,Conta Digital,2025,5,May,T2,2891.37,0.0,2891.37,False,True,False,-3.0,0
+2025-05-25,Despesa,Administrativa,Material de Escritório,Material de escritório,Fornecedor Atlas,Administrativo,1276.35,2025-06-09,,Em Aberto,Conta Investimento,2025,5,May,T2,0.0,1276.35,-1276.35,True,False,False,,0
+2025-05-25,Despesa,Financeira,Tarifas Bancárias,Tarifa bancária,Fornecedor Beta,RH,189.73,2025-06-04,2025-06-02,Pago,Conta Investimento,2025,5,May,T2,0.0,189.73,-189.73,False,True,False,-2.0,0
+2025-05-25,Despesa,Operacional,Internet,Internet empresarial,Fornecedor Digital,RH,339.08,2025-07-24,2025-07-24,Pago,Conta Investimento,2025,5,May,T2,0.0,339.08,-339.08,False,True,False,0.0,0
+2025-05-25,Despesa,Pessoal,Salários,Folha de pagamento,Fornecedor Central,Comercial,8884.67,2025-06-04,,Em Aberto,Conta Digital,2025,5,May,T2,0.0,8884.67,-8884.67,True,False,False,,0
+2025-05-26,Despesa,Administrativa,Material de Escritório,Material de escritório,Fornecedor Prime,Operacional,919.01,2025-06-15,2025-06-12,Pago,Conta Investimento,2025,5,May,T2,0.0,919.01,-919.01,False,True,False,-3.0,0
+2025-05-26,Receita,Serviços,Assessoria,Assessoria mensal,Cliente Gama,Projetos,9629.65,2025-06-15,2025-06-10,Recebido,Conta Corrente,2025,5,May,T2,9629.65,0.0,9629.65,False,True,False,-5.0,0
+2025-05-27,Despesa,Pessoal,Salários,Folha de pagamento,Fornecedor Prime,Comercial,14069.72,2025-06-06,,Em Aberto,Conta Investimento,2025,5,May,T2,0.0,14069.72,-14069.72,True,False,False,,0
+2025-05-27,Receita,Outras Receitas,Recuperação de Créditos,Recuperação de valores,Cliente Alpha,Consultoria,5331.75,2025-06-26,2025-06-21,Recebido,Conta Digital,2025,5,May,T2,5331.75,0.0,5331.75,False,True,False,-5.0,0
+2025-05-27,Receita,Outras Receitas,Recuperação de Créditos,Recuperação de valores,Cliente Gama,Projetos,3966.94,2025-06-16,,Cancelado,Conta Digital,2025,5,May,T2,3966.94,0.0,3966.94,False,False,False,,0
+2025-05-27,Receita,Serviços,Projetos,Projeto de implantação,Cliente Beta,Consultoria,3821.18,2025-06-01,2025-05-29,Recebido,Conta Investimento,2025,5,May,T2,3821.18,0.0,3821.18,False,True,False,-3.0,0
+2025-05-27,Receita,Serviços,Assessoria,Assessoria mensal,Cliente Alpha,Projetos,4731.74,2025-07-11,2025-07-11,Recebido,Conta Corrente,2025,5,May,T2,4731.74,0.0,4731.74,False,True,False,0.0,0
+2025-05-27,Receita,Serviços,Assessoria,Assessoria financeira,Cliente Gama,Projetos,2087.48,2025-06-26,2025-06-24,Recebido,Conta Corrente,2025,5,May,T2,2087.48,0.0,2087.48,False,True,False,-2.0,0
+2025-05-28,Despesa,Comercial,Marketing,Publicidade digital,Fornecedor Prime,TI,900.06,2025-06-12,,Atrasado,Conta Corrente,2025,5,May,T2,0.0,900.06,-900.06,True,False,True,,0
+2025-05-28,Receita,Serviços,Assessoria,Assessoria financeira,Cliente Delta,Projetos,5980.92,2025-06-27,2025-06-25,Recebido,Conta Investimento,2025,5,May,T2,5980.92,0.0,5980.92,False,True,False,-2.0,0
+2025-05-28,Receita,Serviços,Assessoria,Assessoria mensal,Cliente Gama,Consultoria,5845.33,2025-06-07,2025-06-06,Recebido,Conta Investimento,2025,5,May,T2,5845.33,0.0,5845.33,False,True,False,-1.0,0
+2025-05-29,Receita,Outras Receitas,Recuperação de Créditos,Recuperação de valores,Cliente Beta,Projetos,5368.98,2025-06-08,,Em Aberto,Conta Corrente,2025,5,May,T2,5368.98,0.0,5368.98,True,False,False,,0
+2025-05-30,Despesa,Administrativa,Serviços Terceirizados,Suporte técnico,Fornecedor Atlas,Comercial,417.8,2025-06-29,2025-06-24,Pago,Conta Corrente,2025,5,May,T2,0.0,417.8,-417.8,False,True,False,-5.0,0
+2025-05-30,Despesa,Operacional,Internet,Internet empresarial,Fornecedor Central,Administrativo,401.77,2025-06-04,,Em Aberto,Conta Corrente,2025,5,May,T2,0.0,401.77,-401.77,True,False,False,,0
+2025-05-31,Despesa,Financeira,Juros,Juros e encargos,Fornecedor Prime,Comercial,681.76,2025-06-30,2025-06-29,Pago,Conta Digital,2025,5,May,T2,0.0,681.76,-681.76,False,True,False,-1.0,0
+2025-05-31,Despesa,Impostos,Tributos,Impostos e contribuições,Fornecedor Digital,Operacional,6445.71,2025-06-15,2025-06-10,Pago,Conta Digital,2025,5,May,T2,0.0,6445.71,-6445.71,False,True,False,-5.0,0
+2025-05-31,Despesa,Operacional,Software,Sistemas corporativos,Fornecedor Central,RH,949.15,2025-06-15,2025-06-13,Pago,Conta Digital,2025,5,May,T2,0.0,949.15,-949.15,False,True,False,-2.0,0
+2025-05-31,Receita,Serviços,Consultoria,Consultoria estratégica,Cliente Delta,Consultoria,5735.45,2025-06-05,2025-06-02,Recebido,Conta Digital,2025,5,May,T2,5735.45,0.0,5735.45,False,True,False,-3.0,0
+2025-06-01,Despesa,Comercial,Marketing,Publicidade digital,Fornecedor Atlas,Financeiro,686.1,2025-06-21,2025-06-20,Pago,Conta Corrente,2025,6,June,T2,0.0,686.1,-686.1,False,True,False,-1.0,0
+2025-06-01,Despesa,Comercial,Marketing,Publicidade digital,Fornecedor Atlas,Comercial,1142.32,2025-06-11,2025-06-08,Pago,Conta Digital,2025,6,June,T2,0.0,1142.32,-1142.32,False,True,False,-3.0,0
+2025-06-01,Despesa,Operacional,Internet,Internet empresarial,Fornecedor Beta,TI,1292.63,2025-07-01,,Atrasado,Conta Investimento,2025,6,June,T2,0.0,1292.63,-1292.63,True,False,True,,0
+2025-06-01,Despesa,Operacional,Internet,Internet empresarial,Fornecedor Prime,Comercial,2040.54,2025-06-11,,Atrasado,Conta Digital,2025,6,June,T2,0.0,2040.54,-2040.54,True,False,True,,0
+2025-06-01,Receita,Outras Receitas,Recuperação de Créditos,Recuperação de valores,Cliente Ômega,Projetos,3163.29,2025-06-11,2025-06-10,Recebido,Conta Investimento,2025,6,June,T2,3163.29,0.0,3163.29,False,True,False,-1.0,0
+2025-06-02,Despesa,Administrativa,Serviços Terceirizados,Serviços contábeis,Fornecedor Digital,Comercial,1056.47,2025-07-17,,Em Aberto,Conta Corrente,2025,6,June,T2,0.0,1056.47,-1056.47,True,False,False,,0
+2025-06-02,Receita,Serviços,Projetos,Projeto de implantação,Cliente Alpha,Projetos,7268.12,2025-06-22,,Em Aberto,Conta Corrente,2025,6,June,T2,7268.12,0.0,7268.12,True,False,False,,0
+2025-06-03,Despesa,Financeira,Tarifas Bancárias,Tarifa bancária,Fornecedor Central,Comercial,1919.43,2025-07-03,,Em Aberto,Conta Digital,2025,6,June,T2,0.0,1919.43,-1919.43,True,False,False,,0
+2025-06-03,Despesa,Financeira,Juros,Juros e encargos,Fornecedor Central,Financeiro,1772.36,2025-06-18,,Em Aberto,Conta Digital,2025,6,June,T2,0.0,1772.36,-1772.36,True,False,False,,0
+2025-06-04,Despesa,Operacional,Aluguel,Aluguel do escritório,Fornecedor Beta,Financeiro,7846.34,2025-07-04,2025-07-04,Pago,Conta Corrente,2025,6,June,T2,0.0,7846.34,-7846.34,False,True,False,0.0,0
+2025-06-05,Receita,Serviços,Projetos,Projeto de implantação,Cliente Alpha,Projetos,5082.86,2025-06-15,2025-06-13,Recebido,Conta Investimento,2025,6,June,T2,5082.86,0.0,5082.86,False,True,False,-2.0,0
+2025-06-06,Receita,Outras Receitas,Recuperação de Créditos,Recuperação de valores,Cliente Alpha,Consultoria,3445.81,2025-06-16,,Atrasado,Conta Digital,2025,6,June,T2,3445.81,0.0,3445.81,True,False,True,,0
+2025-06-07,Despesa,Financeira,Tarifas Bancárias,Tarifa bancária,Fornecedor Central,RH,574.85,2025-06-27,2025-06-26,Pago,Conta Investimento,2025,6,June,T2,0.0,574.85,-574.85,False,True,False,-1.0,0
+2025-06-07,Despesa,Operacional,Software,Licença de software,Fornecedor Atlas,RH,871.78,2025-06-22,2025-06-17,Pago,Conta Digital,2025,6,June,T2,0.0,871.78,-871.78,False,True,False,-5.0,0
+2025-06-07,Receita,Serviços,Assessoria,Assessoria mensal,Cliente Delta,Projetos,11414.79,2025-06-27,,Em Aberto,Conta Digital,2025,6,June,T2,11414.79,0.0,11414.79,True,False,False,,0
+2025-06-09,Despesa,Financeira,Juros,Juros e encargos,Fornecedor Digital,Administrativo,181.58,2025-06-24,2025-06-21,Pago,Conta Corrente,2025,6,June,T2,0.0,181.58,-181.58,False,True,False,-3.0,0
+2025-06-09,Despesa,Impostos,Tributos,Tributos sobre faturamento,Fornecedor Beta,TI,8217.32,2025-07-09,,Em Aberto,Conta Digital,2025,6,June,T2,0.0,8217.32,-8217.32,True,False,False,,0
+2025-06-09,Receita,Outras Receitas,Recuperação de Créditos,Recuperação de valores,Cliente Alpha,Projetos,4914.73,2025-07-09,2025-07-08,Recebido,Conta Investimento,2025,6,June,T2,4914.73,0.0,4914.73,False,True,False,-1.0,0
+2025-06-09,Receita,Serviços,Assessoria,Assessoria financeira,Cliente Alpha,Consultoria,10162.65,2025-08-08,2025-08-03,Recebido,Conta Investimento,2025,6,June,T2,10162.65,0.0,10162.65,False,True,False,-5.0,0
+2025-06-09,Receita,Serviços,Assessoria,Assessoria mensal,Cliente Ômega,Comercial,7217.87,2025-06-29,,Em Aberto,Conta Digital,2025,6,June,T2,7217.87,0.0,7217.87,True,False,False,,0
+2025-06-09,Receita,Serviços,Projetos,Projeto de análise,Cliente Alpha,Projetos,8489.05,2025-06-19,,Atrasado,Conta Digital,2025,6,June,T2,8489.05,0.0,8489.05,True,False,True,,0
+2025-06-10,Despesa,Administrativa,Serviços Terceirizados,Serviços contábeis,Fornecedor Beta,RH,544.89,2025-06-30,2025-06-28,Pago,Conta Investimento,2025,6,June,T2,0.0,544.89,-544.89,False,True,False,-2.0,0
+2025-06-10,Despesa,Operacional,Internet,Internet empresarial,Fornecedor Prime,Financeiro,959.17,2025-08-09,2025-08-09,Pago,Conta Investimento,2025,6,June,T2,0.0,959.17,-959.17,False,True,False,0.0,0
+2025-06-10,Receita,Outras Receitas,Recuperação de Créditos,Recuperação de valores,Cliente Ômega,Consultoria,18800.22,2025-08-09,,Em Aberto,Conta Investimento,2025,6,June,T2,18800.22,0.0,18800.22,True,False,False,,0
+2025-06-10,Receita,Serviços,Consultoria,Consultoria empresarial,Cliente Ômega,Projetos,11980.19,2025-07-10,2025-07-05,Recebido,Conta Investimento,2025,6,June,T2,11980.19,0.0,11980.19,False,True,False,-5.0,0
+2025-06-11,Despesa,Financeira,Tarifas Bancárias,Tarifa bancária,Fornecedor Beta,Financeiro,951.15,2025-06-26,2025-06-25,Pago,Conta Digital,2025,6,June,T2,0.0,951.15,-951.15,False,True,False,-1.0,0
+2025-06-11,Despesa,Pessoal,Benefícios,Vale transporte,Fornecedor Beta,Comercial,590.47,2025-06-21,2025-06-18,Pago,Conta Corrente,2025,6,June,T2,0.0,590.47,-590.47,False,True,False,-3.0,0
+2025-06-12,Despesa,Financeira,Juros,Juros e encargos,Fornecedor Digital,Operacional,202.64,2025-06-17,2025-06-17,Pago,Conta Corrente,2025,6,June,T2,0.0,202.64,-202.64,False,True,False,0.0,0
+2025-06-12,Despesa,Financeira,Tarifas Bancárias,Tarifa bancária,Fornecedor Beta,RH,2406.32,2025-07-02,2025-07-02,Pago,Conta Investimento,2025,6,June,T2,0.0,2406.32,-2406.32,False,True,False,0.0,0
+2025-06-12,Despesa,Impostos,Tributos,Impostos e contribuições,Fornecedor Beta,RH,7952.64,2025-07-27,2025-07-27,Pago,Conta Corrente,2025,6,June,T2,0.0,7952.64,-7952.64,False,True,False,0.0,0
+2025-06-12,Despesa,Operacional,Software,Licença de software,Fornecedor Prime,TI,2029.15,2025-07-27,,Cancelado,Conta Investimento,2025,6,June,T2,0.0,2029.15,-2029.15,False,False,False,,0
+2025-06-13,Despesa,Financeira,Juros,Juros e encargos,Fornecedor Beta,Operacional,304.44,2025-07-13,2025-07-08,Pago,Conta Corrente,2025,6,June,T2,0.0,304.44,-304.44,False,True,False,-5.0,0
+2025-06-13,Despesa,Pessoal,Benefícios,Plano de benefícios,Fornecedor Beta,Financeiro,455.54,2025-06-18,2025-06-18,Pago,Conta Corrente,2025,6,June,T2,0.0,455.54,-455.54,False,True,False,0.0,0
+2025-06-13,Receita,Serviços,Assessoria,Assessoria mensal,Cliente Beta,Projetos,6301.55,2025-06-28,,Atrasado,Conta Corrente,2025,6,June,T2,6301.55,0.0,6301.55,True,False,True,,0
+2025-06-14,Despesa,Operacional,Energia,Conta de energia,Fornecedor Prime,Comercial,408.61,2025-07-14,2025-07-13,Pago,Conta Investimento,2025,6,June,T2,0.0,408.61,-408.61,False,True,False,-1.0,0
+2025-06-14,Receita,Serviços,Consultoria,Consultoria estratégica,Cliente Delta,Consultoria,2096.16,2025-07-04,2025-07-02,Recebido,Conta Corrente,2025,6,June,T2,2096.16,0.0,2096.16,False,True,False,-2.0,0
+2025-06-14,Receita,Serviços,Consultoria,Consultoria financeira,Cliente Delta,Comercial,15160.86,2025-07-04,,Atrasado,Conta Corrente,2025,6,June,T2,15160.86,0.0,15160.86,True,False,True,,0
+2025-06-15,Receita,Serviços,Assessoria,Assessoria financeira,Cliente Gama,Consultoria,16242.01,2025-06-25,,Em Aberto,Conta Investimento,2025,6,June,T2,16242.01,0.0,16242.01,True,False,False,,0
+2025-06-16,Despesa,Pessoal,Benefícios,Vale transporte,Fornecedor Digital,TI,832.99,2025-08-15,,Cancelado,Conta Investimento,2025,6,June,T2,0.0,832.99,-832.99,False,False,False,,0
+2025-06-16,Receita,Serviços,Projetos,Projeto de implantação,Cliente Alpha,Projetos,6249.26,2025-06-26,2025-06-23,Recebido,Conta Corrente,2025,6,June,T2,6249.26,0.0,6249.26,False,True,False,-3.0,0
+2025-06-17,Despesa,Pessoal,Benefícios,Vale transporte,Fornecedor Prime,Financeiro,2588.97,2025-08-01,2025-07-29,Pago,Conta Corrente,2025,6,June,T2,0.0,2588.97,-2588.97,False,True,False,-3.0,0
+2025-06-17,Receita,Outras Receitas,Recuperação de Créditos,Recuperação de valores,Cliente Beta,Comercial,3266.82,2025-08-01,2025-07-29,Recebido,Conta Digital,2025,6,June,T2,3266.82,0.0,3266.82,False,True,False,-3.0,0
+2025-06-18,Receita,Serviços,Assessoria,Assessoria administrativa,Cliente Beta,Consultoria,3836.21,2025-07-18,2025-07-16,Recebido,Conta Investimento,2025,6,June,T2,3836.21,0.0,3836.21,False,True,False,-2.0,0
+2025-06-19,Despesa,Operacional,Energia,Conta de energia,Fornecedor Atlas,RH,526.86,2025-07-09,,Cancelado,Conta Investimento,2025,6,June,T2,0.0,526.86,-526.86,False,False,False,,0
+2025-06-19,Despesa,Operacional,Internet,Internet empresarial,Fornecedor Atlas,TI,156.61,2025-08-03,,Cancelado,Conta Corrente,2025,6,June,T2,0.0,156.61,-156.61,False,False,False,,0
+2025-06-19,Despesa,Pessoal,Salários,Folha de pagamento,Fornecedor Digital,Administrativo,23787.63,2025-08-03,2025-08-01,Pago,Conta Digital,2025,6,June,T2,0.0,23787.63,-23787.63,False,True,False,-2.0,0
+2025-06-19,Despesa,Pessoal,Benefícios,Plano de benefícios,Fornecedor Central,Comercial,554.7,2025-06-24,2025-06-19,Pago,Conta Investimento,2025,6,June,T2,0.0,554.7,-554.7,False,True,False,-5.0,0
+2025-06-19,Receita,Serviços,Assessoria,Assessoria administrativa,Cliente Beta,Projetos,12261.35,2025-07-04,,Em Aberto,Conta Digital,2025,6,June,T2,12261.35,0.0,12261.35,True,False,False,,0
+2025-06-20,Despesa,Operacional,Software,Sistemas corporativos,Fornecedor Prime,Operacional,774.29,2025-07-10,,Em Aberto,Conta Corrente,2025,6,June,T2,0.0,774.29,-774.29,True,False,False,,0
+2025-06-21,Despesa,Financeira,Juros,Juros e encargos,Fornecedor Digital,Administrativo,770.54,2025-08-05,2025-08-03,Pago,Conta Investimento,2025,6,June,T2,0.0,770.54,-770.54,False,True,False,-2.0,0
+2025-06-21,Despesa,Financeira,Juros,Juros e encargos,Fornecedor Prime,TI,591.6,2025-07-11,2025-07-11,Pago,Conta Digital,2025,6,June,T2,0.0,591.6,-591.6,False,True,False,0.0,0
+2025-06-21,Despesa,Operacional,Software,Sistemas corporativos,Fornecedor Atlas,RH,1815.02,2025-07-11,2025-07-06,Pago,Conta Digital,2025,6,June,T2,0.0,1815.02,-1815.02,False,True,False,-5.0,0
+2025-06-21,Receita,Outras Receitas,Recuperação de Créditos,Recuperação de valores,Cliente Beta,Consultoria,5641.41,2025-08-05,,Em Aberto,Conta Corrente,2025,6,June,T2,5641.41,0.0,5641.41,True,False,False,,0
+2025-06-22,Despesa,Financeira,Tarifas Bancárias,Tarifa bancária,Fornecedor Central,TI,677.35,2025-07-12,,Em Aberto,Conta Digital,2025,6,June,T2,0.0,677.35,-677.35,True,False,False,,0
+2025-06-22,Despesa,Operacional,Aluguel,Aluguel do escritório,Fornecedor Beta,Operacional,3439.23,2025-07-07,2025-07-05,Pago,Conta Digital,2025,6,June,T2,0.0,3439.23,-3439.23,False,True,False,-2.0,0
+2025-06-22,Despesa,Operacional,Energia,Conta de energia,Fornecedor Atlas,RH,776.69,2025-07-22,2025-07-17,Pago,Conta Investimento,2025,6,June,T2,0.0,776.69,-776.69,False,True,False,-5.0,0
+2025-06-22,Despesa,Pessoal,Benefícios,Plano de benefícios,Fornecedor Prime,RH,1142.24,2025-07-22,2025-07-21,Pago,Conta Corrente,2025,6,June,T2,0.0,1142.24,-1142.24,False,True,False,-1.0,0
+2025-06-22,Receita,Serviços,Assessoria,Assessoria administrativa,Cliente Alpha,Consultoria,10197.09,2025-07-12,2025-07-12,Recebido,Conta Digital,2025,6,June,T2,10197.09,0.0,10197.09,False,True,False,0.0,0
+2025-06-23,Receita,Outras Receitas,Recuperação de Créditos,Recuperação de valores,Cliente Delta,Consultoria,2355.9,2025-07-08,2025-07-05,Recebido,Conta Corrente,2025,6,June,T2,2355.9,0.0,2355.9,False,True,False,-3.0,0
+2025-06-23,Receita,Serviços,Assessoria,Assessoria mensal,Cliente Beta,Comercial,8922.27,2025-07-13,2025-07-10,Recebido,Conta Investimento,2025,6,June,T2,8922.27,0.0,8922.27,False,True,False,-3.0,0
+2025-06-24,Receita,Serviços,Projetos,Projeto de análise,Cliente Beta,Consultoria,10211.87,2025-07-14,2025-07-11,Recebido,Conta Digital,2025,6,June,T2,10211.87,0.0,10211.87,False,True,False,-3.0,0
+2025-06-25,Despesa,Operacional,Energia,Conta de energia,Fornecedor Beta,Financeiro,731.26,2025-07-25,2025-07-22,Pago,Conta Corrente,2025,6,June,T2,0.0,731.26,-731.26,False,True,False,-3.0,0
+2025-06-25,Despesa,Operacional,Aluguel,Aluguel do escritório,Fornecedor Central,Financeiro,8726.13,2025-08-09,2025-08-09,Pago,Conta Digital,2025,6,June,T2,0.0,8726.13,-8726.13,False,True,False,0.0,0
+2025-06-26,Despesa,Comercial,Marketing,Publicidade digital,Fornecedor Digital,Operacional,585.28,2025-07-11,2025-07-10,Pago,Conta Corrente,2025,6,June,T2,0.0,585.28,-585.28,False,True,False,-1.0,0
+2025-06-26,Despesa,Financeira,Tarifas Bancárias,Tarifa bancária,Fornecedor Central,TI,943.92,2025-07-26,2025-07-25,Pago,Conta Corrente,2025,6,June,T2,0.0,943.92,-943.92,False,True,False,-1.0,0
+2025-06-26,Despesa,Operacional,Software,Ferramenta de produtividade,Fornecedor Atlas,Administrativo,859.33,2025-07-01,,Atrasado,Conta Digital,2025,6,June,T2,0.0,859.33,-859.33,True,False,True,,0
+2025-06-26,Receita,Serviços,Consultoria,Consultoria financeira,Cliente Ômega,Projetos,7574.28,2025-08-10,2025-08-07,Recebido,Conta Corrente,2025,6,June,T2,7574.28,0.0,7574.28,False,True,False,-3.0,0
+2025-06-27,Despesa,Impostos,Tributos,Impostos e contribuições,Fornecedor Atlas,TI,5200.75,2025-07-07,2025-07-02,Pago,Conta Digital,2025,6,June,T2,0.0,5200.75,-5200.75,False,True,False,-5.0,0
+2025-06-27,Receita,Outras Receitas,Recuperação de Créditos,Recuperação de valores,Cliente Delta,Projetos,3426.11,2025-07-27,2025-07-25,Recebido,Conta Digital,2025,6,June,T2,3426.11,0.0,3426.11,False,True,False,-2.0,0
+2025-06-28,Despesa,Administrativa,Serviços Terceirizados,Serviços contábeis,Fornecedor Atlas,Administrativo,600.62,2025-07-28,2025-07-25,Pago,Conta Digital,2025,6,June,T2,0.0,600.62,-600.62,False,True,False,-3.0,0
+2025-06-28,Receita,Serviços,Projetos,Projeto de análise,Cliente Delta,Consultoria,7141.81,2025-07-13,2025-07-13,Recebido,Conta Investimento,2025,6,June,T2,7141.81,0.0,7141.81,False,True,False,0.0,0
+2025-06-29,Despesa,Administrativa,Material de Escritório,Material de escritório,Fornecedor Beta,Administrativo,760.7,2025-08-13,2025-08-12,Pago,Conta Digital,2025,6,June,T2,0.0,760.7,-760.7,False,True,False,-1.0,0
+2025-06-29,Receita,Outras Receitas,Recuperação de Créditos,Recuperação de valores,Cliente Ômega,Projetos,15612.91,2025-07-29,2025-07-26,Recebido,Conta Corrente,2025,6,June,T2,15612.91,0.0,15612.91,False,True,False,-3.0,0
+2025-06-29,Receita,Serviços,Consultoria,Consultoria estratégica,Cliente Delta,Projetos,8191.26,2025-07-29,2025-07-24,Recebido,Conta Digital,2025,6,June,T2,8191.26,0.0,8191.26,False,True,False,-5.0,0
+2025-06-30,Despesa,Financeira,Tarifas Bancárias,Tarifa bancária,Fornecedor Beta,Administrativo,1603.14,2025-07-30,,Atrasado,Conta Corrente,2025,6,June,T2,0.0,1603.14,-1603.14,True,False,True,,0
+2025-06-30,Despesa,Operacional,Software,Ferramenta de produtividade,Fornecedor Beta,Financeiro,480.15,2025-07-05,2025-07-05,Pago,Conta Investimento,2025,6,June,T2,0.0,480.15,-480.15,False,True,False,0.0,0
+2025-07-01,Receita,Serviços,Assessoria,Assessoria administrativa,Cliente Ômega,Comercial,12231.37,2025-07-11,2025-07-11,Recebido,Conta Corrente,2025,7,July,T3,12231.37,0.0,12231.37,False,True,False,0.0,0
+2025-07-02,Receita,Outras Receitas,Recuperação de Créditos,Recuperação de valores,Cliente Delta,Consultoria,5963.36,2025-07-22,2025-07-17,Recebido,Conta Investimento,2025,7,July,T3,5963.36,0.0,5963.36,False,True,False,-5.0,0
+2025-07-03,Receita,Serviços,Assessoria,Assessoria administrativa,Cliente Ômega,Projetos,10108.68,2025-07-23,,Em Aberto,Conta Digital,2025,7,July,T3,10108.68,0.0,10108.68,True,False,False,,0
+2025-07-04,Despesa,Administrativa,Serviços Terceirizados,Suporte técnico,Fornecedor Atlas,RH,579.87,2025-08-03,2025-07-31,Pago,Conta Investimento,2025,7,July,T3,0.0,579.87,-579.87,False,True,False,-3.0,0
+2025-07-05,Despesa,Financeira,Juros,Juros e encargos,Fornecedor Prime,Financeiro,639.77,2025-07-15,,Em Aberto,Conta Investimento,2025,7,July,T3,0.0,639.77,-639.77,True,False,False,,0
+2025-07-05,Despesa,Operacional,Energia,Conta de energia,Fornecedor Digital,Operacional,245.15,2025-08-04,2025-07-30,Pago,Conta Investimento,2025,7,July,T3,0.0,245.15,-245.15,False,True,False,-5.0,0
+2025-07-05,Receita,Serviços,Consultoria,Consultoria estratégica,Cliente Beta,Projetos,2174.43,2025-07-20,2025-07-19,Recebido,Conta Digital,2025,7,July,T3,2174.43,0.0,2174.43,False,True,False,-1.0,0
+2025-07-06,Despesa,Comercial,Marketing,Publicidade digital,Fornecedor Atlas,Comercial,1444.01,2025-07-11,,Em Aberto,Conta Corrente,2025,7,July,T3,0.0,1444.01,-1444.01,True,False,False,,0
+2025-07-06,Despesa,Impostos,Tributos,Impostos e contribuições,Fornecedor Digital,TI,3316.7,2025-09-04,,Cancelado,Conta Investimento,2025,7,July,T3,0.0,3316.7,-3316.7,False,False,False,,0
+2025-07-06,Despesa,Operacional,Internet,Internet empresarial,Fornecedor Central,Operacional,491.99,2025-08-05,,Atrasado,Conta Digital,2025,7,July,T3,0.0,491.99,-491.99,True,False,True,,0
+2025-07-06,Receita,Serviços,Projetos,Projeto de melhoria de processos,Cliente Beta,Projetos,7042.52,2025-07-16,2025-07-13,Recebido,Conta Corrente,2025,7,July,T3,7042.52,0.0,7042.52,False,True,False,-3.0,0
+2025-07-07,Receita,Serviços,Assessoria,Assessoria mensal,Cliente Beta,Projetos,12549.63,2025-08-06,2025-08-01,Recebido,Conta Corrente,2025,7,July,T3,12549.63,0.0,12549.63,False,True,False,-5.0,0
+2025-07-07,Receita,Serviços,Projetos,Projeto de implantação,Cliente Beta,Consultoria,13322.23,2025-07-12,2025-07-12,Recebido,Conta Investimento,2025,7,July,T3,13322.23,0.0,13322.23,False,True,False,0.0,0
+2025-07-07,Receita,Serviços,Consultoria,Consultoria financeira,Cliente Beta,Consultoria,11737.55,2025-08-06,2025-08-06,Recebido,Conta Corrente,2025,7,July,T3,11737.55,0.0,11737.55,False,True,False,0.0,0
+2025-07-08,Despesa,Pessoal,Salários,Folha de pagamento,Fornecedor Atlas,RH,16034.64,2025-08-22,2025-08-20,Pago,Conta Corrente,2025,7,July,T3,0.0,16034.64,-16034.64,False,True,False,-2.0,0
+2025-07-08,Receita,Serviços,Projetos,Projeto de implantação,Cliente Beta,Projetos,15921.76,2025-08-07,2025-08-07,Recebido,Conta Investimento,2025,7,July,T3,15921.76,0.0,15921.76,False,True,False,0.0,0
+2025-07-09,Despesa,Administrativa,Material de Escritório,Material de escritório,Fornecedor Prime,TI,692.03,2025-07-19,2025-07-19,Pago,Conta Digital,2025,7,July,T3,0.0,692.03,-692.03,False,True,False,0.0,0
+2025-07-09,Despesa,Operacional,Internet,Internet empresarial,Fornecedor Atlas,RH,150.35,2025-08-08,2025-08-06,Pago,Conta Corrente,2025,7,July,T3,0.0,150.35,-150.35,False,True,False,-2.0,0
+2025-07-09,Despesa,Operacional,Aluguel,Aluguel do escritório,Fornecedor Prime,Financeiro,4518.92,2025-09-07,2025-09-04,Pago,Conta Corrente,2025,7,July,T3,0.0,4518.92,-4518.92,False,True,False,-3.0,0
+2025-07-09,Despesa,Operacional,Internet,Internet empresarial,Fornecedor Beta,Financeiro,303.79,2025-07-29,2025-07-27,Pago,Conta Digital,2025,7,July,T3,0.0,303.79,-303.79,False,True,False,-2.0,0
+2025-07-09,Despesa,Operacional,Aluguel,Aluguel do escritório,Fornecedor Beta,Comercial,7472.82,2025-07-14,2025-07-13,Pago,Conta Digital,2025,7,July,T3,0.0,7472.82,-7472.82,False,True,False,-1.0,0
+2025-07-09,Despesa,Operacional,Aluguel,Aluguel do escritório,Fornecedor Prime,Financeiro,7358.63,2025-07-19,,Atrasado,Conta Investimento,2025,7,July,T3,0.0,7358.63,-7358.63,True,False,True,,0
+2025-07-10,Despesa,Operacional,Energia,Conta de energia,Fornecedor Prime,RH,227.23,2025-07-20,,Atrasado,Conta Corrente,2025,7,July,T3,0.0,227.23,-227.23,True,False,True,,0
+2025-07-10,Receita,Serviços,Projetos,Projeto de melhoria de processos,Cliente Delta,Comercial,21456.06,2025-08-24,2025-08-24,Recebido,Conta Investimento,2025,7,July,T3,21456.06,0.0,21456.06,False,True,False,0.0,0
+2025-07-10,Receita,Serviços,Consultoria,Consultoria estratégica,Cliente Alpha,Comercial,2260.72,2025-07-15,2025-07-10,Recebido,Conta Investimento,2025,7,July,T3,2260.72,0.0,2260.72,False,True,False,-5.0,0
+2025-07-11,Despesa,Administrativa,Material de Escritório,Material de escritório,Fornecedor Beta,Operacional,317.35,2025-07-26,2025-07-26,Pago,Conta Investimento,2025,7,July,T3,0.0,317.35,-317.35,False,True,False,0.0,0
+2025-07-11,Despesa,Financeira,Tarifas Bancárias,Tarifa bancária,Fornecedor Atlas,Financeiro,806.31,2025-07-31,,Cancelado,Conta Digital,2025,7,July,T3,0.0,806.31,-806.31,False,False,False,,0
+2025-07-11,Despesa,Operacional,Energia,Conta de energia,Fornecedor Beta,Operacional,931.24,2025-07-31,2025-07-28,Pago,Conta Investimento,2025,7,July,T3,0.0,931.24,-931.24,False,True,False,-3.0,0
+2025-07-11,Despesa,Operacional,Internet,Internet empresarial,Fornecedor Atlas,Operacional,1821.93,2025-08-25,2025-08-20,Pago,Conta Investimento,2025,7,July,T3,0.0,1821.93,-1821.93,False,True,False,-5.0,0
+2025-07-11,Receita,Serviços,Consultoria,Consultoria financeira,Cliente Alpha,Projetos,8295.33,2025-08-25,,Atrasado,Conta Investimento,2025,7,July,T3,8295.33,0.0,8295.33,True,False,True,,0
+2025-07-11,Receita,Serviços,Assessoria,Assessoria administrativa,Cliente Ômega,Consultoria,6955.5,2025-07-21,2025-07-19,Recebido,Conta Digital,2025,7,July,T3,6955.5,0.0,6955.5,False,True,False,-2.0,0
+2025-07-13,Despesa,Operacional,Aluguel,Aluguel do escritório,Fornecedor Prime,RH,2792.34,2025-08-12,2025-08-10,Pago,Conta Investimento,2025,7,July,T3,0.0,2792.34,-2792.34,False,True,False,-2.0,0
+2025-07-13,Receita,Serviços,Assessoria,Assessoria financeira,Cliente Ômega,Consultoria,6532.16,2025-08-02,,Em Aberto,Conta Investimento,2025,7,July,T3,6532.16,0.0,6532.16,True,False,False,,0
+2025-07-14,Despesa,Administrativa,Serviços Terceirizados,Serviços contábeis,Fornecedor Digital,TI,3616.77,2025-08-28,2025-08-27,Pago,Conta Corrente,2025,7,July,T3,0.0,3616.77,-3616.77,False,True,False,-1.0,0
+2025-07-15,Despesa,Administrativa,Material de Escritório,Material de escritório,Fornecedor Atlas,Administrativo,1380.25,2025-08-14,,Em Aberto,Conta Corrente,2025,7,July,T3,0.0,1380.25,-1380.25,True,False,False,,0
+2025-07-15,Despesa,Administrativa,Serviços Terceirizados,Serviços jurídicos,Fornecedor Atlas,Financeiro,510.2,2025-07-20,,Em Aberto,Conta Digital,2025,7,July,T3,0.0,510.2,-510.2,True,False,False,,0
+2025-07-16,Despesa,Operacional,Software,Ferramenta de produtividade,Fornecedor Central,Financeiro,1858.48,2025-08-15,2025-08-10,Pago,Conta Investimento,2025,7,July,T3,0.0,1858.48,-1858.48,False,True,False,-5.0,0
+2025-07-16,Despesa,Pessoal,Benefícios,Vale alimentação,Fornecedor Atlas,Financeiro,1515.19,2025-08-15,2025-08-10,Pago,Conta Corrente,2025,7,July,T3,0.0,1515.19,-1515.19,False,True,False,-5.0,0
+2025-07-17,Despesa,Operacional,Aluguel,Aluguel do escritório,Fornecedor Prime,Administrativo,5570.59,2025-08-16,,Em Aberto,Conta Corrente,2025,7,July,T3,0.0,5570.59,-5570.59,True,False,False,,0
+2025-07-17,Despesa,Operacional,Software,Licença de software,Fornecedor Digital,RH,1740.56,2025-08-31,,Em Aberto,Conta Investimento,2025,7,July,T3,0.0,1740.56,-1740.56,True,False,False,,0
+2025-07-17,Receita,Serviços,Consultoria,Consultoria empresarial,Cliente Beta,Comercial,10501.88,2025-08-16,2025-08-11,Recebido,Conta Corrente,2025,7,July,T3,10501.88,0.0,10501.88,False,True,False,-5.0,0
+2025-07-18,Despesa,Operacional,Energia,Conta de energia,Fornecedor Atlas,Financeiro,1829.81,2025-07-28,2025-07-26,Pago,Conta Digital,2025,7,July,T3,0.0,1829.81,-1829.81,False,True,False,-2.0,0
+2025-07-20,Despesa,Administrativa,Material de Escritório,Material de escritório,Fornecedor Prime,TI,1494.63,2025-08-09,2025-08-09,Pago,Conta Corrente,2025,7,July,T3,0.0,1494.63,-1494.63,False,True,False,0.0,0
+2025-07-20,Despesa,Pessoal,Benefícios,Plano de benefícios,Fornecedor Central,RH,727.66,2025-08-19,2025-08-18,Pago,Conta Digital,2025,7,July,T3,0.0,727.66,-727.66,False,True,False,-1.0,0
+2025-07-20,Receita,Serviços,Consultoria,Consultoria financeira,Cliente Alpha,Projetos,35000.0,2025-07-30,,Cancelado,Conta Digital,2025,7,July,T3,35000.0,0.0,35000.0,False,False,False,,0
+2025-07-21,Despesa,Administrativa,Material de Escritório,Material de escritório,Fornecedor Digital,Administrativo,1048.86,2025-09-04,2025-09-01,Pago,Conta Investimento,2025,7,July,T3,0.0,1048.86,-1048.86,False,True,False,-3.0,0
+2025-07-21,Despesa,Administrativa,Material de Escritório,Material de escritório,Fornecedor Digital,Financeiro,727.82,2025-08-20,2025-08-19,Pago,Conta Investimento,2025,7,July,T3,0.0,727.82,-727.82,False,True,False,-1.0,0
+2025-07-21,Receita,Serviços,Projetos,Projeto de implantação,Cliente Gama,Consultoria,7763.94,2025-08-10,2025-08-08,Recebido,Conta Investimento,2025,7,July,T3,7763.94,0.0,7763.94,False,True,False,-2.0,0
+2025-07-22,Despesa,Pessoal,Salários,Folha de pagamento,Fornecedor Central,Operacional,24856.88,2025-08-21,,Em Aberto,Conta Digital,2025,7,July,T3,0.0,24856.88,-24856.88,True,False,False,,0
+2025-07-22,Receita,Serviços,Consultoria,Consultoria financeira,Cliente Alpha,Comercial,2200.11,2025-07-27,,Cancelado,Conta Investimento,2025,7,July,T3,2200.11,0.0,2200.11,False,False,False,,0
+2025-07-23,Despesa,Financeira,Juros,Juros e encargos,Fornecedor Central,TI,1569.27,2025-09-21,2025-09-18,Pago,Conta Investimento,2025,7,July,T3,0.0,1569.27,-1569.27,False,True,False,-3.0,0
+2025-07-24,Receita,Outras Receitas,Recuperação de Créditos,Recuperação de valores,Cliente Gama,Projetos,1241.63,2025-08-23,2025-08-20,Recebido,Conta Investimento,2025,7,July,T3,1241.63,0.0,1241.63,False,True,False,-3.0,0
+2025-07-25,Despesa,Operacional,Energia,Conta de energia,Fornecedor Central,Administrativo,1206.4,2025-09-23,2025-09-20,Pago,Conta Corrente,2025,7,July,T3,0.0,1206.4,-1206.4,False,True,False,-3.0,0
+2025-07-25,Receita,Outras Receitas,Recuperação de Créditos,Recuperação de valores,Cliente Gama,Projetos,3508.3,2025-08-04,,Atrasado,Conta Investimento,2025,7,July,T3,3508.3,0.0,3508.3,True,False,True,,0
+2025-07-26,Despesa,Operacional,Software,Ferramenta de produtividade,Fornecedor Atlas,TI,640.93,2025-08-25,2025-08-24,Pago,Conta Investimento,2025,7,July,T3,0.0,640.93,-640.93,False,True,False,-1.0,0
+2025-07-26,Despesa,Pessoal,Benefícios,Plano de benefícios,Fornecedor Beta,Operacional,2832.04,2025-08-10,2025-08-10,Pago,Conta Investimento,2025,7,July,T3,0.0,2832.04,-2832.04,False,True,False,0.0,0
+2025-07-27,Despesa,Impostos,Tributos,Impostos e contribuições,Fornecedor Digital,Financeiro,6236.92,2025-08-06,,Em Aberto,Conta Digital,2025,7,July,T3,0.0,6236.92,-6236.92,True,False,False,,0
+2025-07-27,Despesa,Pessoal,Salários,Folha de pagamento,Fornecedor Central,RH,24050.8,2025-08-26,2025-08-23,Pago,Conta Corrente,2025,7,July,T3,0.0,24050.8,-24050.8,False,True,False,-3.0,0
+2025-07-27,Despesa,Pessoal,Salários,Folha de pagamento,Fornecedor Central,Administrativo,20118.44,2025-08-16,,Atrasado,Conta Investimento,2025,7,July,T3,0.0,20118.44,-20118.44,True,False,True,,0
+2025-07-31,Despesa,Financeira,Tarifas Bancárias,Tarifa bancária,Fornecedor Atlas,RH,485.48,2025-08-05,2025-08-03,Pago,Conta Digital,2025,7,July,T3,0.0,485.48,-485.48,False,True,False,-2.0,0
+2025-08-01,Despesa,Financeira,Tarifas Bancárias,Tarifa bancária,Fornecedor Digital,RH,281.32,2025-08-06,2025-08-05,Pago,Conta Investimento,2025,8,August,T3,0.0,281.32,-281.32,False,True,False,-1.0,0
+2025-08-01,Despesa,Pessoal,Salários,Folha de pagamento,Fornecedor Prime,Financeiro,25048.75,2025-08-21,,Em Aberto,Conta Corrente,2025,8,August,T3,0.0,25048.75,-25048.75,True,False,False,,0
+2025-08-02,Despesa,Impostos,Tributos,Impostos e contribuições,Fornecedor Atlas,RH,7263.17,2025-08-12,,Em Aberto,Conta Corrente,2025,8,August,T3,0.0,7263.17,-7263.17,True,False,False,,0
+2025-08-03,Receita,Serviços,Consultoria,Consultoria estratégica,Cliente Beta,Consultoria,13516.9,2025-08-18,,Em Aberto,Conta Corrente,2025,8,August,T3,13516.9,0.0,13516.9,True,False,False,,0
+2025-08-03,Receita,Serviços,Assessoria,Assessoria administrativa,Cliente Delta,Projetos,8722.88,2025-08-08,2025-08-07,Recebido,Conta Digital,2025,8,August,T3,8722.88,0.0,8722.88,False,True,False,-1.0,0
+2025-08-03,Receita,Serviços,Consultoria,Consultoria financeira,Cliente Delta,Projetos,3228.32,2025-08-13,,Em Aberto,Conta Corrente,2025,8,August,T3,3228.32,0.0,3228.32,True,False,False,,0
+2025-08-03,Receita,Serviços,Assessoria,Assessoria administrativa,Cliente Gama,Comercial,7974.22,2025-08-13,2025-08-12,Recebido,Conta Corrente,2025,8,August,T3,7974.22,0.0,7974.22,False,True,False,-1.0,0
+2025-08-03,Receita,Serviços,Projetos,Projeto de análise,Cliente Delta,Projetos,19543.06,2025-08-23,2025-08-21,Recebido,Conta Digital,2025,8,August,T3,19543.06,0.0,19543.06,False,True,False,-2.0,0
+2025-08-04,Despesa,Comercial,Marketing,Publicidade digital,Fornecedor Prime,Financeiro,645.46,2025-08-19,2025-08-16,Pago,Conta Corrente,2025,8,August,T3,0.0,645.46,-645.46,False,True,False,-3.0,0
+2025-08-05,Despesa,Administrativa,Material de Escritório,Material de escritório,Fornecedor Prime,Operacional,1457.8,2025-10-04,2025-10-04,Pago,Conta Investimento,2025,8,August,T3,0.0,1457.8,-1457.8,False,True,False,0.0,0
+2025-08-05,Despesa,Financeira,Tarifas Bancárias,Tarifa bancária,Fornecedor Beta,Financeiro,622.01,2025-08-25,2025-08-20,Pago,Conta Investimento,2025,8,August,T3,0.0,622.01,-622.01,False,True,False,-5.0,0
+2025-08-05,Despesa,Pessoal,Benefícios,Plano de benefícios,Fornecedor Atlas,RH,237.24,2025-08-10,2025-08-05,Pago,Conta Digital,2025,8,August,T3,0.0,237.24,-237.24,False,True,False,-5.0,0
+2025-08-05,Receita,Outras Receitas,Recuperação de Créditos,Recuperação de valores,Cliente Gama,Consultoria,2739.65,2025-09-19,2025-09-17,Recebido,Conta Investimento,2025,8,August,T3,2739.65,0.0,2739.65,False,True,False,-2.0,0
+2025-08-05,Receita,Outras Receitas,Recuperação de Créditos,Recuperação de valores,Cliente Delta,Projetos,10014.22,2025-08-20,,Atrasado,Conta Investimento,2025,8,August,T3,10014.22,0.0,10014.22,True,False,True,,0
+2025-08-05,Receita,Serviços,Projetos,Projeto de análise,Cliente Beta,Projetos,2403.68,2025-08-15,,Atrasado,Conta Investimento,2025,8,August,T3,2403.68,0.0,2403.68,True,False,True,,0
+2025-08-06,Despesa,Comercial,Marketing,Material institucional,Fornecedor Central,Financeiro,668.0,2025-08-26,2025-08-23,Pago,Conta Corrente,2025,8,August,T3,0.0,668.0,-668.0,False,True,False,-3.0,0
+2025-08-06,Despesa,Operacional,Internet,Internet empresarial,Fornecedor Digital,Operacional,413.62,2025-09-20,2025-09-15,Pago,Conta Corrente,2025,8,August,T3,0.0,413.62,-413.62,False,True,False,-5.0,0
+2025-08-06,Receita,Serviços,Assessoria,Assessoria mensal,Cliente Beta,Consultoria,5830.91,2025-08-16,,Cancelado,Conta Digital,2025,8,August,T3,5830.91,0.0,5830.91,False,False,False,,0
+2025-08-06,Receita,Serviços,Projetos,Projeto de implantação,Cliente Ômega,Projetos,5170.63,2025-09-05,2025-09-02,Recebido,Conta Digital,2025,8,August,T3,5170.63,0.0,5170.63,False,True,False,-3.0,0
+2025-08-08,Despesa,Financeira,Juros,Juros e encargos,Fornecedor Digital,RH,271.04,2025-09-07,,Atrasado,Conta Investimento,2025,8,August,T3,0.0,271.04,-271.04,True,False,True,,0
+2025-08-08,Despesa,Impostos,Tributos,Tributos sobre faturamento,Fornecedor Digital,Financeiro,9066.16,2025-09-22,,Em Aberto,Conta Digital,2025,8,August,T3,0.0,9066.16,-9066.16,True,False,False,,0
+2025-08-08,Despesa,Operacional,Energia,Conta de energia,Fornecedor Atlas,Financeiro,605.42,2025-08-13,2025-08-10,Pago,Conta Investimento,2025,8,August,T3,0.0,605.42,-605.42,False,True,False,-3.0,0
+2025-08-08,Receita,Outras Receitas,Recuperação de Créditos,Recuperação de valores,Cliente Ômega,Comercial,3159.14,2025-08-13,2025-08-10,Recebido,Conta Corrente,2025,8,August,T3,3159.14,0.0,3159.14,False,True,False,-3.0,0
+2025-08-08,Receita,Serviços,Assessoria,Assessoria administrativa,Cliente Delta,Projetos,17623.19,2025-10-07,,Atrasado,Conta Investimento,2025,8,August,T3,17623.19,0.0,17623.19,True,False,True,,0
+2025-08-08,Receita,Serviços,Projetos,Projeto de implantação,Cliente Alpha,Projetos,9368.08,2025-09-07,,Em Aberto,Conta Digital,2025,8,August,T3,9368.08,0.0,9368.08,True,False,False,,0
+2025-08-09,Despesa,Operacional,Aluguel,Aluguel do escritório,Fornecedor Central,Comercial,6387.1,2025-09-08,2025-09-07,Pago,Conta Digital,2025,8,August,T3,0.0,6387.1,-6387.1,False,True,False,-1.0,0
+2025-08-10,Despesa,Pessoal,Salários,Folha de pagamento,Fornecedor Beta,Financeiro,22219.54,2025-09-09,,Em Aberto,Conta Digital,2025,8,August,T3,0.0,22219.54,-22219.54,True,False,False,,0
+2025-08-10,Receita,Serviços,Projetos,Projeto de implantação,Cliente Alpha,Projetos,5865.0,2025-09-09,2025-09-04,Recebido,Conta Corrente,2025,8,August,T3,5865.0,0.0,5865.0,False,True,False,-5.0,0
+2025-08-10,Receita,Serviços,Assessoria,Assessoria financeira,Cliente Alpha,Projetos,5468.76,2025-08-25,2025-08-22,Recebido,Conta Investimento,2025,8,August,T3,5468.76,0.0,5468.76,False,True,False,-3.0,0
+2025-08-11,Despesa,Operacional,Energia,Conta de energia,Fornecedor Atlas,Comercial,715.86,2025-08-16,,Em Aberto,Conta Corrente,2025,8,August,T3,0.0,715.86,-715.86,True,False,False,,0
+2025-08-11,Despesa,Pessoal,Salários,Folha de pagamento,Fornecedor Atlas,TI,24432.06,2025-09-10,2025-09-05,Pago,Conta Investimento,2025,8,August,T3,0.0,24432.06,-24432.06,False,True,False,-5.0,0
+2025-08-11,Receita,Serviços,Consultoria,Consultoria financeira,Cliente Gama,Projetos,11789.81,2025-08-21,,Em Aberto,Conta Investimento,2025,8,August,T3,11789.81,0.0,11789.81,True,False,False,,0
+2025-08-11,Receita,Serviços,Assessoria,Assessoria administrativa,Cliente Gama,Projetos,13147.48,2025-08-26,2025-08-21,Recebido,Conta Digital,2025,8,August,T3,13147.48,0.0,13147.48,False,True,False,-5.0,0
+2025-08-12,Despesa,Administrativa,Serviços Terceirizados,Suporte técnico,Fornecedor Central,Operacional,640.21,2025-09-01,2025-09-01,Pago,Conta Investimento,2025,8,August,T3,0.0,640.21,-640.21,False,True,False,0.0,0
+2025-08-12,Despesa,Pessoal,Salários,Folha de pagamento,Fornecedor Prime,TI,24507.38,2025-09-11,2025-09-11,Pago,Conta Digital,2025,8,August,T3,0.0,24507.38,-24507.38,False,True,False,0.0,0
+2025-08-12,Receita,Serviços,Consultoria,Consultoria estratégica,Cliente Alpha,Consultoria,6438.25,2025-09-26,2025-09-24,Recebido,Conta Digital,2025,8,August,T3,6438.25,0.0,6438.25,False,True,False,-2.0,0
+2025-08-12,Receita,Serviços,Projetos,Projeto de análise,Cliente Beta,Consultoria,7125.92,2025-09-01,,Em Aberto,Conta Investimento,2025,8,August,T3,7125.92,0.0,7125.92,True,False,False,,0
+2025-08-13,Despesa,Impostos,Tributos,Tributos sobre faturamento,Fornecedor Atlas,Comercial,5623.78,2025-09-02,,Em Aberto,Conta Corrente,2025,8,August,T3,0.0,5623.78,-5623.78,True,False,False,,0
+2025-08-13,Despesa,Operacional,Energia,Conta de energia,Fornecedor Digital,Comercial,272.9,2025-09-12,,Cancelado,Conta Corrente,2025,8,August,T3,0.0,272.9,-272.9,False,False,False,,0
+2025-08-13,Receita,Outras Receitas,Recuperação de Créditos,Recuperação de valores,Cliente Beta,Projetos,1767.01,2025-09-12,2025-09-11,Recebido,Conta Digital,2025,8,August,T3,1767.01,0.0,1767.01,False,True,False,-1.0,0
+2025-08-14,Despesa,Comercial,Marketing,Material institucional,Fornecedor Beta,Comercial,259.57,2025-08-29,2025-08-29,Pago,Conta Digital,2025,8,August,T3,0.0,259.57,-259.57,False,True,False,0.0,0
+2025-08-14,Receita,Serviços,Consultoria,Consultoria financeira,Cliente Beta,Comercial,11237.94,2025-08-29,2025-08-27,Recebido,Conta Investimento,2025,8,August,T3,11237.94,0.0,11237.94,False,True,False,-2.0,0
+2025-08-15,Despesa,Operacional,Aluguel,Aluguel do escritório,Fornecedor Beta,Financeiro,3267.75,2025-09-14,,Atrasado,Conta Digital,2025,8,August,T3,0.0,3267.75,-3267.75,True,False,True,,0
+2025-08-15,Despesa,Operacional,Aluguel,Aluguel do escritório,Fornecedor Atlas,Financeiro,7976.85,2025-09-14,2025-09-11,Pago,Conta Digital,2025,8,August,T3,0.0,7976.85,-7976.85,False,True,False,-3.0,0
+2025-08-15,Receita,Serviços,Consultoria,Consultoria financeira,Cliente Delta,Projetos,7453.57,2025-09-14,2025-09-14,Recebido,Conta Corrente,2025,8,August,T3,7453.57,0.0,7453.57,False,True,False,0.0,0
+2025-08-15,Receita,Serviços,Consultoria,Consultoria empresarial,Cliente Ômega,Projetos,6121.11,2025-09-14,2025-09-12,Recebido,Conta Corrente,2025,8,August,T3,6121.11,0.0,6121.11,False,True,False,-2.0,0
+2025-08-16,Despesa,Pessoal,Benefícios,Plano de benefícios,Fornecedor Digital,TI,1172.52,2025-08-26,2025-08-25,Pago,Conta Digital,2025,8,August,T3,0.0,1172.52,-1172.52,False,True,False,-1.0,0
+2025-08-17,Despesa,Administrativa,Serviços Terceirizados,Suporte técnico,Fornecedor Atlas,TI,1056.88,2025-09-06,2025-09-06,Pago,Conta Investimento,2025,8,August,T3,0.0,1056.88,-1056.88,False,True,False,0.0,0
+2025-08-17,Despesa,Financeira,Juros,Juros e encargos,Fornecedor Atlas,Operacional,978.59,2025-10-01,2025-09-28,Pago,Conta Digital,2025,8,August,T3,0.0,978.59,-978.59,False,True,False,-3.0,0
+2025-08-17,Receita,Outras Receitas,Recuperação de Créditos,Recuperação de valores,Cliente Delta,Consultoria,8473.76,2025-09-16,,Em Aberto,Conta Digital,2025,8,August,T3,8473.76,0.0,8473.76,True,False,False,,0
+2025-08-18,Despesa,Operacional,Aluguel,Aluguel do escritório,Fornecedor Central,Operacional,3032.76,2025-08-28,2025-08-25,Pago,Conta Digital,2025,8,August,T3,0.0,3032.76,-3032.76,False,True,False,-3.0,0
+2025-08-18,Receita,Serviços,Assessoria,Assessoria financeira,Cliente Alpha,Consultoria,4971.65,2025-09-17,2025-09-14,Recebido,Conta Digital,2025,8,August,T3,4971.65,0.0,4971.65,False,True,False,-3.0,0
+2025-08-19,Despesa,Administrativa,Material de Escritório,Material de escritório,Fornecedor Prime,RH,977.31,2025-09-18,2025-09-16,Pago,Conta Corrente,2025,8,August,T3,0.0,977.31,-977.31,False,True,False,-2.0,0
+2025-08-19,Despesa,Administrativa,Serviços Terceirizados,Serviços contábeis,Fornecedor Central,TI,747.87,2025-09-08,2025-09-03,Pago,Conta Corrente,2025,8,August,T3,0.0,747.87,-747.87,False,True,False,-5.0,0
+2025-08-19,Despesa,Comercial,Marketing,Publicidade digital,Fornecedor Central,Operacional,2454.78,2025-09-18,,Em Aberto,Conta Corrente,2025,8,August,T3,0.0,2454.78,-2454.78,True,False,False,,0
+2025-08-19,Receita,Serviços,Consultoria,Consultoria estratégica,Cliente Beta,Projetos,17297.88,2025-10-03,2025-09-30,Recebido,Conta Investimento,2025,8,August,T3,17297.88,0.0,17297.88,False,True,False,-3.0,0
+2025-08-21,Despesa,Operacional,Energia,Conta de energia,Fornecedor Digital,Comercial,1355.16,2025-08-31,,Em Aberto,Conta Digital,2025,8,August,T3,0.0,1355.16,-1355.16,True,False,False,,0
+2025-08-21,Despesa,Operacional,Aluguel,Aluguel do escritório,Fornecedor Atlas,Administrativo,6907.2,2025-09-20,2025-09-18,Pago,Conta Corrente,2025,8,August,T3,0.0,6907.2,-6907.2,False,True,False,-2.0,0
+2025-08-21,Despesa,Pessoal,Benefícios,Plano de benefícios,Fornecedor Central,RH,991.17,2025-09-20,2025-09-17,Pago,Conta Digital,2025,8,August,T3,0.0,991.17,-991.17,False,True,False,-3.0,0
+2025-08-21,Receita,Outras Receitas,Recuperação de Créditos,Recuperação de valores,Cliente Beta,Projetos,5656.97,2025-09-05,,Atrasado,Conta Corrente,2025,8,August,T3,5656.97,0.0,5656.97,True,False,True,,0
+2025-08-21,Receita,Serviços,Assessoria,Assessoria administrativa,Cliente Delta,Projetos,7447.98,2025-09-20,2025-09-20,Recebido,Conta Investimento,2025,8,August,T3,7447.98,0.0,7447.98,False,True,False,0.0,0
+2025-08-21,Receita,Serviços,Assessoria,Assessoria administrativa,Cliente Ômega,Projetos,10824.31,2025-09-10,2025-09-07,Recebido,Conta Investimento,2025,8,August,T3,10824.31,0.0,10824.31,False,True,False,-3.0,0
+2025-08-22,Despesa,Operacional,Energia,Conta de energia,Fornecedor Beta,Financeiro,1162.1,2025-09-06,2025-09-01,Pago,Conta Digital,2025,8,August,T3,0.0,1162.1,-1162.1,False,True,False,-5.0,0
+2025-08-23,Despesa,Operacional,Energia,Conta de energia,Fornecedor Beta,Financeiro,227.29,2025-09-02,2025-09-02,Pago,Conta Digital,2025,8,August,T3,0.0,227.29,-227.29,False,True,False,0.0,0
+2025-08-24,Despesa,Financeira,Tarifas Bancárias,Tarifa bancária,Fornecedor Atlas,Operacional,1209.31,2025-09-08,2025-09-06,Pago,Conta Investimento,2025,8,August,T3,0.0,1209.31,-1209.31,False,True,False,-2.0,0
+2025-08-24,Despesa,Operacional,Energia,Conta de energia,Fornecedor Prime,Administrativo,1587.23,2025-09-03,,Atrasado,Conta Digital,2025,8,August,T3,0.0,1587.23,-1587.23,True,False,True,,0
+2025-08-25,Despesa,Administrativa,Serviços Terceirizados,Serviços contábeis,Fornecedor Beta,RH,415.05,2025-09-09,2025-09-04,Pago,Conta Digital,2025,8,August,T3,0.0,415.05,-415.05,False,True,False,-5.0,0
+2025-08-25,Despesa,Financeira,Tarifas Bancárias,Tarifa bancária,Fornecedor Prime,RH,129.14,2025-09-04,2025-09-04,Pago,Conta Digital,2025,8,August,T3,0.0,129.14,-129.14,False,True,False,0.0,0
+2025-08-25,Despesa,Pessoal,Salários,Folha de pagamento,Fornecedor Digital,TI,18388.11,2025-10-09,2025-10-07,Pago,Conta Investimento,2025,8,August,T3,0.0,18388.11,-18388.11,False,True,False,-2.0,0
+2025-08-26,Despesa,Administrativa,Serviços Terceirizados,Suporte técnico,Fornecedor Central,Comercial,1509.21,2025-09-10,,Em Aberto,Conta Investimento,2025,8,August,T3,0.0,1509.21,-1509.21,True,False,False,,0
+2025-08-26,Despesa,Operacional,Energia,Conta de energia,Fornecedor Central,Administrativo,4235.12,2025-10-25,2025-10-22,Pago,Conta Investimento,2025,8,August,T3,0.0,4235.12,-4235.12,False,True,False,-3.0,0
+2025-08-27,Despesa,Comercial,Marketing,Publicidade digital,Fornecedor Atlas,Administrativo,347.78,2025-09-16,2025-09-11,Pago,Conta Investimento,2025,8,August,T3,0.0,347.78,-347.78,False,True,False,-5.0,0
+2025-08-27,Despesa,Pessoal,Benefícios,Plano de benefícios,Fornecedor Digital,Administrativo,255.02,2025-09-16,2025-09-11,Pago,Conta Corrente,2025,8,August,T3,0.0,255.02,-255.02,False,True,False,-5.0,0
+2025-08-27,Receita,Outras Receitas,Recuperação de Créditos,Recuperação de valores,Cliente Alpha,Projetos,5349.07,2025-09-16,2025-09-11,Recebido,Conta Corrente,2025,8,August,T3,5349.07,0.0,5349.07,False,True,False,-5.0,0
+2025-08-28,Despesa,Administrativa,Material de Escritório,Material de escritório,Fornecedor Atlas,Administrativo,419.14,2025-09-27,,Em Aberto,Conta Digital,2025,8,August,T3,0.0,419.14,-419.14,True,False,False,,0
+2025-08-28,Receita,Serviços,Projetos,Projeto de análise,Cliente Gama,Comercial,13481.86,2025-09-27,2025-09-25,Recebido,Conta Investimento,2025,8,August,T3,13481.86,0.0,13481.86,False,True,False,-2.0,0
+2025-08-29,Despesa,Operacional,Energia,Conta de energia,Fornecedor Central,Comercial,404.15,2025-09-03,2025-09-01,Pago,Conta Investimento,2025,8,August,T3,0.0,404.15,-404.15,False,True,False,-2.0,0
+2025-08-30,Despesa,Operacional,Energia,Conta de energia,Fornecedor Digital,RH,1251.15,2025-09-29,2025-09-24,Pago,Conta Investimento,2025,8,August,T3,0.0,1251.15,-1251.15,False,True,False,-5.0,0
+2025-08-30,Despesa,Operacional,Aluguel,Aluguel do escritório,Fornecedor Beta,Administrativo,4454.96,2025-09-04,2025-09-02,Pago,Conta Digital,2025,8,August,T3,0.0,4454.96,-4454.96,False,True,False,-2.0,0
+2025-08-30,Despesa,Operacional,Software,Ferramenta de produtividade,Fornecedor Prime,RH,704.71,2025-09-29,2025-09-27,Pago,Conta Digital,2025,8,August,T3,0.0,704.71,-704.71,False,True,False,-2.0,0
+2025-08-30,Receita,Serviços,Projetos,Projeto de implantação,Cliente Delta,Projetos,10990.44,2025-09-09,2025-09-06,Recebido,Conta Investimento,2025,8,August,T3,10990.44,0.0,10990.44,False,True,False,-3.0,0
+2025-08-31,Despesa,Impostos,Tributos,Impostos e contribuições,Fornecedor Central,RH,5104.58,2025-09-30,,Cancelado,Conta Corrente,2025,8,August,T3,0.0,5104.58,-5104.58,False,False,False,,0
+2025-09-01,Receita,Serviços,Consultoria,Consultoria empresarial,Cliente Ômega,Comercial,11028.08,2025-10-01,2025-09-28,Recebido,Conta Digital,2025,9,September,T3,11028.08,0.0,11028.08,False,True,False,-3.0,0
+2025-09-03,Receita,Serviços,Consultoria,Consultoria estratégica,Cliente Alpha,Consultoria,3253.22,2025-09-18,2025-09-15,Recebido,Conta Digital,2025,9,September,T3,3253.22,0.0,3253.22,False,True,False,-3.0,0
+2025-09-03,Receita,Serviços,Projetos,Projeto de implantação,Cliente Beta,Comercial,3764.05,2025-09-08,2025-09-07,Recebido,Conta Digital,2025,9,September,T3,3764.05,0.0,3764.05,False,True,False,-1.0,0
+2025-09-04,Despesa,Operacional,Energia,Conta de energia,Fornecedor Beta,Comercial,956.08,2025-10-04,2025-10-02,Pago,Conta Digital,2025,9,September,T3,0.0,956.08,-956.08,False,True,False,-2.0,0
+2025-09-04,Despesa,Pessoal,Salários,Folha de pagamento,Fornecedor Digital,Comercial,23352.67,2025-09-14,,Em Aberto,Conta Digital,2025,9,September,T3,0.0,23352.67,-23352.67,True,False,False,,0
+2025-09-04,Receita,Serviços,Projetos,Projeto de melhoria de processos,Cliente Beta,Comercial,12821.71,2025-10-04,2025-10-01,Recebido,Conta Corrente,2025,9,September,T3,12821.71,0.0,12821.71,False,True,False,-3.0,0
+2025-09-04,Receita,Serviços,Consultoria,Consultoria empresarial,Cliente Gama,Projetos,5293.84,2025-09-09,2025-09-04,Recebido,Conta Corrente,2025,9,September,T3,5293.84,0.0,5293.84,False,True,False,-5.0,0
+2025-09-06,Despesa,Operacional,Software,Sistemas corporativos,Fornecedor Beta,TI,2101.83,2025-09-21,2025-09-18,Pago,Conta Corrente,2025,9,September,T3,0.0,2101.83,-2101.83,False,True,False,-3.0,0
+2025-09-06,Despesa,Pessoal,Benefícios,Vale alimentação,Fornecedor Atlas,TI,990.81,2025-09-16,2025-09-13,Pago,Conta Investimento,2025,9,September,T3,0.0,990.81,-990.81,False,True,False,-3.0,0
+2025-09-07,Despesa,Operacional,Software,Ferramenta de produtividade,Fornecedor Atlas,TI,520.61,2025-09-17,2025-09-17,Pago,Conta Investimento,2025,9,September,T3,0.0,520.61,-520.61,False,True,False,0.0,0
+2025-09-07,Receita,Serviços,Projetos,Projeto de melhoria de processos,Cliente Beta,Projetos,3925.46,2025-10-07,2025-10-06,Recebido,Conta Digital,2025,9,September,T3,3925.46,0.0,3925.46,False,True,False,-1.0,0
+2025-09-07,Receita,Serviços,Consultoria,Consultoria empresarial,Cliente Delta,Comercial,13406.01,2025-09-27,2025-09-27,Recebido,Conta Investimento,2025,9,September,T3,13406.01,0.0,13406.01,False,True,False,0.0,0
+2025-09-08,Despesa,Operacional,Energia,Conta de energia,Fornecedor Central,RH,497.08,2025-10-08,,Em Aberto,Conta Corrente,2025,9,September,T3,0.0,497.08,-497.08,True,False,False,,0
+2025-09-08,Despesa,Pessoal,Salários,Folha de pagamento,Fornecedor Beta,Comercial,15809.98,2025-10-08,,Cancelado,Conta Corrente,2025,9,September,T3,0.0,15809.98,-15809.98,False,False,False,,0
+2025-09-09,Despesa,Financeira,Tarifas Bancárias,Tarifa bancária,Fornecedor Central,TI,1544.42,2025-09-19,2025-09-14,Pago,Conta Corrente,2025,9,September,T3,0.0,1544.42,-1544.42,False,True,False,-5.0,0
+2025-09-09,Despesa,Financeira,Tarifas Bancárias,Tarifa bancária,Fornecedor Digital,Comercial,1558.09,2025-10-09,,Em Aberto,Conta Digital,2025,9,September,T3,0.0,1558.09,-1558.09,True,False,False,,0
+2025-09-09,Despesa,Impostos,Tributos,Tributos sobre faturamento,Fornecedor Central,TI,3197.63,2025-10-09,2025-10-07,Pago,Conta Corrente,2025,9,September,T3,0.0,3197.63,-3197.63,False,True,False,-2.0,0
+2025-09-09,Despesa,Impostos,Tributos,Impostos e contribuições,Fornecedor Central,Comercial,8379.91,2025-10-09,2025-10-07,Pago,Conta Digital,2025,9,September,T3,0.0,8379.91,-8379.91,False,True,False,-2.0,0
+2025-09-09,Despesa,Operacional,Software,Licença de software,Fornecedor Prime,Administrativo,1087.87,2025-11-08,2025-11-08,Pago,Conta Digital,2025,9,September,T3,0.0,1087.87,-1087.87,False,True,False,0.0,0
+2025-09-09,Despesa,Operacional,Software,Sistemas corporativos,Fornecedor Beta,Operacional,3293.75,2025-09-19,2025-09-16,Pago,Conta Corrente,2025,9,September,T3,0.0,3293.75,-3293.75,False,True,False,-3.0,0
+2025-09-09,Receita,Serviços,Projetos,Projeto de implantação,Cliente Alpha,Consultoria,6640.05,2025-09-19,2025-09-16,Recebido,Conta Digital,2025,9,September,T3,6640.05,0.0,6640.05,False,True,False,-3.0,0
+2025-09-10,Despesa,Administrativa,Material de Escritório,Material de escritório,Fornecedor Prime,TI,2275.79,2025-10-10,2025-10-10,Pago,Conta Corrente,2025,9,September,T3,0.0,2275.79,-2275.79,False,True,False,0.0,0
+2025-09-10,Despesa,Administrativa,Serviços Terceirizados,Serviços contábeis,Fornecedor Prime,Financeiro,539.99,2025-09-30,2025-09-30,Pago,Conta Digital,2025,9,September,T3,0.0,539.99,-539.99,False,True,False,0.0,0
+2025-09-10,Despesa,Operacional,Software,Ferramenta de produtividade,Fornecedor Central,Operacional,1433.24,2025-09-25,,Em Aberto,Conta Digital,2025,9,September,T3,0.0,1433.24,-1433.24,True,False,False,,0
+2025-09-10,Receita,Outras Receitas,Recuperação de Créditos,Recuperação de valores,Cliente Delta,Projetos,5223.41,2025-09-25,,Atrasado,Conta Digital,2025,9,September,T3,5223.41,0.0,5223.41,True,False,True,,0
+2025-09-10,Receita,Serviços,Projetos,Projeto de implantação,Cliente Ômega,Comercial,13895.3,2025-10-10,,Em Aberto,Conta Investimento,2025,9,September,T3,13895.3,0.0,13895.3,True,False,False,,0
+2025-09-11,Despesa,Impostos,Tributos,Tributos sobre faturamento,Fornecedor Prime,Operacional,9311.71,2025-10-11,2025-10-10,Pago,Conta Digital,2025,9,September,T3,0.0,9311.71,-9311.71,False,True,False,-1.0,0
+2025-09-11,Receita,Serviços,Projetos,Projeto de implantação,Cliente Gama,Consultoria,7942.05,2025-10-11,,Em Aberto,Conta Investimento,2025,9,September,T3,7942.05,0.0,7942.05,True,False,False,,0
+2025-09-11,Receita,Serviços,Consultoria,Consultoria estratégica,Cliente Ômega,Projetos,12553.71,2025-09-21,2025-09-19,Recebido,Conta Digital,2025,9,September,T3,12553.71,0.0,12553.71,False,True,False,-2.0,0
+2025-09-12,Despesa,Impostos,Tributos,Impostos e contribuições,Fornecedor Prime,Financeiro,7391.68,2025-09-27,2025-09-27,Pago,Conta Corrente,2025,9,September,T3,0.0,7391.68,-7391.68,False,True,False,0.0,0
+2025-09-12,Despesa,Operacional,Internet,Internet empresarial,Fornecedor Beta,Administrativo,4269.39,2025-10-02,2025-10-01,Pago,Conta Corrente,2025,9,September,T3,0.0,4269.39,-4269.39,False,True,False,-1.0,0
+2025-09-12,Despesa,Operacional,Software,Licença de software,Fornecedor Digital,TI,2500.4,2025-09-27,2025-09-26,Pago,Conta Digital,2025,9,September,T3,0.0,2500.4,-2500.4,False,True,False,-1.0,0
+2025-09-13,Receita,Outras Receitas,Recuperação de Créditos,Recuperação de valores,Cliente Beta,Consultoria,6811.59,2025-10-03,2025-10-02,Recebido,Conta Corrente,2025,9,September,T3,6811.59,0.0,6811.59,False,True,False,-1.0,0
+2025-09-13,Receita,Serviços,Assessoria,Assessoria financeira,Cliente Ômega,Consultoria,3227.69,2025-09-18,,Em Aberto,Conta Digital,2025,9,September,T3,3227.69,0.0,3227.69,True,False,False,,0
+2025-09-14,Despesa,Comercial,Marketing,Publicidade digital,Fornecedor Digital,Financeiro,923.01,2025-09-19,,Atrasado,Conta Corrente,2025,9,September,T3,0.0,923.01,-923.01,True,False,True,,0
+2025-09-14,Despesa,Operacional,Aluguel,Aluguel do escritório,Fornecedor Atlas,RH,2655.69,2025-10-14,2025-10-09,Pago,Conta Corrente,2025,9,September,T3,0.0,2655.69,-2655.69,False,True,False,-5.0,0
+2025-09-15,Despesa,Administrativa,Material de Escritório,Material de escritório,Fornecedor Beta,Administrativo,4762.5,2025-10-05,2025-10-03,Pago,Conta Investimento,2025,9,September,T3,0.0,4762.5,-4762.5,False,True,False,-2.0,0
+2025-09-15,Despesa,Comercial,Marketing,Material institucional,Fornecedor Central,Comercial,328.44,2025-11-14,,Em Aberto,Conta Corrente,2025,9,September,T3,0.0,328.44,-328.44,True,False,False,,0
+2025-09-16,Despesa,Impostos,Tributos,Tributos sobre faturamento,Fornecedor Central,Administrativo,5201.75,2025-10-16,,Em Aberto,Conta Digital,2025,9,September,T3,0.0,5201.75,-5201.75,True,False,False,,0
+2025-09-16,Despesa,Operacional,Energia,Conta de energia,Fornecedor Atlas,Administrativo,734.27,2025-10-06,2025-10-05,Pago,Conta Investimento,2025,9,September,T3,0.0,734.27,-734.27,False,True,False,-1.0,0
+2025-09-16,Receita,Serviços,Projetos,Projeto de melhoria de processos,Cliente Alpha,Projetos,4907.91,2025-10-01,,Cancelado,Conta Digital,2025,9,September,T3,4907.91,0.0,4907.91,False,False,False,,0
+2025-09-16,Receita,Serviços,Assessoria,Assessoria administrativa,Cliente Alpha,Comercial,3735.4,2025-10-16,2025-10-15,Recebido,Conta Investimento,2025,9,September,T3,3735.4,0.0,3735.4,False,True,False,-1.0,0
+2025-09-16,Receita,Serviços,Assessoria,Assessoria financeira,Cliente Gama,Projetos,34857.79,2025-09-26,,Atrasado,Conta Investimento,2025,9,September,T3,34857.79,0.0,34857.79,True,False,True,,0
+2025-09-17,Despesa,Administrativa,Serviços Terceirizados,Serviços contábeis,Fornecedor Beta,TI,924.64,2025-10-17,,Em Aberto,Conta Digital,2025,9,September,T3,0.0,924.64,-924.64,True,False,False,,0
+2025-09-17,Receita,Serviços,Consultoria,Consultoria estratégica,Cliente Ômega,Projetos,2620.14,2025-10-17,2025-10-14,Recebido,Conta Digital,2025,9,September,T3,2620.14,0.0,2620.14,False,True,False,-3.0,0
+2025-09-18,Despesa,Operacional,Aluguel,Aluguel do escritório,Fornecedor Prime,Financeiro,9228.9,2025-09-28,2025-09-25,Pago,Conta Corrente,2025,9,September,T3,0.0,9228.9,-9228.9,False,True,False,-3.0,0
+2025-09-19,Receita,Serviços,Assessoria,Assessoria mensal,Cliente Alpha,Consultoria,27487.34,2025-09-29,2025-09-24,Recebido,Conta Digital,2025,9,September,T3,27487.34,0.0,27487.34,False,True,False,-5.0,0
+2025-09-20,Despesa,Pessoal,Benefícios,Plano de benefícios,Fornecedor Prime,Operacional,745.19,2025-10-20,,Em Aberto,Conta Digital,2025,9,September,T3,0.0,745.19,-745.19,True,False,False,,0
+2025-09-21,Despesa,Administrativa,Material de Escritório,Material de escritório,Fornecedor Digital,Administrativo,348.77,2025-11-20,2025-11-17,Pago,Conta Investimento,2025,9,September,T3,0.0,348.77,-348.77,False,True,False,-3.0,0
+2025-09-21,Despesa,Operacional,Aluguel,Aluguel do escritório,Fornecedor Central,RH,7976.66,2025-10-06,2025-10-01,Pago,Conta Corrente,2025,9,September,T3,0.0,7976.66,-7976.66,False,True,False,-5.0,0
+2025-09-21,Despesa,Operacional,Energia,Conta de energia,Fornecedor Beta,Operacional,2644.44,2025-10-11,2025-10-06,Pago,Conta Investimento,2025,9,September,T3,0.0,2644.44,-2644.44,False,True,False,-5.0,0
+2025-09-21,Despesa,Operacional,Aluguel,Aluguel do escritório,Fornecedor Atlas,RH,2929.83,2025-10-01,,Em Aberto,Conta Corrente,2025,9,September,T3,0.0,2929.83,-2929.83,True,False,False,,0
+2025-09-21,Receita,Serviços,Consultoria,Consultoria empresarial,Cliente Delta,Consultoria,8964.65,2025-11-20,,Em Aberto,Conta Corrente,2025,9,September,T3,8964.65,0.0,8964.65,True,False,False,,0
+2025-09-22,Despesa,Administrativa,Material de Escritório,Material de escritório,Fornecedor Central,RH,1500.38,2025-10-12,2025-10-07,Pago,Conta Digital,2025,9,September,T3,0.0,1500.38,-1500.38,False,True,False,-5.0,0
+2025-09-22,Despesa,Operacional,Aluguel,Aluguel do escritório,Fornecedor Prime,Comercial,5103.94,2025-10-22,2025-10-20,Pago,Conta Investimento,2025,9,September,T3,0.0,5103.94,-5103.94,False,True,False,-2.0,0
+2025-09-24,Despesa,Pessoal,Benefícios,Vale transporte,Fornecedor Central,TI,555.03,2025-10-24,2025-10-23,Pago,Conta Digital,2025,9,September,T3,0.0,555.03,-555.03,False,True,False,-1.0,0
+2025-09-24,Receita,Serviços,Assessoria,Assessoria financeira,Cliente Beta,Consultoria,4377.06,2025-11-23,2025-11-21,Recebido,Conta Digital,2025,9,September,T3,4377.06,0.0,4377.06,False,True,False,-2.0,0
+2025-09-25,Despesa,Operacional,Aluguel,Aluguel do escritório,Fornecedor Prime,Comercial,6970.48,2025-09-30,2025-09-25,Pago,Conta Corrente,2025,9,September,T3,0.0,6970.48,-6970.48,False,True,False,-5.0,0
+2025-09-25,Despesa,Pessoal,Salários,Folha de pagamento,Fornecedor Prime,Financeiro,10555.5,2025-10-10,2025-10-09,Pago,Conta Investimento,2025,9,September,T3,0.0,10555.5,-10555.5,False,True,False,-1.0,0
+2025-09-25,Receita,Serviços,Projetos,Projeto de análise,Cliente Alpha,Projetos,23566.56,2025-10-10,2025-10-05,Recebido,Conta Corrente,2025,9,September,T3,23566.56,0.0,23566.56,False,True,False,-5.0,0
+2025-09-25,Receita,Serviços,Assessoria,Assessoria administrativa,Cliente Alpha,Projetos,3323.54,2025-09-30,2025-09-28,Recebido,Conta Digital,2025,9,September,T3,3323.54,0.0,3323.54,False,True,False,-2.0,0
+2025-09-25,Receita,Serviços,Projetos,Projeto de análise,Cliente Delta,Consultoria,19042.12,2025-10-05,,Atrasado,Conta Corrente,2025,9,September,T3,19042.12,0.0,19042.12,True,False,True,,0
+2025-09-26,Despesa,Financeira,Tarifas Bancárias,Tarifa bancária,Fornecedor Atlas,Operacional,152.91,2025-10-26,,Atrasado,Conta Investimento,2025,9,September,T3,0.0,152.91,-152.91,True,False,True,,0
+2025-09-27,Despesa,Administrativa,Material de Escritório,Material de escritório,Fornecedor Digital,Administrativo,582.15,2025-10-17,2025-10-17,Pago,Conta Corrente,2025,9,September,T3,0.0,582.15,-582.15,False,True,False,0.0,0
+2025-09-28,Despesa,Comercial,Marketing,Publicidade digital,Fornecedor Atlas,Financeiro,2029.9,2025-10-18,2025-10-13,Pago,Conta Investimento,2025,9,September,T3,0.0,2029.9,-2029.9,False,True,False,-5.0,0
+2025-09-28,Despesa,Financeira,Tarifas Bancárias,Tarifa bancária,Fornecedor Beta,Operacional,2065.91,2025-10-03,,Em Aberto,Conta Digital,2025,9,September,T3,0.0,2065.91,-2065.91,True,False,False,,0
+2025-09-28,Despesa,Financeira,Tarifas Bancárias,Tarifa bancária,Fornecedor Central,Operacional,442.33,2025-10-13,2025-10-13,Pago,Conta Investimento,2025,9,September,T3,0.0,442.33,-442.33,False,True,False,0.0,0
+2025-09-28,Receita,Serviços,Consultoria,Consultoria estratégica,Cliente Alpha,Consultoria,2364.27,2025-10-18,2025-10-13,Recebido,Conta Digital,2025,9,September,T3,2364.27,0.0,2364.27,False,True,False,-5.0,0
+2025-09-29,Despesa,Operacional,Aluguel,Aluguel do escritório,Fornecedor Atlas,TI,9347.81,2025-10-29,2025-10-28,Pago,Conta Investimento,2025,9,September,T3,0.0,9347.81,-9347.81,False,True,False,-1.0,0
+2025-09-29,Receita,Serviços,Projetos,Projeto de implantação,Cliente Beta,Projetos,4395.25,2025-10-19,2025-10-18,Recebido,Conta Corrente,2025,9,September,T3,4395.25,0.0,4395.25,False,True,False,-1.0,0
+2025-09-30,Despesa,Operacional,Aluguel,Aluguel do escritório,Fornecedor Prime,TI,8653.2,2025-10-20,2025-10-18,Pago,Conta Corrente,2025,9,September,T3,0.0,8653.2,-8653.2,False,True,False,-2.0,0
+2025-09-30,Receita,Serviços,Assessoria,Assessoria administrativa,Cliente Delta,Comercial,6111.46,2025-10-05,,Em Aberto,Conta Investimento,2025,9,September,T3,6111.46,0.0,6111.46,True,False,False,,0
+2025-10-01,Despesa,Operacional,Energia,Conta de energia,Fornecedor Beta,Comercial,431.04,2025-10-11,2025-10-06,Pago,Conta Investimento,2025,10,October,T4,0.0,431.04,-431.04,False,True,False,-5.0,0
+2025-10-02,Despesa,Operacional,Energia,Conta de energia,Fornecedor Central,Comercial,930.94,2025-10-22,,Cancelado,Conta Corrente,2025,10,October,T4,0.0,930.94,-930.94,False,False,False,,0
+2025-10-02,Despesa,Operacional,Internet,Internet empresarial,Fornecedor Central,TI,2930.15,2025-11-01,2025-10-29,Pago,Conta Corrente,2025,10,October,T4,0.0,2930.15,-2930.15,False,True,False,-3.0,0
+2025-10-04,Despesa,Operacional,Aluguel,Aluguel do escritório,Fornecedor Digital,Administrativo,8966.52,2025-10-19,2025-10-14,Pago,Conta Corrente,2025,10,October,T4,0.0,8966.52,-8966.52,False,True,False,-5.0,0
+2025-10-04,Despesa,Operacional,Energia,Conta de energia,Fornecedor Prime,RH,861.42,2025-11-03,,Atrasado,Conta Investimento,2025,10,October,T4,0.0,861.42,-861.42,True,False,True,,0
+2025-10-04,Despesa,Pessoal,Benefícios,Vale transporte,Fornecedor Atlas,Comercial,383.0,2025-11-03,,Em Aberto,Conta Corrente,2025,10,October,T4,0.0,383.0,-383.0,True,False,False,,0
+2025-10-04,Receita,Outras Receitas,Recuperação de Créditos,Recuperação de valores,Cliente Alpha,Projetos,27517.29,2025-11-18,,Em Aberto,Conta Investimento,2025,10,October,T4,27517.29,0.0,27517.29,True,False,False,,0
+2025-10-05,Despesa,Operacional,Aluguel,Aluguel do escritório,Fornecedor Atlas,RH,7802.61,2025-11-04,,Em Aberto,Conta Investimento,2025,10,October,T4,0.0,7802.61,-7802.61,True,False,False,,0
+2025-10-06,Despesa,Pessoal,Benefícios,Vale alimentação,Fornecedor Atlas,TI,2679.93,2025-10-16,2025-10-13,Pago,Conta Corrente,2025,10,October,T4,0.0,2679.93,-2679.93,False,True,False,-3.0,0
+2025-10-06,Receita,Outras Receitas,Recuperação de Créditos,Recuperação de valores,Cliente Ômega,Projetos,9730.72,2025-10-26,2025-10-23,Recebido,Conta Investimento,2025,10,October,T4,9730.72,0.0,9730.72,False,True,False,-3.0,0
+2025-10-07,Despesa,Comercial,Marketing,Material institucional,Fornecedor Digital,RH,1756.55,2025-11-06,2025-11-04,Pago,Conta Corrente,2025,10,October,T4,0.0,1756.55,-1756.55,False,True,False,-2.0,0
+2025-10-07,Despesa,Comercial,Marketing,Publicidade digital,Fornecedor Atlas,RH,995.86,2025-11-06,2025-11-06,Pago,Conta Investimento,2025,10,October,T4,0.0,995.86,-995.86,False,True,False,0.0,0
+2025-10-07,Despesa,Operacional,Software,Licença de software,Fornecedor Beta,TI,2364.41,2025-10-12,2025-10-09,Pago,Conta Investimento,2025,10,October,T4,0.0,2364.41,-2364.41,False,True,False,-3.0,0
+2025-10-07,Receita,Serviços,Projetos,Projeto de implantação,Cliente Delta,Projetos,28441.93,2025-12-06,2025-12-03,Recebido,Conta Corrente,2025,10,October,T4,28441.93,0.0,28441.93,False,True,False,-3.0,0
+2025-10-07,Receita,Serviços,Projetos,Projeto de análise,Cliente Alpha,Projetos,7228.39,2025-11-06,2025-11-06,Recebido,Conta Investimento,2025,10,October,T4,7228.39,0.0,7228.39,False,True,False,0.0,0
+2025-10-08,Receita,Serviços,Consultoria,Consultoria financeira,Cliente Alpha,Comercial,7123.15,2025-11-07,2025-11-06,Recebido,Conta Corrente,2025,10,October,T4,7123.15,0.0,7123.15,False,True,False,-1.0,0
+2025-10-09,Despesa,Administrativa,Serviços Terceirizados,Serviços contábeis,Fornecedor Atlas,RH,2515.49,2025-11-08,2025-11-03,Pago,Conta Investimento,2025,10,October,T4,0.0,2515.49,-2515.49,False,True,False,-5.0,0
+2025-10-10,Despesa,Comercial,Marketing,Publicidade digital,Fornecedor Prime,Comercial,647.88,2025-11-09,2025-11-04,Pago,Conta Corrente,2025,10,October,T4,0.0,647.88,-647.88,False,True,False,-5.0,0
+2025-10-10,Despesa,Financeira,Juros,Juros e encargos,Fornecedor Beta,Financeiro,526.15,2025-11-24,,Em Aberto,Conta Investimento,2025,10,October,T4,0.0,526.15,-526.15,True,False,False,,0
+2025-10-10,Despesa,Financeira,Tarifas Bancárias,Tarifa bancária,Fornecedor Prime,Comercial,2167.17,2025-10-25,2025-10-23,Pago,Conta Corrente,2025,10,October,T4,0.0,2167.17,-2167.17,False,True,False,-2.0,0
+2025-10-10,Despesa,Pessoal,Benefícios,Vale transporte,Fornecedor Digital,TI,1256.2,2025-11-09,2025-11-07,Pago,Conta Investimento,2025,10,October,T4,0.0,1256.2,-1256.2,False,True,False,-2.0,0
+2025-10-10,Despesa,Pessoal,Benefícios,Vale transporte,Fornecedor Beta,Financeiro,445.95,2025-11-09,2025-11-08,Pago,Conta Digital,2025,10,October,T4,0.0,445.95,-445.95,False,True,False,-1.0,0
+2025-10-11,Despesa,Administrativa,Serviços Terceirizados,Suporte técnico,Fornecedor Beta,Operacional,751.25,2025-10-31,2025-10-30,Pago,Conta Investimento,2025,10,October,T4,0.0,751.25,-751.25,False,True,False,-1.0,0
+2025-10-11,Despesa,Administrativa,Serviços Terceirizados,Serviços jurídicos,Fornecedor Prime,Comercial,3412.81,2025-11-25,2025-11-22,Pago,Conta Investimento,2025,10,October,T4,0.0,3412.81,-3412.81,False,True,False,-3.0,0
+2025-10-11,Despesa,Comercial,Marketing,Publicidade digital,Fornecedor Digital,Comercial,1413.81,2025-11-10,2025-11-08,Pago,Conta Investimento,2025,10,October,T4,0.0,1413.81,-1413.81,False,True,False,-2.0,0
+2025-10-11,Despesa,Pessoal,Salários,Folha de pagamento,Fornecedor Prime,RH,24324.97,2025-10-21,2025-10-20,Pago,Conta Investimento,2025,10,October,T4,0.0,24324.97,-24324.97,False,True,False,-1.0,0
+2025-10-12,Despesa,Financeira,Juros,Juros e encargos,Fornecedor Beta,Operacional,679.83,2025-10-17,2025-10-15,Pago,Conta Corrente,2025,10,October,T4,0.0,679.83,-679.83,False,True,False,-2.0,0
+2025-10-12,Despesa,Operacional,Aluguel,Aluguel do escritório,Fornecedor Atlas,Administrativo,9274.36,2025-10-27,,Em Aberto,Conta Digital,2025,10,October,T4,0.0,9274.36,-9274.36,True,False,False,,0
+2025-10-13,Despesa,Comercial,Marketing,Material institucional,Fornecedor Digital,Operacional,869.72,2025-11-12,2025-11-10,Pago,Conta Investimento,2025,10,October,T4,0.0,869.72,-869.72,False,True,False,-2.0,0
+2025-10-13,Despesa,Financeira,Juros,Juros e encargos,Fornecedor Digital,Operacional,1383.33,2025-10-18,2025-10-16,Pago,Conta Digital,2025,10,October,T4,0.0,1383.33,-1383.33,False,True,False,-2.0,0
+2025-10-13,Despesa,Financeira,Juros,Juros e encargos,Fornecedor Digital,TI,1181.17,2025-11-12,2025-11-12,Pago,Conta Digital,2025,10,October,T4,0.0,1181.17,-1181.17,False,True,False,0.0,0
+2025-10-13,Despesa,Operacional,Energia,Conta de energia,Fornecedor Central,Operacional,770.17,2025-11-12,2025-11-09,Pago,Conta Digital,2025,10,October,T4,0.0,770.17,-770.17,False,True,False,-3.0,0
+2025-10-13,Receita,Serviços,Projetos,Projeto de implantação,Cliente Beta,Projetos,5244.67,2025-11-02,2025-10-28,Recebido,Conta Digital,2025,10,October,T4,5244.67,0.0,5244.67,False,True,False,-5.0,0
+2025-10-15,Despesa,Financeira,Juros,Juros e encargos,Fornecedor Central,Administrativo,294.82,2025-10-25,2025-10-24,Pago,Conta Corrente,2025,10,October,T4,0.0,294.82,-294.82,False,True,False,-1.0,0
+2025-10-15,Receita,Serviços,Projetos,Projeto de análise,Cliente Gama,Projetos,14203.34,2025-11-29,2025-11-24,Recebido,Conta Digital,2025,10,October,T4,14203.34,0.0,14203.34,False,True,False,-5.0,0
+2025-10-15,Receita,Serviços,Consultoria,Consultoria estratégica,Cliente Ômega,Consultoria,6290.99,2025-11-14,2025-11-12,Recebido,Conta Digital,2025,10,October,T4,6290.99,0.0,6290.99,False,True,False,-2.0,0
+2025-10-16,Despesa,Operacional,Internet,Internet empresarial,Fornecedor Atlas,TI,383.38,2025-11-15,,Em Aberto,Conta Investimento,2025,10,October,T4,0.0,383.38,-383.38,True,False,False,,0
+2025-10-16,Despesa,Pessoal,Benefícios,Vale alimentação,Fornecedor Prime,TI,1026.08,2025-10-26,2025-10-23,Pago,Conta Digital,2025,10,October,T4,0.0,1026.08,-1026.08,False,True,False,-3.0,0
+2025-10-16,Despesa,Pessoal,Benefícios,Vale alimentação,Fornecedor Digital,Comercial,628.73,2025-12-15,2025-12-15,Pago,Conta Digital,2025,10,October,T4,0.0,628.73,-628.73,False,True,False,0.0,0
+2025-10-16,Receita,Serviços,Consultoria,Consultoria empresarial,Cliente Ômega,Consultoria,10506.77,2025-11-15,,Cancelado,Conta Investimento,2025,10,October,T4,10506.77,0.0,10506.77,False,False,False,,0
+2025-10-17,Despesa,Operacional,Software,Sistemas corporativos,Fornecedor Central,TI,1964.54,2025-11-06,2025-11-05,Pago,Conta Digital,2025,10,October,T4,0.0,1964.54,-1964.54,False,True,False,-1.0,0
+2025-10-17,Receita,Serviços,Projetos,Projeto de melhoria de processos,Cliente Alpha,Projetos,3386.22,2025-11-16,2025-11-15,Recebido,Conta Investimento,2025,10,October,T4,3386.22,0.0,3386.22,False,True,False,-1.0,0
+2025-10-19,Despesa,Administrativa,Material de Escritório,Material de escritório,Fornecedor Central,Financeiro,1326.15,2025-10-29,,Atrasado,Conta Digital,2025,10,October,T4,0.0,1326.15,-1326.15,True,False,True,,0
+2025-10-20,Receita,Serviços,Assessoria,Assessoria mensal,Cliente Alpha,Consultoria,2956.32,2025-12-04,2025-12-02,Recebido,Conta Investimento,2025,10,October,T4,2956.32,0.0,2956.32,False,True,False,-2.0,0
+2025-10-21,Despesa,Operacional,Software,Ferramenta de produtividade,Fornecedor Beta,RH,393.63,2025-11-10,,Em Aberto,Conta Investimento,2025,10,October,T4,0.0,393.63,-393.63,True,False,False,,0
+2025-10-21,Receita,Outras Receitas,Recuperação de Créditos,Recuperação de valores,Cliente Gama,Projetos,2124.92,2025-11-10,2025-11-09,Recebido,Conta Digital,2025,10,October,T4,2124.92,0.0,2124.92,False,True,False,-1.0,0
+2025-10-21,Receita,Serviços,Consultoria,Consultoria empresarial,Cliente Gama,Consultoria,6598.75,2025-11-20,,Em Aberto,Conta Digital,2025,10,October,T4,6598.75,0.0,6598.75,True,False,False,,0
+2025-10-22,Despesa,Administrativa,Serviços Terceirizados,Suporte técnico,Fornecedor Digital,RH,1975.15,2025-12-06,2025-12-03,Pago,Conta Corrente,2025,10,October,T4,0.0,1975.15,-1975.15,False,True,False,-3.0,0
+2025-10-23,Despesa,Operacional,Energia,Conta de energia,Fornecedor Digital,Administrativo,327.41,2025-12-07,2025-12-05,Pago,Conta Corrente,2025,10,October,T4,0.0,327.41,-327.41,False,True,False,-2.0,0
+2025-10-25,Despesa,Administrativa,Serviços Terceirizados,Serviços jurídicos,Fornecedor Central,TI,1513.64,2025-11-14,2025-11-12,Pago,Conta Corrente,2025,10,October,T4,0.0,1513.64,-1513.64,False,True,False,-2.0,0
+2025-10-26,Despesa,Operacional,Internet,Internet empresarial,Fornecedor Digital,TI,345.74,2025-11-25,2025-11-25,Pago,Conta Digital,2025,10,October,T4,0.0,345.74,-345.74,False,True,False,0.0,0
+2025-10-28,Despesa,Comercial,Marketing,Publicidade digital,Fornecedor Beta,Financeiro,526.85,2025-11-27,2025-11-25,Pago,Conta Corrente,2025,10,October,T4,0.0,526.85,-526.85,False,True,False,-2.0,0
+2025-10-28,Receita,Outras Receitas,Recuperação de Créditos,Recuperação de valores,Cliente Beta,Consultoria,6943.95,2025-11-17,2025-11-16,Recebido,Conta Investimento,2025,10,October,T4,6943.95,0.0,6943.95,False,True,False,-1.0,0
+2025-10-29,Despesa,Pessoal,Salários,Folha de pagamento,Fornecedor Digital,Operacional,10756.6,2025-11-28,2025-11-25,Pago,Conta Digital,2025,10,October,T4,0.0,10756.6,-10756.6,False,True,False,-3.0,0
+2025-10-29,Receita,Outras Receitas,Recuperação de Créditos,Recuperação de valores,Cliente Delta,Projetos,6618.54,2025-11-13,2025-11-12,Recebido,Conta Investimento,2025,10,October,T4,6618.54,0.0,6618.54,False,True,False,-1.0,0
+2025-10-30,Despesa,Impostos,Tributos,Impostos e contribuições,Fornecedor Digital,TI,2873.98,2025-11-19,2025-11-18,Pago,Conta Corrente,2025,10,October,T4,0.0,2873.98,-2873.98,False,True,False,-1.0,0
+2025-10-30,Despesa,Impostos,Tributos,Tributos sobre faturamento,Fornecedor Beta,RH,8864.55,2025-11-19,2025-11-14,Pago,Conta Corrente,2025,10,October,T4,0.0,8864.55,-8864.55,False,True,False,-5.0,0
+2025-10-30,Despesa,Operacional,Aluguel,Aluguel do escritório,Fornecedor Digital,Operacional,9437.98,2025-11-14,2025-11-12,Pago,Conta Digital,2025,10,October,T4,0.0,9437.98,-9437.98,False,True,False,-2.0,0
+2025-10-31,Despesa,Administrativa,Material de Escritório,Material de escritório,Fornecedor Beta,Financeiro,900.87,2025-11-30,,Em Aberto,Conta Corrente,2025,10,October,T4,0.0,900.87,-900.87,True,False,False,,0
+2025-10-31,Despesa,Operacional,Internet,Internet empresarial,Fornecedor Beta,Administrativo,1933.61,2025-12-30,,Em Aberto,Conta Digital,2025,10,October,T4,0.0,1933.61,-1933.61,True,False,False,,0
+2025-10-31,Despesa,Operacional,Aluguel,Aluguel do escritório,Fornecedor Digital,Financeiro,3871.28,2025-11-30,2025-11-25,Pago,Conta Digital,2025,10,October,T4,0.0,3871.28,-3871.28,False,True,False,-5.0,0
+2025-10-31,Receita,Serviços,Consultoria,Consultoria financeira,Cliente Beta,Consultoria,8613.5,2025-11-15,,Em Aberto,Conta Digital,2025,10,October,T4,8613.5,0.0,8613.5,True,False,False,,0
+2025-10-31,Receita,Serviços,Projetos,Projeto de melhoria de processos,Cliente Alpha,Projetos,9411.4,2025-11-10,2025-11-05,Recebido,Conta Corrente,2025,10,October,T4,9411.4,0.0,9411.4,False,True,False,-5.0,0
+2025-11-01,Despesa,Operacional,Aluguel,Aluguel do escritório,Fornecedor Atlas,Operacional,6073.46,2025-11-16,2025-11-13,Pago,Conta Digital,2025,11,November,T4,0.0,6073.46,-6073.46,False,True,False,-3.0,0
+2025-11-01,Receita,Serviços,Consultoria,Consultoria financeira,Cliente Delta,Projetos,5109.78,2025-12-01,2025-11-26,Recebido,Conta Digital,2025,11,November,T4,5109.78,0.0,5109.78,False,True,False,-5.0,0
+2025-11-02,Despesa,Financeira,Tarifas Bancárias,Tarifa bancária,Fornecedor Atlas,TI,701.92,2025-11-22,2025-11-19,Pago,Conta Digital,2025,11,November,T4,0.0,701.92,-701.92,False,True,False,-3.0,0
+2025-11-02,Receita,Outras Receitas,Recuperação de Créditos,Recuperação de valores,Cliente Delta,Consultoria,6007.29,2025-12-02,2025-11-27,Recebido,Conta Digital,2025,11,November,T4,6007.29,0.0,6007.29,False,True,False,-5.0,0
+2025-11-02,Receita,Serviços,Assessoria,Assessoria mensal,Cliente Alpha,Comercial,3367.36,2025-12-02,,Atrasado,Conta Investimento,2025,11,November,T4,3367.36,0.0,3367.36,True,False,True,,0
+2025-11-03,Despesa,Comercial,Marketing,Publicidade digital,Fornecedor Central,TI,743.43,2025-12-03,2025-12-03,Pago,Conta Investimento,2025,11,November,T4,0.0,743.43,-743.43,False,True,False,0.0,0
+2025-11-03,Despesa,Operacional,Aluguel,Aluguel do escritório,Fornecedor Central,TI,6749.32,2025-11-18,2025-11-18,Pago,Conta Digital,2025,11,November,T4,0.0,6749.32,-6749.32,False,True,False,0.0,0
+2025-11-04,Despesa,Pessoal,Salários,Folha de pagamento,Fornecedor Central,Operacional,19868.43,2025-11-24,2025-11-21,Pago,Conta Investimento,2025,11,November,T4,0.0,19868.43,-19868.43,False,True,False,-3.0,0
+2025-11-04,Receita,Serviços,Projetos,Projeto de implantação,Cliente Ômega,Comercial,3786.63,2025-11-14,,Em Aberto,Conta Investimento,2025,11,November,T4,3786.63,0.0,3786.63,True,False,False,,0
+2025-11-04,Receita,Serviços,Assessoria,Assessoria mensal,Cliente Ômega,Projetos,19175.02,2025-11-09,2025-11-04,Recebido,Conta Investimento,2025,11,November,T4,19175.02,0.0,19175.02,False,True,False,-5.0,0
+2025-11-05,Despesa,Pessoal,Salários,Folha de pagamento,Fornecedor Atlas,Administrativo,15999.55,2025-11-10,2025-11-09,Pago,Conta Digital,2025,11,November,T4,0.0,15999.55,-15999.55,False,True,False,-1.0,0
+2025-11-06,Despesa,Administrativa,Material de Escritório,Material de escritório,Fornecedor Prime,TI,2457.03,2025-11-11,,Em Aberto,Conta Corrente,2025,11,November,T4,0.0,2457.03,-2457.03,True,False,False,,0
+2025-11-06,Receita,Serviços,Assessoria,Assessoria financeira,Cliente Beta,Projetos,3295.89,2025-12-06,,Atrasado,Conta Digital,2025,11,November,T4,3295.89,0.0,3295.89,True,False,True,,0
+2025-11-07,Despesa,Administrativa,Material de Escritório,Material de escritório,Fornecedor Atlas,Operacional,368.19,2025-12-07,2025-12-05,Pago,Conta Digital,2025,11,November,T4,0.0,368.19,-368.19,False,True,False,-2.0,0
+2025-11-07,Receita,Outras Receitas,Recuperação de Créditos,Recuperação de valores,Cliente Alpha,Consultoria,6309.1,2025-12-07,,Em Aberto,Conta Digital,2025,11,November,T4,6309.1,0.0,6309.1,True,False,False,,0
+2025-11-08,Despesa,Pessoal,Benefícios,Vale transporte,Fornecedor Beta,Comercial,2521.8,2025-12-23,,Em Aberto,Conta Corrente,2025,11,November,T4,0.0,2521.8,-2521.8,True,False,False,,0
+2025-11-08,Despesa,Pessoal,Salários,Folha de pagamento,Fornecedor Digital,Administrativo,15673.36,2025-11-28,2025-11-28,Pago,Conta Investimento,2025,11,November,T4,0.0,15673.36,-15673.36,False,True,False,0.0,0
+2025-11-09,Despesa,Comercial,Marketing,Material institucional,Fornecedor Beta,TI,5437.36,2025-11-14,2025-11-14,Pago,Conta Digital,2025,11,November,T4,0.0,5437.36,-5437.36,False,True,False,0.0,0
+2025-11-09,Despesa,Financeira,Juros,Juros e encargos,Fornecedor Prime,RH,845.57,2025-12-24,,Atrasado,Conta Corrente,2025,11,November,T4,0.0,845.57,-845.57,True,False,True,,0
+2025-11-10,Despesa,Impostos,Tributos,Tributos sobre faturamento,Fornecedor Beta,Comercial,3884.39,2025-11-20,2025-11-19,Pago,Conta Digital,2025,11,November,T4,0.0,3884.39,-3884.39,False,True,False,-1.0,0
+2025-11-10,Despesa,Impostos,Tributos,Impostos e contribuições,Fornecedor Digital,Operacional,9404.02,2025-11-15,2025-11-13,Pago,Conta Digital,2025,11,November,T4,0.0,9404.02,-9404.02,False,True,False,-2.0,0
+2025-11-10,Receita,Serviços,Assessoria,Assessoria mensal,Cliente Delta,Projetos,7297.43,2025-12-10,,Em Aberto,Conta Investimento,2025,11,November,T4,7297.43,0.0,7297.43,True,False,False,,0
+2025-11-11,Despesa,Comercial,Marketing,Material institucional,Fornecedor Central,TI,4871.83,2025-12-11,,Em Aberto,Conta Digital,2025,11,November,T4,0.0,4871.83,-4871.83,True,False,False,,0
+2025-11-11,Despesa,Operacional,Software,Licença de software,Fornecedor Digital,Operacional,741.34,2025-11-26,,Em Aberto,Conta Corrente,2025,11,November,T4,0.0,741.34,-741.34,True,False,False,,0
+2025-11-12,Despesa,Administrativa,Serviços Terceirizados,Serviços contábeis,Fornecedor Atlas,Financeiro,2555.24,2025-11-22,2025-11-20,Pago,Conta Investimento,2025,11,November,T4,0.0,2555.24,-2555.24,False,True,False,-2.0,0
+2025-11-12,Despesa,Operacional,Software,Sistemas corporativos,Fornecedor Central,RH,655.38,2025-12-12,2025-12-09,Pago,Conta Digital,2025,11,November,T4,0.0,655.38,-655.38,False,True,False,-3.0,0
+2025-11-12,Receita,Serviços,Assessoria,Assessoria financeira,Cliente Delta,Projetos,6177.71,2025-11-17,2025-11-16,Recebido,Conta Corrente,2025,11,November,T4,6177.71,0.0,6177.71,False,True,False,-1.0,0
+2025-11-13,Despesa,Administrativa,Serviços Terceirizados,Suporte técnico,Fornecedor Atlas,Comercial,2808.95,2025-11-23,2025-11-20,Pago,Conta Corrente,2025,11,November,T4,0.0,2808.95,-2808.95,False,True,False,-3.0,0
+2025-11-13,Despesa,Operacional,Energia,Conta de energia,Fornecedor Beta,Financeiro,398.49,2025-11-23,2025-11-20,Pago,Conta Digital,2025,11,November,T4,0.0,398.49,-398.49,False,True,False,-3.0,0
+2025-11-13,Despesa,Operacional,Internet,Internet empresarial,Fornecedor Prime,Financeiro,1951.74,2025-12-03,,Cancelado,Conta Digital,2025,11,November,T4,0.0,1951.74,-1951.74,False,False,False,,0
+2025-11-14,Despesa,Impostos,Tributos,Impostos e contribuições,Fornecedor Prime,RH,6053.57,2025-12-14,,Cancelado,Conta Investimento,2025,11,November,T4,0.0,6053.57,-6053.57,False,False,False,,0
+2025-11-14,Despesa,Operacional,Energia,Conta de energia,Fornecedor Atlas,Operacional,671.47,2025-11-19,,Cancelado,Conta Digital,2025,11,November,T4,0.0,671.47,-671.47,False,False,False,,0
+2025-11-14,Despesa,Operacional,Energia,Conta de energia,Fornecedor Atlas,TI,790.49,2025-12-14,,Cancelado,Conta Corrente,2025,11,November,T4,0.0,790.49,-790.49,False,False,False,,0
+2025-11-15,Despesa,Operacional,Aluguel,Aluguel do escritório,Fornecedor Digital,TI,6337.81,2025-12-05,2025-12-04,Pago,Conta Investimento,2025,11,November,T4,0.0,6337.81,-6337.81,False,True,False,-1.0,0
+2025-11-16,Receita,Serviços,Consultoria,Consultoria financeira,Cliente Delta,Projetos,4160.75,2025-12-01,2025-11-30,Recebido,Conta Investimento,2025,11,November,T4,4160.75,0.0,4160.75,False,True,False,-1.0,0
+2025-11-17,Despesa,Operacional,Aluguel,Aluguel do escritório,Fornecedor Atlas,Comercial,8995.76,2025-12-02,2025-12-01,Pago,Conta Investimento,2025,11,November,T4,0.0,8995.76,-8995.76,False,True,False,-1.0,0
+2025-11-17,Despesa,Pessoal,Salários,Folha de pagamento,Fornecedor Beta,Operacional,11313.82,2025-11-27,,Em Aberto,Conta Corrente,2025,11,November,T4,0.0,11313.82,-11313.82,True,False,False,,0
+2025-11-18,Receita,Serviços,Consultoria,Consultoria estratégica,Cliente Alpha,Projetos,5197.71,2025-11-23,2025-11-23,Recebido,Conta Digital,2025,11,November,T4,5197.71,0.0,5197.71,False,True,False,0.0,0
+2025-11-19,Despesa,Financeira,Juros,Juros e encargos,Fornecedor Prime,Comercial,775.76,2025-12-19,,Cancelado,Conta Corrente,2025,11,November,T4,0.0,775.76,-775.76,False,False,False,,0
+2025-11-19,Despesa,Operacional,Energia,Conta de energia,Fornecedor Beta,Financeiro,1387.24,2026-01-03,2026-01-01,Pago,Conta Investimento,2025,11,November,T4,0.0,1387.24,-1387.24,False,True,False,-2.0,0
+2025-11-19,Despesa,Pessoal,Benefícios,Vale alimentação,Fornecedor Digital,Administrativo,330.46,2025-12-19,2025-12-16,Pago,Conta Investimento,2025,11,November,T4,0.0,330.46,-330.46,False,True,False,-3.0,0
+2025-11-20,Receita,Serviços,Consultoria,Consultoria empresarial,Cliente Alpha,Projetos,4479.16,2025-12-05,2025-12-05,Recebido,Conta Corrente,2025,11,November,T4,4479.16,0.0,4479.16,False,True,False,0.0,0
+2025-11-21,Despesa,Comercial,Marketing,Publicidade digital,Fornecedor Central,RH,1269.56,2026-01-05,,Em Aberto,Conta Investimento,2025,11,November,T4,0.0,1269.56,-1269.56,True,False,False,,0
+2025-11-21,Despesa,Operacional,Software,Ferramenta de produtividade,Fornecedor Prime,Administrativo,716.02,2025-12-11,,Em Aberto,Conta Investimento,2025,11,November,T4,0.0,716.02,-716.02,True,False,False,,0
+2025-11-21,Receita,Serviços,Consultoria,Consultoria financeira,Cliente Delta,Consultoria,3878.94,2025-12-01,2025-11-30,Recebido,Conta Corrente,2025,11,November,T4,3878.94,0.0,3878.94,False,True,False,-1.0,0
+2025-11-22,Despesa,Financeira,Juros,Juros e encargos,Fornecedor Prime,Comercial,3876.27,2025-12-22,2025-12-19,Pago,Conta Digital,2025,11,November,T4,0.0,3876.27,-3876.27,False,True,False,-3.0,0
+2025-11-22,Despesa,Operacional,Energia,Conta de energia,Fornecedor Digital,Administrativo,259.57,2025-12-07,2025-12-07,Pago,Conta Digital,2025,11,November,T4,0.0,259.57,-259.57,False,True,False,0.0,0
+2025-11-23,Despesa,Comercial,Marketing,Publicidade digital,Fornecedor Atlas,Operacional,1338.54,2025-12-03,2025-12-03,Pago,Conta Corrente,2025,11,November,T4,0.0,1338.54,-1338.54,False,True,False,0.0,0
+2025-11-23,Despesa,Operacional,Internet,Internet empresarial,Fornecedor Atlas,Administrativo,370.47,2025-12-03,,Em Aberto,Conta Investimento,2025,11,November,T4,0.0,370.47,-370.47,True,False,False,,0
+2025-11-23,Receita,Serviços,Assessoria,Assessoria mensal,Cliente Gama,Projetos,12894.9,2026-01-07,2026-01-06,Recebido,Conta Investimento,2025,11,November,T4,12894.9,0.0,12894.9,False,True,False,-1.0,0
+2025-11-24,Despesa,Operacional,Aluguel,Aluguel do escritório,Fornecedor Digital,RH,6440.76,2025-12-04,2025-12-03,Pago,Conta Digital,2025,11,November,T4,0.0,6440.76,-6440.76,False,True,False,-1.0,0
+2025-11-25,Receita,Serviços,Projetos,Projeto de análise,Cliente Alpha,Projetos,7028.33,2025-12-25,2025-12-23,Recebido,Conta Corrente,2025,11,November,T4,7028.33,0.0,7028.33,False,True,False,-2.0,0
+2025-11-26,Despesa,Impostos,Tributos,Tributos sobre faturamento,Fornecedor Atlas,Financeiro,5752.71,2025-12-26,,Cancelado,Conta Corrente,2025,11,November,T4,0.0,5752.71,-5752.71,False,False,False,,0
+2025-11-26,Despesa,Pessoal,Benefícios,Vale alimentação,Fornecedor Atlas,RH,2092.52,2025-12-01,2025-12-01,Pago,Conta Investimento,2025,11,November,T4,0.0,2092.52,-2092.52,False,True,False,0.0,0
+2025-11-27,Despesa,Operacional,Software,Ferramenta de produtividade,Fornecedor Central,Financeiro,488.64,2025-12-27,2025-12-26,Pago,Conta Corrente,2025,11,November,T4,0.0,488.64,-488.64,False,True,False,-1.0,0
+2025-11-27,Receita,Outras Receitas,Recuperação de Créditos,Recuperação de valores,Cliente Beta,Comercial,4068.56,2025-12-07,,Cancelado,Conta Investimento,2025,11,November,T4,4068.56,0.0,4068.56,False,False,False,,0
+2025-11-27,Receita,Serviços,Projetos,Projeto de melhoria de processos,Cliente Alpha,Projetos,6159.17,2026-01-11,,Em Aberto,Conta Corrente,2025,11,November,T4,6159.17,0.0,6159.17,True,False,False,,0
+2025-12-01,Despesa,Pessoal,Benefícios,Vale transporte,Fornecedor Central,Administrativo,354.11,2025-12-31,2025-12-31,Pago,Conta Corrente,2025,12,December,T4,0.0,354.11,-354.11,False,True,False,0.0,0
+2025-12-02,Despesa,Administrativa,Material de Escritório,Material de escritório,Fornecedor Beta,Comercial,389.73,2026-01-31,,Atrasado,Conta Digital,2025,12,December,T4,0.0,389.73,-389.73,True,False,True,,0
+2025-12-03,Despesa,Administrativa,Serviços Terceirizados,Suporte técnico,Fornecedor Prime,Administrativo,3258.64,2026-01-02,,Atrasado,Conta Corrente,2025,12,December,T4,0.0,3258.64,-3258.64,True,False,True,,0
+2025-12-04,Despesa,Comercial,Marketing,Publicidade digital,Fornecedor Central,Operacional,1232.77,2025-12-09,2025-12-04,Pago,Conta Corrente,2025,12,December,T4,0.0,1232.77,-1232.77,False,True,False,-5.0,0
+2025-12-04,Despesa,Comercial,Marketing,Material institucional,Fornecedor Digital,RH,2912.07,2026-02-02,2026-01-31,Pago,Conta Corrente,2025,12,December,T4,0.0,2912.07,-2912.07,False,True,False,-2.0,0
+2025-12-04,Despesa,Operacional,Energia,Conta de energia,Fornecedor Digital,Operacional,463.03,2025-12-24,2025-12-19,Pago,Conta Corrente,2025,12,December,T4,0.0,463.03,-463.03,False,True,False,-5.0,0
+2025-12-04,Despesa,Operacional,Energia,Conta de energia,Fornecedor Atlas,Financeiro,1576.64,2026-01-03,,Em Aberto,Conta Corrente,2025,12,December,T4,0.0,1576.64,-1576.64,True,False,False,,0
+2025-12-05,Despesa,Administrativa,Serviços Terceirizados,Serviços jurídicos,Fornecedor Prime,TI,962.38,2026-02-03,2026-02-03,Pago,Conta Investimento,2025,12,December,T4,0.0,962.38,-962.38,False,True,False,0.0,0
+2025-12-05,Despesa,Administrativa,Serviços Terceirizados,Suporte técnico,Fornecedor Central,Financeiro,590.87,2025-12-20,2025-12-17,Pago,Conta Corrente,2025,12,December,T4,0.0,590.87,-590.87,False,True,False,-3.0,0
+2025-12-06,Despesa,Operacional,Internet,Internet empresarial,Fornecedor Prime,Comercial,1639.3,2026-01-05,,Em Aberto,Conta Corrente,2025,12,December,T4,0.0,1639.3,-1639.3,True,False,False,,0
+2025-12-06,Despesa,Operacional,Aluguel,Aluguel do escritório,Fornecedor Prime,Financeiro,7153.55,2026-01-05,2026-01-05,Pago,Conta Investimento,2025,12,December,T4,0.0,7153.55,-7153.55,False,True,False,0.0,0
+2025-12-06,Despesa,Operacional,Energia,Conta de energia,Fornecedor Atlas,Financeiro,1593.48,2025-12-26,2025-12-21,Pago,Conta Digital,2025,12,December,T4,0.0,1593.48,-1593.48,False,True,False,-5.0,0
+2025-12-06,Despesa,Pessoal,Benefícios,Vale transporte,Fornecedor Central,Administrativo,375.33,2025-12-21,2025-12-20,Pago,Conta Digital,2025,12,December,T4,0.0,375.33,-375.33,False,True,False,-1.0,0
+2025-12-07,Despesa,Comercial,Marketing,Material institucional,Fornecedor Central,Administrativo,2197.7,2026-01-21,,Atrasado,Conta Investimento,2025,12,December,T4,0.0,2197.7,-2197.7,True,False,True,,0
+2025-12-07,Despesa,Operacional,Software,Licença de software,Fornecedor Atlas,TI,543.92,2025-12-22,2025-12-20,Pago,Conta Digital,2025,12,December,T4,0.0,543.92,-543.92,False,True,False,-2.0,0
+2025-12-07,Despesa,Operacional,Energia,Conta de energia,Fornecedor Atlas,Comercial,1153.91,2025-12-22,2025-12-22,Pago,Conta Investimento,2025,12,December,T4,0.0,1153.91,-1153.91,False,True,False,0.0,0
+2025-12-08,Despesa,Comercial,Marketing,Material institucional,Fornecedor Beta,Comercial,1178.74,2026-01-07,2026-01-06,Pago,Conta Digital,2025,12,December,T4,0.0,1178.74,-1178.74,False,True,False,-1.0,0
+2025-12-08,Despesa,Financeira,Tarifas Bancárias,Tarifa bancária,Fornecedor Prime,Operacional,1787.94,2025-12-13,2025-12-12,Pago,Conta Digital,2025,12,December,T4,0.0,1787.94,-1787.94,False,True,False,-1.0,0
+2025-12-08,Despesa,Financeira,Tarifas Bancárias,Tarifa bancária,Fornecedor Beta,Operacional,575.37,2026-01-07,2026-01-04,Pago,Conta Digital,2025,12,December,T4,0.0,575.37,-575.37,False,True,False,-3.0,0
+2025-12-08,Despesa,Operacional,Internet,Internet empresarial,Fornecedor Atlas,RH,862.27,2026-02-06,2026-02-01,Pago,Conta Corrente,2025,12,December,T4,0.0,862.27,-862.27,False,True,False,-5.0,0
+2025-12-08,Receita,Outras Receitas,Recuperação de Créditos,Recuperação de valores,Cliente Gama,Projetos,1358.92,2026-01-22,,Cancelado,Conta Digital,2025,12,December,T4,1358.92,0.0,1358.92,False,False,False,,0
+2025-12-08,Receita,Serviços,Assessoria,Assessoria administrativa,Cliente Delta,Consultoria,9770.06,2025-12-13,,Em Aberto,Conta Investimento,2025,12,December,T4,9770.06,0.0,9770.06,True,False,False,,0
+2025-12-09,Despesa,Operacional,Software,Licença de software,Fornecedor Prime,Financeiro,887.64,2025-12-14,,Atrasado,Conta Digital,2025,12,December,T4,0.0,887.64,-887.64,True,False,True,,0
+2025-12-10,Despesa,Financeira,Tarifas Bancárias,Tarifa bancária,Fornecedor Atlas,RH,958.26,2025-12-20,2025-12-18,Pago,Conta Investimento,2025,12,December,T4,0.0,958.26,-958.26,False,True,False,-2.0,0
+2025-12-10,Receita,Serviços,Projetos,Projeto de implantação,Cliente Beta,Projetos,10199.32,2025-12-20,2025-12-20,Recebido,Conta Digital,2025,12,December,T4,10199.32,0.0,10199.32,False,True,False,0.0,0
+2025-12-11,Receita,Serviços,Projetos,Projeto de implantação,Cliente Ômega,Projetos,3158.33,2025-12-31,,Cancelado,Conta Corrente,2025,12,December,T4,3158.33,0.0,3158.33,False,False,False,,0
+2025-12-11,Receita,Serviços,Projetos,Projeto de análise,Cliente Alpha,Comercial,3776.61,2025-12-21,2025-12-18,Recebido,Conta Digital,2025,12,December,T4,3776.61,0.0,3776.61,False,True,False,-3.0,0
+2025-12-12,Despesa,Comercial,Marketing,Material institucional,Fornecedor Prime,Operacional,529.24,2026-01-11,2026-01-11,Pago,Conta Investimento,2025,12,December,T4,0.0,529.24,-529.24,False,True,False,0.0,0
+2025-12-12,Despesa,Pessoal,Benefícios,Vale alimentação,Fornecedor Digital,Administrativo,286.02,2025-12-17,,Em Aberto,Conta Corrente,2025,12,December,T4,0.0,286.02,-286.02,True,False,False,,0
+2025-12-12,Receita,Serviços,Assessoria,Assessoria administrativa,Cliente Gama,Projetos,6422.06,2025-12-17,2025-12-12,Recebido,Conta Corrente,2025,12,December,T4,6422.06,0.0,6422.06,False,True,False,-5.0,0
+2025-12-12,Receita,Serviços,Consultoria,Consultoria financeira,Cliente Gama,Projetos,18705.08,2026-01-01,,Atrasado,Conta Corrente,2025,12,December,T4,18705.08,0.0,18705.08,True,False,True,,0
+2025-12-12,Receita,Serviços,Consultoria,Consultoria empresarial,Cliente Beta,Comercial,15830.51,2026-01-11,2026-01-06,Recebido,Conta Corrente,2025,12,December,T4,15830.51,0.0,15830.51,False,True,False,-5.0,0
+2025-12-12,Receita,Serviços,Consultoria,Consultoria financeira,Cliente Ômega,Consultoria,3653.4,2025-12-27,,Atrasado,Conta Corrente,2025,12,December,T4,3653.4,0.0,3653.4,True,False,True,,0
+2025-12-13,Despesa,Comercial,Marketing,Publicidade digital,Fornecedor Beta,RH,844.69,2026-01-27,2026-01-24,Pago,Conta Corrente,2025,12,December,T4,0.0,844.69,-844.69,False,True,False,-3.0,0
+2025-12-14,Despesa,Financeira,Juros,Juros e encargos,Fornecedor Central,Operacional,2148.3,2025-12-19,2025-12-19,Pago,Conta Corrente,2025,12,December,T4,0.0,2148.3,-2148.3,False,True,False,0.0,0
+2025-12-14,Despesa,Impostos,Tributos,Impostos e contribuições,Fornecedor Beta,Operacional,7825.83,2025-12-29,2025-12-27,Pago,Conta Investimento,2025,12,December,T4,0.0,7825.83,-7825.83,False,True,False,-2.0,0
+2025-12-14,Receita,Serviços,Assessoria,Assessoria administrativa,Cliente Delta,Projetos,2430.9,2026-01-13,2026-01-12,Recebido,Conta Investimento,2025,12,December,T4,2430.9,0.0,2430.9,False,True,False,-1.0,0
+2025-12-14,Receita,Serviços,Assessoria,Assessoria financeira,Cliente Beta,Comercial,5319.06,2025-12-24,2025-12-23,Recebido,Conta Corrente,2025,12,December,T4,5319.06,0.0,5319.06,False,True,False,-1.0,0
+2025-12-15,Despesa,Administrativa,Material de Escritório,Material de escritório,Fornecedor Atlas,Financeiro,537.66,2025-12-30,2025-12-28,Pago,Conta Corrente,2025,12,December,T4,0.0,537.66,-537.66,False,True,False,-2.0,0
+2025-12-15,Despesa,Financeira,Tarifas Bancárias,Tarifa bancária,Fornecedor Prime,Financeiro,1325.67,2026-01-14,2026-01-09,Pago,Conta Investimento,2025,12,December,T4,0.0,1325.67,-1325.67,False,True,False,-5.0,0
+2025-12-15,Despesa,Pessoal,Benefícios,Plano de benefícios,Fornecedor Prime,Comercial,681.39,2025-12-20,2025-12-20,Pago,Conta Digital,2025,12,December,T4,0.0,681.39,-681.39,False,True,False,0.0,0
+2025-12-15,Receita,Serviços,Consultoria,Consultoria financeira,Cliente Ômega,Consultoria,8477.59,2026-01-14,2026-01-14,Recebido,Conta Digital,2025,12,December,T4,8477.59,0.0,8477.59,False,True,False,0.0,0
+2025-12-15,Receita,Serviços,Projetos,Projeto de análise,Cliente Beta,Consultoria,8048.59,2026-01-29,2026-01-29,Recebido,Conta Investimento,2025,12,December,T4,8048.59,0.0,8048.59,False,True,False,0.0,0
+2025-12-16,Receita,Serviços,Assessoria,Assessoria administrativa,Cliente Beta,Consultoria,3472.42,2025-12-26,2025-12-23,Recebido,Conta Digital,2025,12,December,T4,3472.42,0.0,3472.42,False,True,False,-3.0,0
+2025-12-17,Despesa,Pessoal,Salários,Folha de pagamento,Fornecedor Prime,RH,21238.34,2025-12-22,2025-12-17,Pago,Conta Digital,2025,12,December,T4,0.0,21238.34,-21238.34,False,True,False,-5.0,0
+2025-12-17,Receita,Serviços,Assessoria,Assessoria administrativa,Cliente Alpha,Projetos,8868.99,2026-01-06,,Em Aberto,Conta Investimento,2025,12,December,T4,8868.99,0.0,8868.99,True,False,False,,0
+2025-12-18,Receita,Outras Receitas,Recuperação de Créditos,Recuperação de valores,Cliente Beta,Projetos,4616.84,2026-01-17,2026-01-15,Recebido,Conta Investimento,2025,12,December,T4,4616.84,0.0,4616.84,False,True,False,-2.0,0
+2025-12-18,Receita,Serviços,Projetos,Projeto de análise,Cliente Ômega,Comercial,14086.89,2026-01-02,2025-12-30,Recebido,Conta Digital,2025,12,December,T4,14086.89,0.0,14086.89,False,True,False,-3.0,0
+2025-12-20,Receita,Serviços,Assessoria,Assessoria mensal,Cliente Ômega,Comercial,3379.5,2026-01-09,,Atrasado,Conta Corrente,2025,12,December,T4,3379.5,0.0,3379.5,True,False,True,,0
+2025-12-21,Receita,Serviços,Assessoria,Assessoria mensal,Cliente Gama,Projetos,7114.9,2025-12-26,,Atrasado,Conta Digital,2025,12,December,T4,7114.9,0.0,7114.9,True,False,True,,0
+2025-12-21,Receita,Serviços,Projetos,Projeto de melhoria de processos,Cliente Beta,Projetos,9828.67,2025-12-26,,Em Aberto,Conta Investimento,2025,12,December,T4,9828.67,0.0,9828.67,True,False,False,,0
+2025-12-21,Receita,Serviços,Consultoria,Consultoria estratégica,Cliente Delta,Projetos,4091.41,2025-12-31,,Em Aberto,Conta Corrente,2025,12,December,T4,4091.41,0.0,4091.41,True,False,False,,0
+2025-12-23,Despesa,Operacional,Energia,Conta de energia,Fornecedor Beta,Financeiro,404.54,2026-01-02,2026-01-02,Pago,Conta Digital,2025,12,December,T4,0.0,404.54,-404.54,False,True,False,0.0,0
+2025-12-23,Despesa,Operacional,Internet,Internet empresarial,Fornecedor Central,Comercial,1274.37,2026-01-12,2026-01-11,Pago,Conta Investimento,2025,12,December,T4,0.0,1274.37,-1274.37,False,True,False,-1.0,0
+2025-12-23,Despesa,Pessoal,Benefícios,Vale transporte,Fornecedor Beta,RH,1004.44,2026-02-06,,Em Aberto,Conta Investimento,2025,12,December,T4,0.0,1004.44,-1004.44,True,False,False,,0
+2025-12-24,Despesa,Operacional,Software,Ferramenta de produtividade,Fornecedor Central,Administrativo,493.63,2026-02-07,2026-02-06,Pago,Conta Corrente,2025,12,December,T4,0.0,493.63,-493.63,False,True,False,-1.0,0
+2025-12-24,Receita,Serviços,Projetos,Projeto de análise,Cliente Gama,Consultoria,28533.78,2026-02-22,2026-02-17,Recebido,Conta Digital,2025,12,December,T4,28533.78,0.0,28533.78,False,True,False,-5.0,0
+2025-12-25,Despesa,Operacional,Aluguel,Aluguel do escritório,Fornecedor Prime,Financeiro,9324.57,2026-01-09,,Cancelado,Conta Corrente,2025,12,December,T4,0.0,9324.57,-9324.57,False,False,False,,0
+2025-12-25,Receita,Outras Receitas,Recuperação de Créditos,Recuperação de valores,Cliente Alpha,Comercial,6964.45,2026-02-08,2026-02-07,Recebido,Conta Corrente,2025,12,December,T4,6964.45,0.0,6964.45,False,True,False,-1.0,0
+2025-12-26,Despesa,Administrativa,Serviços Terceirizados,Suporte técnico,Fornecedor Beta,TI,1346.35,2026-02-24,,Atrasado,Conta Investimento,2025,12,December,T4,0.0,1346.35,-1346.35,True,False,True,,0
+2025-12-26,Despesa,Comercial,Marketing,Material institucional,Fornecedor Beta,Operacional,637.58,2026-01-05,2025-12-31,Pago,Conta Investimento,2025,12,December,T4,0.0,637.58,-637.58,False,True,False,-5.0,0
+2025-12-26,Despesa,Operacional,Aluguel,Aluguel do escritório,Fornecedor Central,RH,7700.01,2026-01-25,2026-01-23,Pago,Conta Digital,2025,12,December,T4,0.0,7700.01,-7700.01,False,True,False,-2.0,0
+2025-12-26,Receita,Serviços,Consultoria,Consultoria financeira,Cliente Beta,Projetos,8704.16,2026-02-24,2026-02-24,Recebido,Conta Corrente,2025,12,December,T4,8704.16,0.0,8704.16,False,True,False,0.0,0
+2025-12-26,Receita,Serviços,Projetos,Projeto de implantação,Cliente Gama,Consultoria,8549.71,2026-02-24,,Em Aberto,Conta Investimento,2025,12,December,T4,8549.71,0.0,8549.71,True,False,False,,0
+2025-12-27,Receita,Serviços,Projetos,Projeto de melhoria de processos,Cliente Gama,Projetos,2262.58,2026-02-10,,Em Aberto,Conta Corrente,2025,12,December,T4,2262.58,0.0,2262.58,True,False,False,,0
+2025-12-27,Receita,Serviços,Consultoria,Consultoria estratégica,Cliente Gama,Projetos,21377.88,2026-01-26,2026-01-25,Recebido,Conta Corrente,2025,12,December,T4,21377.88,0.0,21377.88,False,True,False,-1.0,0
+2025-12-30,Despesa,Pessoal,Benefícios,Vale transporte,Fornecedor Beta,Administrativo,707.5,2026-01-19,2026-01-16,Pago,Conta Investimento,2025,12,December,T4,0.0,707.5,-707.5,False,True,False,-3.0,0
+2025-12-30,Receita,Outras Receitas,Recuperação de Créditos,Recuperação de valores,Cliente Beta,Comercial,18193.32,2026-01-14,2026-01-11,Recebido,Conta Investimento,2025,12,December,T4,18193.32,0.0,18193.32,False,True,False,-3.0,0
+2025-12-31,Despesa,Operacional,Software,Licença de software,Fornecedor Beta,RH,2131.93,2026-01-30,,Cancelado,Conta Investimento,2025,12,December,T4,0.0,2131.93,-2131.93,False,False,False,,0
+2025-12-31,Receita,Serviços,Assessoria,Assessoria financeira,Cliente Alpha,Projetos,5391.69,2026-01-20,2026-01-15,Recebido,Conta Corrente,2025,12,December,T4,5391.69,0.0,5391.69,False,True,False,-5.0,0
+2025-12-31,Receita,Serviços,Consultoria,Consultoria financeira,Cliente Ômega,Consultoria,3140.16,2026-01-10,2026-01-05,Recebido,Conta Investimento,2025,12,December,T4,3140.16,0.0,3140.16,False,True,False,-5.0,0
+2025-12-31,Receita,Serviços,Projetos,Projeto de análise,Cliente Gama,Projetos,5419.08,2026-01-05,2026-01-04,Recebido,Conta Corrente,2025,12,December,T4,5419.08,0.0,5419.08,False,True,False,-1.0,0
